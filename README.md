@@ -2,7 +2,7 @@
  
 > Microcurso autoformativo de noruego bokmål A0 → A1 a través de la cultura nórdica, para hispanohablantes adolescentes. Proyecto final de la asignatura **Producción de Materiales Educativos Digitales** del Máster en Letras Digitales (UCM), curso 2025-2026.
  
-**Curso publicado:** [https://noeliaov.github.io/curso-noruego/](https://noeliaov.github.io/curso-noruego/)
+**Curso publicado:** [https://noeliaov.github.io/curso-noruego/](https://NoeliaOviedo.github.io/curso-noruego/)
 **Autora:** Noelia Oviedo Marín
 **Licencia:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
  

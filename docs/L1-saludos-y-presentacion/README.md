@@ -1,9 +1,3 @@
----
-layout: default
-title: "L1 · Hei! Presentarse"
-description: "Primera lección del curso: saludos, alfabeto noruego (æ, ø, å) y cómo presentarte en una escena tipo Skam ambientada en un instituto de Oslo."
----
-
 # L1 · *Hei!* Saludar, presentarte y dominar las letras que asustan
 **Tiempo estimado: 30 minutos**
 
