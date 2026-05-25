@@ -13,11 +13,12 @@ Al terminar esta lección, serás capaz de:
 - **Preguntar** a otra persona su nombre, edad y procedencia.
 - **Identificar cognados** entre noruego e inglés que te ayudarán durante todo el curso.
 
-Esta lección tiene cuatro actividades:
+Esta lección tiene cinco actividades:
 
 📖 Lectura guiada: el alfabeto y los saludos (10 min)
 🎮 Visual novel: *Første dag på skolen* — primer día de clase (12 min)
 🧩 Empareja saludos con situaciones (4 min)
+✏️ Mini-ejercicios de autocorrección (4 min)
 💭 Reflexión final: el atajo germánico (4 min)
 
 Hazlas en orden. ¿Listo? *Vi setter i gang!* (¡Empezamos!)
@@ -37,17 +38,19 @@ Esa es la primera regla que tienes que interiorizar.
 
 En Noruega no hay una sola forma escrita del idioma: hay dos. **Bokmål** ("lengua del libro") es la que usa el 85% de la población, la de los medios, la de los manuales escolares y la que se enseña a los extranjeros. La otra se llama **nynorsk** y se usa más en zonas rurales del oeste del país. En este curso aprenderás bokmål, que es lo que necesitas para entender prácticamente cualquier cosa en Noruega.
 
-> 💡 **El primer atajo germánico:** *bok* significa "libro" en noruego. ¿A qué se parece en inglés? Exacto: *book*. Y *mål* significa "lengua, idioma". El noruego y el inglés son lenguas primas y vas a ver decenas de palabras como esta a lo largo del curso. Acostúmbrate a buscar la conexión con el inglés que ya sabes: es tu mejor herramienta.
+> 💡 **El primer atajo germánico:** *bok* significa "libro" en noruego. ¿A qué se parece en inglés? Exacto: *book*. Y *mål* significa "lengua, idioma". El noruego y el inglés son lenguas primas y vas a ver decenas de palabras como esta a lo largo del curso. Acostúmbrate a buscar la conexión con el inglés que ya sabes.
 
 ### El alfabeto noruego: 29 letras, no 26
 
 El alfabeto noruego tiene **las mismas 26 letras que el inglés más tres letras adicionales** que aparecen al final, después de la Z: **æ, ø, å**. Es importante saber que estas no son "letras decoradas" como la ñ española: son letras independientes, con su propio sitio en el alfabeto y su propio sonido.
 
-| Letra | Sonido aproximado | Ejemplo noruego | Significado |
-|-------|-------------------|-----------------|-------------|
-| **Æ æ** | Como la "a" de la palabra inglesa *cat*, abierta | *bær* | bayas |
-| **Ø ø** | Como la "u" de la palabra inglesa *burn* | *søster* | hermana |
-| **Å å** | Como la "o" de la palabra inglesa *born* | *gå* | ir, caminar |
+| Letra | Sonido aproximado | Ejemplo noruego | Significado | 🔊 Escuchar |
+|-------|-------------------|-----------------|-------------|-------------|
+| **Æ æ** | Como la "a" de la palabra inglesa *cat*, abierta | *bær* | bayas | [Forvo: bær](https://forvo.com/word/b%C3%A6r/#no) |
+| **Ø ø** | Como la "u" de la palabra inglesa *burn* | *søster* | hermana | [Forvo: søster](https://forvo.com/word/s%C3%B8ster/#no) |
+| **Å å** | Como la "o" de la palabra inglesa *born* | *gå* | ir, caminar | [Forvo: gå](https://forvo.com/word/g%C3%A5/#no) |
+
+> 🔊 **Cómo usar los audios**: haz clic en el enlace, te lleva a Forvo (un diccionario libre de pronunciaciones grabadas por hablantes nativos). Busca grabaciones marcadas como "Norwegian Bokmål" o realizadas en Oslo. **Escucha cada palabra al menos dos veces** antes de pasar a la siguiente. No intentes imitarla todavía, solo familiarízate con el sonido.
 
 > ⚠️ **Aviso importante**: en este curso vas a usar el noruego como se habla en el este (Oslo y alrededores), que es la variedad que se enseña a los extranjeros y se considera estándar. Hay muchos dialectos en Noruega y pueden sonar bastante diferentes, pero entender bien la variedad de Oslo te permite seguir cualquier conversación.
 
@@ -155,6 +158,41 @@ Arrastra cada saludo o expresión a la situación que mejor le encaja. **Puedes 
 ➡️ **Abrir la actividad de emparejamiento** *(se descargará como paquete SCORM importable a Moodle u otra plataforma compatible)*: [scorm-saludos.zip](scorm-saludos.zip)
 
 ---
+### Ejercicio 4 — Detective de cognados
+ 
+Mira estas seis palabras noruegas. **Cuatro de ellas tienen un cognado claro en inglés**. Identifica cuáles y escribe su pariente inglés al lado:
+ 
+1. *hus* → ______________________
+2. *jente* (chica) → ______________________
+3. *sommer* → ______________________
+4. *gutt* (chico) → ______________________
+5. *vinter* → ______________________
+6. *bok* → ______________________
+---
+ 
+<details>
+<summary><strong>🔎 Mostrar respuestas</strong> (haz clic para desplegar)</summary>
+**Ejercicio 1:**
+ 
+1. *Hei, jeg heter Marta.*
+2. *Jeg kommer fra Spania.*
+3. *Jeg er 15 år gammel.* (o *Jeg er 15.*)
+4. *Hyggelig å møte deg.*
+5. *Ha det, vi sees.* (o *Ha det bra!*)
+**Ejercicio 2:** 1-c, 2-d, 3-a, 4-b.
+ 
+**Ejercicio 3:**
+ 
+1. *Hei* (informal, entre compañeros).
+2. *God kveld* (es de noche, y entrar a un sitio justifica el saludo más completo). *Hei* también valdría, sería más casual.
+3. *Hei* (en interacciones breves de comercio, *hei* es la norma).
+4. *Hallo* (es lo que se dice por teléfono) o *Hei*.
+**Ejercicio 4:** los cognados claros son **hus** (*house*), **sommer** (*summer*), **vinter** (*winter*) y **bok** (*book*). *Jente* y *gutt* no tienen cognado evidente en inglés actual.
+ 
+</details>
+> 💡 **Si has fallado más de la mitad de un ejercicio**: no pasa nada, vuelve a la lectura y repásalo. La idea no es aprobar nada, sino que detectes qué necesitas reforzar antes de pasar a la siguiente lección.
+ 
+---
 
 ## 💭 Reflexión rápida: el atajo germánico
 **Tiempo estimado: 4 minutos**
@@ -182,30 +220,50 @@ Esta actividad no se evalúa. Solo te sirve para **hacerte consciente** de un me
 
 ---
 
+**Tiempo estimado: 4 minutos**
+ 
+Cierra la lección con una vuelta al principio. Al empezar te dije esto:
+ 
+> *"Si ya sabes inglés, llevas medio camino hecho."*
+ 
+Ahora que has visto las primeras frases del noruego, vas a comprobarlo tú mismo.
+ 
+### Instrucciones
+ 
+Mira esta frase en noruego y compárala palabra por palabra con su traducción inglesa:
+ 
+> 🇳🇴 ***Jeg er seksten år gammel og jeg kommer fra Spania.***
+>
+> 🇬🇧 *I am sixteen years old and I come from Spain.*
+ 
+Cuenta cuántas palabras noruegas se parecen claramente a su equivalente inglesa. Después, escribe una respuesta corta (3-5 frases) contestando estas preguntas:
+ 
+1. ¿Cuántas palabras has encontrado que se parezcan al inglés?
+2. ¿Crees que esto te va a ayudar en las próximas lecciones? ¿Por qué?
+3. ¿Qué te ha resultado más raro de esta primera lección (los sonidos de æ/ø/å, el orden de las palabras, las dos formas de escribir el idioma…)?
+Esta actividad no se evalúa. Solo te sirve para **hacerte consciente** de un mecanismo que vas a explotar durante todo el curso: cada vez que aprendas una palabra nueva en noruego, párate un segundo a buscar su pariente en inglés. Es la herramienta más potente que tienes a tu disposición.
+ 
+---
+ 
 ## Resumen de la lección
-
+ 
 Si has llegado hasta aquí, ya sabes:
-
+ 
 - ✅ Saludar en noruego según el contexto: *hei*, *god morgen*, *god kveld*, *ha det*.
 - ✅ Reconocer las tres letras especiales del alfabeto noruego: **æ, ø, å**.
 - ✅ Presentarte: nombre, edad, procedencia.
 - ✅ Preguntar lo mismo a otra persona: *hva heter du?*, *hvor gammel er du?*, *hvor kommer du fra?*
 - ✅ Detectar cognados germánicos para ahorrarte memorización.
-
 En la próxima lección verás los **números, los días de la semana y los meses**, y entrarás de lleno en una fecha clave para entender Noruega: el ***17. mai***, el día nacional.
-
-➡️ **Continuar a [L2 · *Tall og tid* — Números y tiempo](../L2-tall-og-tid/)**
-
-⬅️ Volver a [la portada del curso](../)
-
+ 
 ---
-
+ 
 ## Fuentes y créditos de esta lección
-
+ 
 Contenido elaborado a partir de fuentes verificadas sobre la lengua noruega:
-
+ 
 - Norwegian University of Science and Technology (NTNU). *NoW 1 — Pronunciation*. [ntnu.edu/now/1/pronunciation](https://www.ntnu.edu/now/1/pronunciation)
 - Wikipedia. *Help:IPA/Norwegian*. Variante Urban East Norwegian. [en.wikipedia.org/wiki/Help:IPA/Norwegian](https://en.wikipedia.org/wiki/Help:IPA/Norwegian)
+- Forvo. *Norwegian pronunciations* (audios bajo licencia CC). [forvo.com/languages/no](https://forvo.com/languages/no/)
 - Cruttenden, A. (2014). *Gimson's pronunciation of English* (8.ª ed.). Routledge. (referencia comparativa)
-
 Las equivalencias fonéticas con el inglés se ofrecen como aproximación didáctica para A0; no sustituyen la transcripción IPA completa, que se introducirá en niveles posteriores.

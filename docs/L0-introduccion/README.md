@@ -36,18 +36,18 @@ Piensa un momento por qué has comenzado este curso. ¿Una serie? ¿Un videojueg
 
 La presentación recorre, en 12 diapositivas, los puntos que necesitas conocer antes de empezar:
 
-1. **Noruega en cifras**: 5,5 millones de hablantes, dos formas escritas oficiales, decenas de dialectos.
-2. **Bokmål vs. nynorsk**: por qué hay dos noruegos escritos, cuál usa el 85% de la población y cuál vas a aprender aquí.
-3. **El árbol germánico**: por qué noruego e inglés son lenguas primas, no extrañas.
-4. **El atajo germánico, demostrado**: una tabla de palabras donde el noruego salta a la vista si sabes inglés.
-5. **Las tres letras invitadas**: æ, ø, å, qué hacen y por qué no son decoraciones.
-6. **Qué NO vas a aprender aquí**: gestionar expectativas (no vas a salir hablando, vas a salir entendiendo).
-7. **Qué SÍ vas a aprender**: nivel A1 del MCER, presentaciones, números, lugares, comida, familia, mitología.
-8. **Cómo está organizado**: 6 lecciones temáticas, sesiones cortas.
-9. **Los tipos de material**: páginas web, narrativas interactivas, EPUB, PDF, cuestionarios.
-10. **El método**: la cultura es el vehículo de la lengua y no un adorno.
-11. **Tu mejor herramienta**: la pregunta que tienes que hacerte ante cada palabra nueva.
-12. **El primer paso**: cómo seguir.
+1. **Noruega básica**: ubicación, dimensiones, vecinos.
+2. **Población**: 5,6 millones de habitantes (enero 2026), uno de los países menos densamente poblados de Europa.
+3. **Ciudades principales**: Oslo, Bergen, Trondheim, Stavanger, Tromsø.
+4. **Dato curioso**: el sol que no sale y las palabras intraducibles (*koselig*, *friluftsliv*).
+5. **Árbol germánico**: por qué noruego, sueco, danés e islandés son lenguas primas.
+6. **Bokmål vs. nynorsk**: las dos formas escritas oficiales del noruego.
+7. **Las tres letras invitadas**: æ, ø, å.
+8. **El atajo del inglés**: por qué ya sabes el 30-40% del noruego básico.
+9. **Cultura nórdica como gancho**: series, gaming, mitología, música.
+10. **Cómo se aprovecha eso en este curso**: lección a lección.
+11. **Recopilación**: lo que necesitas tener claro antes de seguir.
+12. **El primer paso**: cómo continuar.
 
 ➡️ **Abrir la presentación** *(se abre en una nueva pestaña)*: [Presentación L0 — ¿Por qué noruego?](presentacion-reveal/index.html)
 
@@ -64,7 +64,7 @@ Cierras la presentación y vuelves aquí. Antes de pasar a la primera lección d
 2. **¿Qué te gustaría poder hacer al terminarlo?** Aquí también, concreto: entender los diálogos de *Skam* sin subtítulos, leer una receta en una caja de *brunost*, entender la letra de una canción de Aurora...
 3. **¿Qué crees que va a ser lo más difícil para ti?** Las letras æ, ø, å, los números, el orden de las palabras, la pronunciación... Cualquier intuición vale.
 
-> ⚠️ **No pierdas esa reflexión**. Cuando termines L6 (la última lección), vuelve a estas respuestas y compáralas con dónde estás entonces. Es la mejor manera de ver cuánto has aprendido — mucho más que un examen.
+> ⚠️ **No pierdas esta reflexión**. Cuando termines L6 (la última lección), vuelve a estas respuestas y compáralas con dónde estás entonces. Es la mejor manera de ver cuánto has aprendido — mucho más que un examen.
 
 Esta reflexión no se evalúa. Sirve para una sola cosa: **convertir un curso autoformativo en un compromiso contigo**. Sin profesor que te empuje, lo único que mantiene el curso vivo es saber a dónde vas.
 
