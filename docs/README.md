@@ -1,11 +1,3 @@
-# Portada del curso con índice y explicación
-
----
-layout: default
-title: "Velkommen til Norge! · Curso de noruego A0 → A1"
-description: "Microcurso autoformativo de noruego bokmål a través de la cultura nórdica, para hispanohablantes desde cero."
----
-
 ![Imagen de portada del curso — paisaje noruego con título Velkommen til Norge!](assets/img/portada.jpg)
 
 # Velkommen til Norge!
@@ -16,7 +8,7 @@ Seamos sinceros: te has acercado al noruego porque algo te ha enganchado primero
 
 Y ahora te encuentras con un problema.
 
-Cuando buscas un curso de noruego en español, lo que encuentras son listas interminables de vocabulario, manuales gruesos pensados para gente que se muda a Oslo por trabajo, o vídeos sueltos de YouTube que no llevan a ningún sitio. Nada hecho para alguien como tú: que no tiene examen mañana, ni se muda en seis meses, pero quiere **entender la lengua de la cultura que ya le interesa**.
+Cuando buscas un curso de noruego en español, lo que encuentras son listas interminables de vocabulario, manuales pensados para gente que se muda a Oslo por trabajo, o vídeos sueltos de YouTube que no llevan a ningún sitio. Nada hecho para alguien como tú: que no tiene examen mañana, ni se muda en seis meses, pero quiere **entender la lengua de la cultura que ya le interesa**.
 
 Este curso está diseñado para eso.
 
@@ -26,29 +18,29 @@ Hay un secreto que casi nadie te cuenta cuando empiezas con el noruego: **si ya 
 
 | Noruego | Inglés | Español |
 |---------|--------|---------|
-| hus     | house  | casa    |
-| bok     | book   | libro   |
-| vann    | water  | agua    |
-| gå      | go     | ir      |
-| komme   | come   | venir   |
+| Hus     | House  | Casa    |
+| Bok     | Book   | Libro   |
+| Vann    | Water  | Agua    |
+| Gå      | Go     | Ir      |
+| Komme   | Come   | Venir   |
 
-No es casualidad: las dos vienen de la misma familia germánica. Por eso este curso parte de tu inglés del instituto como trampolín y te ahorra meses de esfuerzo que otros métodos pierden empezando desde cero como si nunca hubieras visto una lengua extranjera.
+No es casualidad: las dos provienen de la misma familia germánica. Por eso este curso parte de tu inglés del instituto como trampolín y te ahorra meses de esfuerzo que otros métodos pierden empezando desde cero como si nunca hubieras visto una lengua extranjera.
 
 ## Lo que vas a conseguir
 
 En unas **3 horas repartidas en sesiones cortas**, vas a pasar del cero absoluto al **nivel A1 del MCER**. Cuando termines el curso, serás capaz de:
 
-- **Reconocer** las letras especiales del noruego (æ, ø, å) y pronunciarlas sin que te suenen como un trabalenguas.
+- **Reconocer** las letras especiales del noruego (æ, ø, å) y saber pronunciarlas.
 - **Entender** mensajes cortos, presentaciones personales, números, fechas, direcciones y vocabulario básico de comida, familia y ocio.
 - **Decir** quién eres, de dónde vienes, qué te gusta y qué necesitas en situaciones cotidianas como pedir en una cafetería o preguntar por una dirección.
 - **Leer** microtextos adaptados sobre mitología nórdica y tradiciones noruegas con la ayuda de un glosario.
 - **Detectar** los referentes culturales que aparecen en las series, canciones y videojuegos que ya consumes.
 
-No vas a salir hablando noruego con fluidez. Eso sería mentirte. Pero vas a salir con una base sólida desde la que seguir aprendiendo por tu cuenta, y con la lengua dejará de sonarte a ruido para empezar a sonarte a algo.
+No vas a salir hablando noruego con fluidez. Eso sería mentirte. Pero vas a salir con una base sólida desde la que seguir aprendiendo por tu cuenta.
 
 ## Cómo está organizado el curso
 
-El curso se compone de **siete bloques cortos** que puedes hacer en el orden que prefieras, aunque te recomendamos seguirlos uno detrás del otro porque el vocabulario de cada lección reaparece en las siguientes.
+El curso se compone de **siete bloques cortos** que puedes hacer en el orden que prefieras, aunque te recomendamos seguirlos uno detrás de otro porque el vocabulario de cada lección reaparece en las siguientes.
 
 ![Esquema visual del itinerario L0 → L6 — imagen pendiente de añadir](assets/img/itinerario.png)
 
@@ -76,7 +68,7 @@ Aprenderás a pedir un café como en Oslo, a leer un menú básico y a reconocer
 **Hablar de los tuyos y de lo que te gusta.**
 Vocabulario de familia, aficiones y el famoso *friluftsliv* (la filosofía noruega del aire libre). Otro cuadernillo de ejercicios para practicar offline.
 
-### L6 · *Mytologi* — Mitología y relatos · 30 min
+### L6 · *Mytologi* — Mitología · 30 min
 **Odín, Thor y Loki en noruego para A1.**
 Lectura guiada de microcuentos mitológicos adaptados a tu nivel, con glosario y comprensión secuenciada. La mejor forma de ver cuánto has aprendido: leyendo algo que de verdad te interese.
 
@@ -97,7 +89,7 @@ Todo el material está hecho para que lo uses **a tu ritmo**, desde el móvil o 
 
 Tres cosas que conviene que sepas:
 
-1. **No hay nota ni certificado.** Este curso es totalmente gratuito y libre. No hay examen final ni acreditación oficial: el premio es entender el noruego que antes te sonaba a ruido.
+1. **No hay nota ni certificado.** Este curso es totalmente gratuito y libre. No hay examen final ni acreditación oficial: el premio es entender el noruego.
 2. **Tu inglés es el copiloto.** A lo largo de las lecciones verás comparaciones con el inglés. No las saltes: son el atajo más potente que tienes para aprender más rápido.
 3. **Equivocarse es parte del proceso.** Las narrativas interactivas están diseñadas precisamente para que pruebes, te equivoques y vuelvas a intentarlo sin que nadie te mire. Aprovéchalo.
 

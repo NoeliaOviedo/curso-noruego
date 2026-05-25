@@ -1,7 +1,7 @@
 # L0 · ¿Por qué noruego? Lo que necesitas saber antes de empezar
 **Tiempo estimado: 15 minutos**
 
-Bienvenido a la lección 0. Esta no es una lección de noruego propiamente dicha, sino una lección **introductoria**. Antes de comenzar saber cómo saludar, comunicarte o pedir un café, hay tres cosas que necesitas entender:
+Bienvenido a la lección 0. Esta no es una lección de noruego propiamente dicha, sino una lección **introductoria**. Antes de comenzar para saber cómo comunicarte, hay tres cosas que necesitas entender:
 
 1. Qué clase de idioma es el noruego y por qué hay **dos versiones escritas**.
 2. Por qué el inglés es una **gran ventaja** para aprender noruego.
@@ -20,7 +20,8 @@ Esta lección tiene dos actividades:
 🎞️ Presentación visual: ¿Por qué noruego? (10 min)
 💭 Reflexión inicial: tus expectativas (5 min)
 
-Hazlas en orden. ¿Listo? *Vi setter i gang!*
+Hazlas en orden. ¿Listo? 
+*Vi setter i gang!*
 
 ---
 
