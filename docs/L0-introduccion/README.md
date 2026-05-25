@@ -49,9 +49,9 @@ La presentación recorre, en 12 diapositivas, los puntos que necesitas conocer a
 11. **Tu mejor herramienta**: la pregunta que tienes que hacerte ante cada palabra nueva.
 12. **El primer paso**: cómo seguir.
 
-➡️ **Abrir la presentación** *(se abre en una nueva pestaña)*: [Presentación L0 — ¿Por qué noruego?](presentacion-reveal/)
+➡️ **Abrir la presentación** *(se abre en una nueva pestaña)*: [Presentación L0 — ¿Por qué noruego?](presentacion-reveal/index.html)
 
-> 💡 **Cómo navegar por la presentación**: usa las flechas del teclado (← →) o pulsa los iconos de navegación. Si quieres una vista general, pulsa **`Esc`** y verás todas las diapositivas a la vez. Para volver a la diapositiva, pulsa de nuevo **`Esc`**.
+> 💡 **Cómo navegar por la presentación**: usa las flechas del teclado (← →) o pulsa los iconos de navegación.
 
 ---
 
