@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>L2 · Quiz de números noruegos · Velkommen til Norge!</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="container">
+    <header class="header">
+      <p class="breadcrumb">Velkommen til Norge! · L2 · <span>Cuestionario interactivo</span></p>
+      <h1>✅ Números noruegos en contexto</h1>
+      <p class="intro">
+        10 preguntas sobre números, días, meses y festividades del calendario noruego.
+        Tres tipos de pregunta: <strong>opción múltiple</strong>, <strong>rellena el hueco</strong> y <strong>asociación</strong>.
+        Responde todas y pulsa <strong>Enviar</strong> al final para ver tu puntuación y las explicaciones de cada pregunta.
+      </p>
+    </header>
+
+    <section class="progress-bar-wrapper" aria-label="Progreso del cuestionario">
+      <div class="progress-bar">
+        <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+      </div>
+      <p class="progress-text"><span id="progressCount">0</span> / 10 respondidas</p>
+    </section>
+
+    <form id="quizForm" class="quiz-form" novalidate>
+      <!-- Las preguntas se generan dinámicamente desde quiz.js -->
+    </form>
+
+    <div class="submit-row">
+      <button id="submitBtn" type="button" class="btn btn-primary" disabled>
+        Enviar respuestas
+      </button>
+      <button id="resetBtn" type="button" class="btn btn-secondary hidden">
+        Volver a intentar
+      </button>
+    </div>
+
+    <section id="finalResult" class="final-result hidden">
+      <h2 id="finalTitle"></h2>
+      <p id="finalMessage"></p>
+      <div class="score-display">
+        <span class="score-number" id="scoreNumber">0</span>
+        <span class="score-total">/ 10</span>
+      </div>
+    </section>
+
+    <aside class="info-box">
+      <p><strong>📦 ¿Eres profesor/a o trabajas con un LMS?</strong></p>
+      <p>Este mismo cuestionario está disponible como <strong>paquete QTI 1.2</strong> descargable, listo para importar a Moodle, Canvas o Blackboard:</p>
+      <p>
+        <a href="../quiz-numeros.qti.zip" download>📥 Descargar paquete QTI</a> ·
+        <a href="../quiz-numeros-clave.pdf" download>📄 Clave de corrección (PDF)</a>
+      </p>
+    </aside>
+  </main>
+
+  <script src="quiz.js"></script>
+</body>
+</html>
