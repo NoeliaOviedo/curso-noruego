@@ -1,0 +1,1032 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Det norske året — El año noruego mes a mes · Velkommen til Norge!</title>
+  <meta name="description" content="Anexo cultural del curso Velkommen til Norge! que recorre el calendario noruego mes a mes.">
+  <meta name="author" content="Noelia Oviedo Marín">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --color-primary:     #1a3a5c;
+      --color-secondary:   #2c5f8d;
+      --color-accent:      #c97b3c;
+      --color-accent-soft: #f4e4d4;
+      --color-bg:          #fafbfc;
+      --color-bg-alt:      #eef2f6;
+      --color-text:        #2a2e35;
+      --color-text-soft:   #5a6072;
+      --color-border:      #d8dde5;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: 'Lora', Georgia, serif;
+      color: var(--color-text);
+      background-color: var(--color-bg);
+      line-height: 1.65;
+    }
+
+    .header-bar {
+      background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+      color: white;
+      padding: 1.4rem 1.5rem;
+      margin-bottom: 2rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+
+    .header-bar .inner {
+      max-width: 720px;
+      margin: 0 auto;
+    }
+
+    .header-bar .breadcrumb {
+      font-family: 'Inter', sans-serif;
+      font-size: 0.78rem;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      opacity: 0.85;
+      margin: 0 0 0.4rem 0;
+    }
+
+    .header-bar h1 {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      font-size: 1.8rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    .header-bar .subtitle {
+      font-family: 'Lora', serif;
+      font-style: italic;
+      opacity: 0.92;
+      margin: 0.3rem 0 0 0;
+      font-size: 1.05rem;
+    }
+
+    .back-link {
+      display: inline-block;
+      margin-bottom: 0.6rem;
+      color: white;
+      text-decoration: none;
+      font-family: 'Inter', sans-serif;
+      font-size: 0.85rem;
+      opacity: 0.85;
+    }
+
+    .back-link:hover { opacity: 1; }
+
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 0 1.5rem 4rem;
+    }
+
+    h1 {
+      font-family: 'Inter', sans-serif;
+      color: var(--color-primary);
+      font-size: 1.7rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      margin-top: 3rem;
+      margin-bottom: 1rem;
+      padding-bottom: 0.4rem;
+      border-bottom: 2px solid var(--color-accent);
+    }
+
+    h1:first-of-type { margin-top: 0.5rem; }
+
+    h2 {
+      font-family: 'Inter', sans-serif;
+      color: var(--color-secondary);
+      font-size: 1.25rem;
+      margin-top: 1.8rem;
+      margin-bottom: 0.4rem;
+    }
+
+    p {
+      margin: 0.7rem 0;
+    }
+
+    em {
+      color: var(--color-secondary);
+      font-style: italic;
+    }
+
+    strong {
+      color: var(--color-primary);
+      font-weight: 600;
+    }
+
+    blockquote {
+      background-color: var(--color-accent-soft);
+      border-left: 4px solid var(--color-accent);
+      padding: 0.85rem 1.2rem;
+      margin: 1.5rem 0;
+      border-radius: 0 6px 6px 0;
+    }
+
+    blockquote p {
+      margin: 0.4rem 0;
+    }
+
+    blockquote strong {
+      color: var(--color-accent);
+    }
+
+    blockquote em {
+      color: var(--color-primary);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.2rem 0;
+      font-family: 'Inter', sans-serif;
+      font-size: 0.9rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+      border-radius: 6px;
+      overflow: hidden;
+    }
+
+    th {
+      background-color: var(--color-primary);
+      color: white;
+      text-align: left;
+      padding: 0.65rem 0.9rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      font-size: 0.78rem;
+    }
+
+    td {
+      padding: 0.55rem 0.9rem;
+      border-bottom: 1px solid var(--color-border);
+    }
+
+    tr:nth-child(even) td {
+      background-color: var(--color-bg-alt);
+    }
+
+    td em {
+      color: var(--color-primary);
+      font-weight: 600;
+      font-style: italic;
+    }
+
+    figure {
+      margin: 1.5rem 0;
+      text-align: center;
+    }
+
+    figure img {
+      max-width: 100%;
+      border-radius: 8px;
+      box-shadow: 0 4px 14px rgba(26, 58, 92, 0.15);
+    }
+
+    figcaption {
+      display: none;
+    }
+
+    ul, ol {
+      padding-left: 1.5rem;
+    }
+
+    li {
+      margin: 0.3rem 0;
+    }
+
+    .download-cta {
+      background-color: var(--color-bg-alt);
+      border-left: 3px solid var(--color-secondary);
+      padding: 1rem 1.3rem;
+      margin: 2rem 0;
+      border-radius: 4px;
+      font-family: 'Lora', serif;
+      font-size: 0.95rem;
+    }
+
+    .download-cta p { margin: 0.3rem 0; }
+
+    .download-cta a {
+      color: var(--color-secondary);
+      font-weight: 600;
+      text-decoration: none;
+      border-bottom: 1px solid transparent;
+    }
+
+    .download-cta a:hover {
+      border-bottom-color: var(--color-accent);
+    }
+
+    @media (max-width: 600px) {
+      h1 { font-size: 1.4rem; }
+      h2 { font-size: 1.1rem; }
+      .header-bar h1 { font-size: 1.4rem; }
+      .container { padding: 0 1rem 2.5rem; }
+    }
+  </style>
+</head>
+<body>
+  <header class="header-bar">
+    <div class="inner">
+      <a href="../" class="back-link">← Volver a L2</a>
+      <p class="breadcrumb">Velkommen til Norge! · L2 · Anexo cultural</p>
+      <h1>Det norske året</h1>
+      <p class="subtitle">El año noruego mes a mes</p>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <div class="download-cta">
+      <p><strong>📚 ¿Prefieres leerlo offline?</strong></p>
+      <p>Esta lectura también está disponible como <a href="../det-norske-aret.epub" download>archivo EPUB descargable</a>, perfecto para leerlo con calma en un lector electrónico, móvil o tablet.</p>
+    </div>
+
+<h1 id="sobre-este-anexo">Sobre este anexo</h1>
+<p><em>Det norske året</em> (El año noruego) es un <strong>anexo
+cultural</strong> del curso <em>Velkommen til Norge!</em>, pensado como
+lectura larga complementaria a la <strong>Lección 2 — Tall og
+tid</strong>. No contiene ejercicios: está pensado para <strong>leer con
+calma</strong>, en el móvil o en un lector electrónico, sin prisa por
+aprender.</p>
+<p>A lo largo de doce capítulos cortos — uno por mes — descubrirás:</p>
+<ul>
+<li><strong>Una palabra noruega intraducible</strong> que captura algo
+único del mes.</li>
+<li><strong>Vocabulario práctico</strong> que vas a usar si visitas
+Noruega en esa época.</li>
+<li><strong>Una tradición o festividad</strong> clave para entender la
+cultura noruega.</li>
+</ul>
+<p>Los noruegos viven el año marcado por la luz: cuándo desaparece,
+cuándo vuelve, qué se hace mientras tanto. Si entiendes su calendario,
+entiendes medio país.</p>
+<blockquote>
+<p><em>God lesning!</em> (Buena lectura.)</p>
+</blockquote>
+<h1 id="januar-enero">Januar — Enero</h1>
+<figure>
+<img src="images/01-januar.png" alt="Enero" />
+<figcaption aria-hidden="true">Enero</figcaption>
+</figure>
+<blockquote>
+<p><strong>Palabra intraducible: <em>nyttårsforsetter</em></strong></p>
+<p>Literalmente “propósitos de Año Nuevo”. Como en muchas culturas, los
+noruegos los formulan en enero — pero hay un giro: en encuestas, casi la
+mitad de los noruegos confiesa que sus <em>nyttårsforsetter</em> tienen
+que ver con hacer más ejercicio al aire libre. Coherente con un país
+donde <em>friluftsliv</em> (la vida al aire libre) es prácticamente una
+religión laica.</p>
+</blockquote>
+<p><strong>Tradición:</strong> el <strong>1 de enero</strong> es festivo
+nacional. La mayoría de los noruegos se quedan en casa recuperándose de
+la <em>nyttårsaften</em> (Nochevieja). En las ciudades, los fuegos
+artificiales privados han sido restringidos progresivamente: ahora solo
+los profesionales pueden lanzarlos.</p>
+<p><strong>Vocabulario del mes:</strong></p>
+<ul>
+<li><em>nyttår</em> — año nuevo</li>
+<li><em>snø</em> — nieve</li>
+<li><em>kaldt</em> — frío <em>(adjetivo)</em></li>
+<li><em>peis</em> — chimenea</li>
+<li><em>å hvile</em> — descansar</li>
+</ul>
+<blockquote>
+<p>💡 <em>Snø</em> (nieve) y el inglés <em>snow</em> son cognados
+directos. Y <em>peis</em> es un préstamo del francés <em>pièce</em>,
+igual que el inglés <em>fireplace</em>.</p>
+</blockquote>
+<h1 id="februar-febrero">Februar — Febrero</h1>
+<figure>
+<img src="images/02-februar.png" alt="Febrero" />
+<figcaption aria-hidden="true">Febrero</figcaption>
+</figure>
+<blockquote>
+<p><strong>Palabra intraducible: <em>mørketid</em></strong></p>
+<p>“Tiempo oscuro”. En el norte de Noruega, especialmente por encima del
+Círculo Polar Ártico, el sol no sale durante semanas entre noviembre y
+enero. En Tromsø, el sol regresa por primera vez sobre el <strong>21 de
+enero</strong> — y los habitantes lo celebran con la
+<strong><em>soldagen</em></strong> (“día del sol”), saliendo a
+recibirlo. Febrero es el mes en que la luz vuelve poco a poco, y se nota
+en el ánimo general.</p>
+</blockquote>
+<p><strong>Tradición:</strong> <strong><em>fastelavn</em></strong>, el
+equivalente noruego al carnaval, se celebra siete semanas antes de
+Pascua (suele caer en febrero o marzo). El plato estrella es el
+<strong><em>fastelavnsbolle</em></strong>: un bollo de cardamomo relleno
+de nata y mermelada que se vende en todas las panaderías.</p>
+<p><strong>Vocabulario del mes:</strong></p>
+<ul>
+<li><em>lys</em> — luz / claro</li>
+<li><em>sol</em> — sol</li>
+<li><em>bolle</em> — bollo</li>
+<li><em>vinter</em> — invierno</li>
+<li><em>å spise</em> — comer</li>
+</ul>
+<blockquote>
+<p>💡 <em>Vinter</em> / <em>winter</em> y <em>sol</em> / <em>sun</em>:
+dos cognados claros. <em>Lys</em> significa también “vela” — en una
+cultura donde la luz escasea medio año, no es casualidad que la misma
+palabra valga para las dos cosas.</p>
+</blockquote>
+<h1 id="mars-marzo">Mars — Marzo</h1>
+<figure>
+<img src="images/03-mars.png" alt="Marzo" />
+<figcaption aria-hidden="true">Marzo</figcaption>
+</figure>
+<blockquote>
+<p><strong>Palabra intraducible: <em>vårtegn</em></strong></p>
+<p>“Señales de primavera”. Los noruegos prestan una atención casi
+devocional a las primeras señales de que el invierno se acaba: el día en
+que un pájaro canta, los primeros brotes verdes, el agua que empieza a
+gotear de los aleros. Hay incluso un <strong>registro nacional</strong>
+(gestionado por NRK, la radio pública) donde la gente envía
+avistamientos de <em>vårtegn</em> desde toda Noruega.</p>
+</blockquote>
+<p><strong>Tradición:</strong> <strong>vacaciones de invierno</strong>
+(<em>vinterferie</em>). Casi todas las escuelas y empresas dan una
+semana libre en febrero o principios de marzo, y la mayoría de las
+familias se van a esquiar. Esquiar en Noruega no es un deporte: es una
+costumbre nacional.</p>
+<p><strong>Vocabulario del mes:</strong></p>
+<ul>
+<li><em>vår</em> — primavera</li>
+<li><em>å gå på ski</em> — esquiar <em>(literalmente “ir sobre
+esquís”)</em></li>
+<li><em>fjell</em> — montaña</li>
+<li><em>hytte</em> — cabaña</li>
+<li><em>ferie</em> — vacaciones</li>
+</ul>
+<blockquote>
+<p>💡 <em>Å gå på ski</em> contiene tres palabras que ya conoces:
+<em>å</em> (marca del infinitivo), <em>gå</em> (ir) y <em>ski</em> (la
+palabra noruega que el inglés tomó tal cual).</p>
+</blockquote>
+<h1 id="april-abril">April — Abril</h1>
+<figure>
+<img src="images/04-april.png" alt="Abril" />
+<figcaption aria-hidden="true">Abril</figcaption>
+</figure>
+<blockquote>
+<p><strong>Palabra intraducible: <em>påskekrim</em></strong></p>
+<p>“Crimen de Pascua”. Una tradición noruega genuinamente extraña:
+durante la Semana Santa, los noruegos consumen <strong>novelas y series
+policiacas en masa</strong>. Las editoriales publican libros de crímenes
+especialmente para Pascua, las cadenas de televisión emiten maratones,
+incluso las cajas de leche llevan impresos relatos cortos de misterio.
+Nadie sabe muy bien por qué empezó, pero es una tradición sólida desde
+1923, cuando dos escritores publicaron una novela de suspense titulada
+<em>Bergenstoget plyndret i natt</em> (“El tren de Bergen, asaltado
+anoche”) con una campaña tan agresiva que la gente la confundió con
+noticias reales.</p>
+</blockquote>
+<p><strong>Tradición:</strong> <strong><em>påske</em></strong> (Pascua)
+es una semana de vacaciones. Las familias que tienen
+<strong><em>hytte</em></strong> (cabaña) se van al campo a esquiar —
+paradójicamente, abril sigue siendo época de esquí en las montañas
+noruegas. Otros se quedan en casa con sus <em>påskekrim</em>.</p>
+<p><strong>Vocabulario del mes:</strong></p>
+<ul>
+<li><em>påske</em> — Pascua</li>
+<li><em>bok</em> — libro</li>
+<li><em>å lese</em> — leer</li>
+<li><em>appelsin</em> — naranja <em>(la fruta clásica de Pascua
+noruega)</em></li>
+<li><em>kvikklunsj</em> — el chocolate de Pascua por antonomasia
+<em>(marca registrada Freia)</em></li>
+</ul>
+<blockquote>
+<p>💡 <em>Bok</em> / <em>book</em>, <em>å lese</em> / <em>to read</em>
+(en alemán <em>lesen</em>), <em>appelsin</em> / <em>orange</em> — sí,
+<em>appelsin</em> viene del alemán <em>Apfelsine</em>, “manzana de
+China”, el nombre antiguo de la naranja en el norte de Europa.</p>
+</blockquote>
+<h1 id="mai-mayo">Mai — Mayo</h1>
+<figure>
+<img src="images/05-mai.png" alt="Mayo" />
+<figcaption aria-hidden="true">Mayo</figcaption>
+</figure>
+<blockquote>
+<p><strong>Palabra intraducible: <em>bunad</em></strong></p>
+<p>El traje tradicional regional. Cada zona de Noruega tiene su propio
+<em>bunad</em>, con bordados, colores y joyas distintivas. No es un
+disfraz: es una prenda <strong>cara</strong> (entre 30.000 y 80.000 NOK,
+unos 3.000-8.000 €), que se hereda, se ajusta y se mantiene durante toda
+la vida. Las niñas reciben su primer <em>bunad</em> en la confirmación,
+y lo usan después en cada gran ocasión: bodas, <em>17. mai</em>,
+graduaciones.</p>
+</blockquote>
+<p><strong>Tradición:</strong> <strong><em>17. mai</em></strong>,
+<strong>el día nacional</strong>, conmemora la firma de la Constitución
+de 1814. Es la fiesta más importante del año: <strong>desfiles
+infantiles</strong> (no militares, una rareza europea), banderas en cada
+balcón, helado e <em>pølse</em> (perritos calientes) sin medida, y todo
+el mundo vestido con su <em>bunad</em>. Si te invitan a uno, ve. Es la
+mejor lección de cultura noruega que puedes recibir.</p>
+<p><strong>Vocabulario del mes:</strong></p>
+<ul>
+<li><em>flagg</em> — bandera</li>
+<li><em>tog</em> — desfile <em>(también “tren”)</em></li>
+<li><em>pølse</em> — salchicha, perrito caliente</li>
+<li><em>iskrem</em> — helado</li>
+<li><em>å feire</em> — celebrar</li>
+</ul>
+<blockquote>
+<p>💡 <em>Flagg</em> / <em>flag</em> y <em>iskrem</em> / <em>ice
+cream</em> son cognados transparentes. Cuidado con <em>tog</em>:
+dependiendo del contexto significa “tren” o “desfile”.</p>
+</blockquote>
+<h1 id="juni-junio">Juni — Junio</h1>
+<figure>
+<img src="images/06-juni.png" alt="Junio" />
+<figcaption aria-hidden="true">Junio</figcaption>
+</figure>
+<blockquote>
+<p><strong>Palabra intraducible: <em>midnattsol</em></strong></p>
+<p>“Sol de medianoche”. En el norte de Noruega, durante varias semanas
+en torno al solsticio de verano, <strong>el sol no se pone</strong>.
+Literalmente. En Tromsø, la <em>midnattsol</em> dura desde el 20 de mayo
+hasta el 22 de julio. En el cabo Norte, el sol describe un círculo en el
+cielo sin tocar nunca el horizonte. Es la compensación del
+<em>mørketid</em> invernal — y la razón por la que los noruegos viven el
+verano con una intensidad casi desesperada.</p>
+</blockquote>
+<p><strong>Tradición:</strong> <strong><em>Sankthansaften</em></strong>
+(Noche de San Juan), el <strong>23 de junio</strong>. Se encienden
+hogueras en las playas y junto a los fiordos, se canta, se come al aire
+libre. No es festivo oficial, pero socialmente es una de las noches más
+esperadas del año.</p>
+<p><strong>Vocabulario del mes:</strong></p>
+<ul>
+<li><em>sommer</em> — verano</li>
+<li><em>strand</em> — playa</li>
+<li><em>bål</em> — hoguera</li>
+<li><em>grilling</em> — barbacoa <em>(en noruego se usa el verbo inglés
+en infinitivo, todo junto)</em></li>
+<li><em>sein kveld</em> — atardecer tardío</li>
+</ul>
+<blockquote>
+<p>💡 <em>Sommer</em> / <em>summer</em> y <em>strand</em> /
+<em>strand</em> (literalmente “orilla” en inglés moderno, “playa” en
+alemán). El verbo <em>å grille</em> (asar a la parrilla) es préstamo
+directo del inglés <em>to grill</em>.</p>
+</blockquote>
+<h1 id="juli-julio">Juli — Julio</h1>
+<figure>
+<img src="images/07-juli.png" alt="Julio" />
+<figcaption aria-hidden="true">Julio</figcaption>
+</figure>
+<blockquote>
+<p><strong>Palabra intraducible: <em>fellesferie</em></strong></p>
+<p>“Vacaciones colectivas”. En Noruega, durante las tres semanas
+centrales de julio, <strong>el país entero se va de vacaciones a la
+vez</strong>. Las grandes empresas cierran, muchos servicios reducen
+horarios, las ciudades se vacían y las cabañas en el campo se llenan. Es
+lo más parecido a un cierre nacional voluntario. El gobierno incluso
+legisló la idea: el derecho a tomar las vacaciones en bloque está
+protegido por ley.</p>
+</blockquote>
+<p><strong>Tradición:</strong> <strong><em>hyttekos</em></strong>. La
+actividad-tradición consiste, simplemente, en pasar tiempo en la
+<em>hytte</em> (cabaña): leer, caminar, recoger bayas, pescar, mirar el
+agua del fiordo. Es deliberadamente lento. Y deliberadamente
+desconectado: muchas cabañas noruegas siguen sin tener WiFi por
+elección.</p>
+<p><strong>Vocabulario del mes:</strong></p>
+<ul>
+<li><em>å bade</em> — bañarse</li>
+<li><em>vann</em> — agua <em>(también “lago”)</em></li>
+<li><em>båt</em> — barco</li>
+<li><em>å gå tur</em> — pasear <em>(literalmente “ir vuelta”)</em></li>
+<li><em>bær</em> — bayas</li>
+</ul>
+<blockquote>
+<p>💡 <em>Bær</em> contiene una de las tres letras especiales del
+noruego: la <strong>æ</strong>. Compárala con el inglés <em>berry</em> —
+mismo origen germánico.</p>
+</blockquote>
+<h1 id="august-agosto">August — Agosto</h1>
+<figure>
+<img src="images/08-august.png" alt="Agosto" />
+<figcaption aria-hidden="true">Agosto</figcaption>
+</figure>
+<blockquote>
+<p><strong>Palabra intraducible: <em>skolestart</em></strong></p>
+<p>“Inicio de escuela”. El <strong>20 de agosto</strong>
+(aproximadamente) marca el inicio del curso escolar en toda Noruega. Es
+un acontecimiento social: los niños de primer año llegan al colegio
+acompañados de toda la familia, vestidos con su mejor ropa, y reciben
+una bolsa con regalos. Los institutos organizan una <em>fadderuke</em>
+(“semana de padrinos”), donde los alumnos mayores acogen a los nuevos.
+El <em>skolestart</em> es, en muchos sentidos, el verdadero “año nuevo”
+cultural noruego.</p>
+</blockquote>
+<p><strong>Tradición:</strong> <strong><em>bærtur</em></strong>.
+Excursiones para recoger bayas silvestres — arándanos (<em>blåbær</em>),
+moras de pantano (<em>molter</em>), frambuesas silvestres
+(<em>bringebær</em>). En Noruega rige el
+<strong><em>allemannsretten</em></strong> (derecho de todos), una ley
+que permite caminar y recoger bayas y setas en cualquier terreno,
+también privado, mientras no se molesten cultivos.</p>
+<p><strong>Vocabulario del mes:</strong></p>
+<ul>
+<li><em>skole</em> — escuela</li>
+<li><em>å lære</em> — aprender</li>
+<li><em>å begynne</em> — empezar</li>
+<li><em>blåbær</em> — arándanos <em>(literalmente “bayas
+azules”)</em></li>
+<li><em>skog</em> — bosque</li>
+</ul>
+<blockquote>
+<p>💡 <em>Skole</em> / <em>school</em> y <em>blåbær</em> /
+<em>blueberry</em> — la lógica de formar palabras compuestas con colores
+y conceptos es idéntica en noruego e inglés.</p>
+</blockquote>
+<h1 id="september-septiembre">September — Septiembre</h1>
+<figure>
+<img src="images/09-september.png" alt="Septiembre" />
+<figcaption aria-hidden="true">Septiembre</figcaption>
+</figure>
+<blockquote>
+<p><strong>Palabra intraducible: <em>gulhost</em></strong></p>
+<p>“Otoño amarillo”. Septiembre es cuando los bosques de Noruega se
+incendian de color: amarillos, naranjas y rojos cubren las montañas,
+especialmente en el este (Trøndelag, Telemark). Hay una palabra
+específica para esa explosión cromática, <em>høstfarger</em> (“colores
+de otoño”), y otra para la luz baja y cálida del atardecer otoñal,
+<em>gylden time</em> (“hora dorada”). Los noruegos viajan a propósito
+para verlo.</p>
+</blockquote>
+<p><strong>Tradición:</strong> <strong><em>soppjakt</em></strong> (“caza
+de setas”). Septiembre es la mejor época para recoger setas, una
+actividad muy seria: hay cursos certificados de identificación,
+asociaciones micológicas locales y un día anual (<em>soppdagen</em>,
+“día de las setas”) donde se pueden llevar las setas a un control
+gratuito.</p>
+<p><strong>Vocabulario del mes:</strong></p>
+<ul>
+<li><em>høst</em> — otoño</li>
+<li><em>blad</em> — hoja <em>(también “revista”)</em></li>
+<li><em>å falle</em> — caer</li>
+<li><em>gul</em> — amarillo</li>
+<li><em>sopp</em> — seta</li>
+</ul>
+<blockquote>
+<p>💡 <em>Høst</em> (otoño) no tiene cognado evidente en inglés moderno
+(que usa <em>autumn</em> del latín o <em>fall</em> del verbo “caer”),
+pero en alemán es <em>Herbst</em>. <em>Blad</em> / <em>leaf</em> tampoco
+se parecen, pero <em>blad</em> / <em>blade</em> (hoja de cuchillo)
+sí.</p>
+</blockquote>
+<h1 id="oktober-octubre">Oktober — Octubre</h1>
+<figure>
+<img src="images/10-oktober.png" alt="Octubre" />
+<figcaption aria-hidden="true">Octubre</figcaption>
+</figure>
+<blockquote>
+<p><strong>Palabra intraducible: <em>mørkningstid</em></strong></p>
+<p>“Tiempo del oscurecer”. A diferencia de <em>mørketid</em> (que es el
+período en que el sol literalmente no sale), <em>mørkningstid</em> es la
+<strong>fase de transición</strong>: los días se acortan rápidamente,
+las tardes se vuelven oscuras a las 16:00, y la gente empieza a
+refugiarse en casa. Es psicológicamente el mes más duro del año en
+Noruega — más que diciembre, porque diciembre tiene la Navidad como
+compensación.</p>
+</blockquote>
+<p><strong>Tradición:</strong> <strong><em>levende lys</em></strong>,
+“velas encendidas”. A partir de octubre, casi todos los hogares noruegos
+tienen velas encendidas durante la tarde, sobre la mesa al cenar, en el
+alféizar de las ventanas. No es un detalle estético: es estrategia
+psicológica colectiva para sobrevivir a la falta de luz natural.</p>
+<p><strong>Vocabulario del mes:</strong></p>
+<ul>
+<li><em>mørk</em> — oscuro</li>
+<li><em>lys</em> — vela, también luz</li>
+<li><em>regn</em> — lluvia</li>
+<li><em>paraply</em> — paraguas <em>(préstamo del francés, igual que en
+español)</em></li>
+<li><em>jakke</em> — chaqueta</li>
+</ul>
+<blockquote>
+<p>💡 <em>Mørk</em> / <em>murky</em>, <em>regn</em> / <em>rain</em>,
+<em>jakke</em> / <em>jacket</em> — todos cognados germánicos
+directos.</p>
+</blockquote>
+<h1 id="november-noviembre">November — Noviembre</h1>
+<figure>
+<img src="images/11-november.png" alt="Noviembre" />
+<figcaption aria-hidden="true">Noviembre</figcaption>
+</figure>
+<blockquote>
+<p><strong>Palabra intraducible: <em>grøtfest</em></strong></p>
+<p>“Fiesta de gachas”. A finales de noviembre y durante diciembre,
+muchas escuelas, oficinas y comunidades vecinales organizan
+<em>grøtfester</em>: reuniones donde se come
+<strong><em>risengrynsgrøt</em></strong> (gachas de arroz dulce)
+caliente, acompañada de canela, azúcar y mantequilla derretida. En una
+de las gachas se esconde una almendra: el que la encuentra gana un
+pequeño premio. La tradición viene de la antigua creencia de que había
+que dejar gachas para el <em>fjøsnisse</em> (el duendecillo del granero)
+para que protegiera la casa durante el invierno.</p>
+</blockquote>
+<p><strong>Tradición:</strong> <strong>encendido de luces de
+Navidad</strong> en los centros urbanos. Oslo enciende su árbol gigante
+en el ayuntamiento a finales de noviembre — un árbol que, por tradición
+desde 1947, <strong>regala Noruega a Londres</strong> cada año en
+agradecimiento por la ayuda durante la Segunda Guerra Mundial (es el que
+se monta en Trafalgar Square).</p>
+<p><strong>Vocabulario del mes:</strong></p>
+<ul>
+<li><em>grøt</em> — gachas</li>
+<li><em>kanel</em> — canela</li>
+<li><em>smør</em> — mantequilla</li>
+<li><em>å varme</em> — calentar</li>
+<li><em>å vente</em> — esperar</li>
+</ul>
+<blockquote>
+<p>💡 <em>Smør</em> es prima de <em>smear</em> (untar) en inglés.
+<em>Kanel</em> / <em>cinnamon</em> — esta cuesta más, porque
+<em>cinnamon</em> viene del griego y <em>kanel</em> del francés
+<em>cannelle</em>.</p>
+</blockquote>
+<h1 id="desember-diciembre">Desember — Diciembre</h1>
+<figure>
+<img src="images/12-desember.png" alt="Diciembre" />
+<figcaption aria-hidden="true">Diciembre</figcaption>
+</figure>
+<blockquote>
+<p><strong>Palabra intraducible: <em>koselig</em></strong></p>
+<p>Probablemente la palabra noruega más famosa fuera de Noruega.
+<em>Koselig</em> significa “acogedor”, “cálido”, “agradable”, pero
+ninguna de esas traducciones captura el matiz completo. Es la cualidad
+de <strong>estar a gusto, en casa, con velas encendidas, gente querida,
+manta y algo caliente para beber</strong>, mientras fuera nieva o
+llueve. El equivalente sueco es <em>mysigt</em>, el danés
+<em>hyggeligt</em>, y los tres expresan lo mismo: una forma cultural de
+plantarle cara al invierno largo desde la intimidad doméstica.</p>
+</blockquote>
+<p><strong>Tradición:</strong> <strong><em>jul</em></strong>, la Navidad
+noruega, <strong>larga y rara</strong>. Empieza el <strong>13 de
+diciembre</strong> con <strong><em>Lucia</em></strong> (una procesión de
+niñas con coronas de velas, tradición de origen sueco) y se extiende
+hasta el 6 de enero. La cena principal es la
+<strong><em>julemiddag</em></strong> del <strong>24 de
+diciembre</strong>, no del 25. Plato estrella:
+<strong><em>ribbe</em></strong> (panza de cerdo asada al horno) o
+<strong><em>pinnekjøtt</em></strong> (costillas de cordero saladas y
+curadas). Y muchas familias siguen dejando un cuenco de
+<em>risengrynsgrøt</em> para el <em>fjøsnisse</em>. Si no lo dejas, dice
+la leyenda, te gasta bromas todo el año.</p>
+<p><strong>Vocabulario del mes:</strong></p>
+<ul>
+<li><em>jul</em> — Navidad</li>
+<li><em>gave</em> — regalo</li>
+<li><em>å gi</em> — dar</li>
+<li><em>julenisse</em> — Papá Noel <em>(literalmente “duende de
+Navidad”)</em></li>
+<li><em>fred</em> — paz</li>
+</ul>
+<blockquote>
+<p>💡 <em>Gi</em> es uno de los verbos más cortos del noruego, y prima
+directa del inglés <em>give</em>. <em>Jul</em> es la misma raíz que el
+inglés <em>yule</em> — antigua palabra germánica para la festividad del
+solsticio de invierno, anterior al cristianismo.</p>
+</blockquote>
+<h1 id="glosario-completo">Glosario completo</h1>
+<p>Todas las palabras noruegas que han aparecido en este anexo, en orden
+alfabético:</p>
+<table>
+<thead>
+<tr class="header">
+<th>Noruego</th>
+<th>Español</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><em>appelsin</em></td>
+<td>naranja</td>
+</tr>
+<tr class="even">
+<td><em>å bade</em></td>
+<td>bañarse</td>
+</tr>
+<tr class="odd">
+<td><em>bål</em></td>
+<td>hoguera</td>
+</tr>
+<tr class="even">
+<td><em>blad</em></td>
+<td>hoja, revista</td>
+</tr>
+<tr class="odd">
+<td><em>blåbær</em></td>
+<td>arándano</td>
+</tr>
+<tr class="even">
+<td><em>bok</em></td>
+<td>libro</td>
+</tr>
+<tr class="odd">
+<td><em>bolle</em></td>
+<td>bollo</td>
+</tr>
+<tr class="even">
+<td><em>å begynne</em></td>
+<td>empezar</td>
+</tr>
+<tr class="odd">
+<td><em>bunad</em></td>
+<td>traje tradicional regional</td>
+</tr>
+<tr class="even">
+<td><em>bær</em></td>
+<td>bayas</td>
+</tr>
+<tr class="odd">
+<td><em>båt</em></td>
+<td>barco</td>
+</tr>
+<tr class="even">
+<td><em>å falle</em></td>
+<td>caer</td>
+</tr>
+<tr class="odd">
+<td><em>fellesferie</em></td>
+<td>vacaciones colectivas</td>
+</tr>
+<tr class="even">
+<td><em>ferie</em></td>
+<td>vacaciones</td>
+</tr>
+<tr class="odd">
+<td><em>fjell</em></td>
+<td>montaña</td>
+</tr>
+<tr class="even">
+<td><em>flagg</em></td>
+<td>bandera</td>
+</tr>
+<tr class="odd">
+<td><em>fred</em></td>
+<td>paz</td>
+</tr>
+<tr class="even">
+<td><em>å gi</em></td>
+<td>dar</td>
+</tr>
+<tr class="odd">
+<td><em>gulhost</em></td>
+<td>otoño amarillo</td>
+</tr>
+<tr class="even">
+<td><em>å gå på ski</em></td>
+<td>esquiar</td>
+</tr>
+<tr class="odd">
+<td><em>å gå tur</em></td>
+<td>pasear</td>
+</tr>
+<tr class="even">
+<td><em>gave</em></td>
+<td>regalo</td>
+</tr>
+<tr class="odd">
+<td><em>grilling</em></td>
+<td>barbacoa</td>
+</tr>
+<tr class="even">
+<td><em>grøt</em></td>
+<td>gachas</td>
+</tr>
+<tr class="odd">
+<td><em>gul</em></td>
+<td>amarillo</td>
+</tr>
+<tr class="even">
+<td><em>hytte</em></td>
+<td>cabaña</td>
+</tr>
+<tr class="odd">
+<td><em>hyttekos</em></td>
+<td>bienestar en la cabaña</td>
+</tr>
+<tr class="even">
+<td><em>høst</em></td>
+<td>otoño</td>
+</tr>
+<tr class="odd">
+<td><em>iskrem</em></td>
+<td>helado</td>
+</tr>
+<tr class="even">
+<td><em>jakke</em></td>
+<td>chaqueta</td>
+</tr>
+<tr class="odd">
+<td><em>jul</em></td>
+<td>Navidad</td>
+</tr>
+<tr class="even">
+<td><em>julenisse</em></td>
+<td>Papá Noel</td>
+</tr>
+<tr class="odd">
+<td><em>kaldt</em></td>
+<td>frío</td>
+</tr>
+<tr class="even">
+<td><em>kanel</em></td>
+<td>canela</td>
+</tr>
+<tr class="odd">
+<td><em>koselig</em></td>
+<td>acogedor, cálido</td>
+</tr>
+<tr class="even">
+<td><em>kvikklunsj</em></td>
+<td>chocolate típico de Pascua</td>
+</tr>
+<tr class="odd">
+<td><em>lys</em></td>
+<td>luz, vela</td>
+</tr>
+<tr class="even">
+<td><em>å lære</em></td>
+<td>aprender</td>
+</tr>
+<tr class="odd">
+<td><em>å lese</em></td>
+<td>leer</td>
+</tr>
+<tr class="even">
+<td><em>midnattsol</em></td>
+<td>sol de medianoche</td>
+</tr>
+<tr class="odd">
+<td><em>mørk</em></td>
+<td>oscuro</td>
+</tr>
+<tr class="even">
+<td><em>mørketid</em></td>
+<td>temporada oscura</td>
+</tr>
+<tr class="odd">
+<td><em>mørkningstid</em></td>
+<td>tiempo del oscurecer</td>
+</tr>
+<tr class="even">
+<td><em>nyttår</em></td>
+<td>año nuevo</td>
+</tr>
+<tr class="odd">
+<td><em>nyttårsforsetter</em></td>
+<td>propósitos de año nuevo</td>
+</tr>
+<tr class="even">
+<td><em>paraply</em></td>
+<td>paraguas</td>
+</tr>
+<tr class="odd">
+<td><em>peis</em></td>
+<td>chimenea</td>
+</tr>
+<tr class="even">
+<td><em>pølse</em></td>
+<td>salchicha, perrito caliente</td>
+</tr>
+<tr class="odd">
+<td><em>påske</em></td>
+<td>Pascua</td>
+</tr>
+<tr class="even">
+<td><em>påskekrim</em></td>
+<td>novelas/series policiacas de Pascua</td>
+</tr>
+<tr class="odd">
+<td><em>regn</em></td>
+<td>lluvia</td>
+</tr>
+<tr class="even">
+<td><em>sein kveld</em></td>
+<td>atardecer tardío</td>
+</tr>
+<tr class="odd">
+<td><em>sankthansaften</em></td>
+<td>noche de san juan</td>
+</tr>
+<tr class="even">
+<td><em>skog</em></td>
+<td>bosque</td>
+</tr>
+<tr class="odd">
+<td><em>skole</em></td>
+<td>escuela</td>
+</tr>
+<tr class="even">
+<td><em>skolestart</em></td>
+<td>inicio del curso escolar</td>
+</tr>
+<tr class="odd">
+<td><em>snø</em></td>
+<td>nieve</td>
+</tr>
+<tr class="even">
+<td><em>sol</em></td>
+<td>sol</td>
+</tr>
+<tr class="odd">
+<td><em>sommer</em></td>
+<td>verano</td>
+</tr>
+<tr class="even">
+<td><em>sopp</em></td>
+<td>seta</td>
+</tr>
+<tr class="odd">
+<td><em>soppjakt</em></td>
+<td>recogida de setas</td>
+</tr>
+<tr class="even">
+<td><em>å spise</em></td>
+<td>comer</td>
+</tr>
+<tr class="odd">
+<td><em>strand</em></td>
+<td>playa</td>
+</tr>
+<tr class="even">
+<td><em>smør</em></td>
+<td>mantequilla</td>
+</tr>
+<tr class="odd">
+<td><em>tog</em></td>
+<td>tren, desfile</td>
+</tr>
+<tr class="even">
+<td><em>vann</em></td>
+<td>agua, lago</td>
+</tr>
+<tr class="odd">
+<td><em>å varme</em></td>
+<td>calentar</td>
+</tr>
+<tr class="even">
+<td><em>å vente</em></td>
+<td>esperar</td>
+</tr>
+<tr class="odd">
+<td><em>vinter</em></td>
+<td>invierno</td>
+</tr>
+<tr class="even">
+<td><em>vår</em></td>
+<td>primavera</td>
+</tr>
+<tr class="odd">
+<td><em>vårtegn</em></td>
+<td>señales de primavera</td>
+</tr>
+</tbody>
+</table>
+<h1 id="sobre-este-anexo-1">Sobre este anexo</h1>
+<p>Este EPUB forma parte del curso <strong>Velkommen til
+Norge!</strong>, un microcurso autoformativo de noruego bokmål (nivel A0
+→ A1) dirigido a hispanohablantes adolescentes con interés en la cultura
+nórdica.</p>
+<p>Está pensado como <strong>complemento a la Lección 2 — <em>Tall og
+tid</em></strong>. El cuestionario QTI de esa lección evalúa el dominio
+léxico de números, días y meses; este anexo lo amplía a la dimensión
+cultural.</p>
+<p><strong>Autora:</strong> Noelia Oviedo Marín <strong>Curso:</strong>
+Máster en Letras Digitales 2025-2026 <strong>Asignatura:</strong>
+Producción de Materiales Educativos Digitales <strong>Licencia:</strong>
+Creative Commons BY-NC-SA 4.0</p>
+<p><strong>Fuentes principales:</strong></p>
+<ul>
+<li>Visit Norway (oficina oficial de turismo). Información sobre
+festividades y tradiciones.</li>
+<li>NDLA (Nasjonal digital læringsarena). Recursos educativos
+oficiales.</li>
+<li>Norsk Polarinstitutt (Instituto Polar Noruego). Datos sobre
+<em>mørketid</em> y <em>midnattsol</em>.</li>
+<li>Språkrådet (Consejo de la Lengua Noruega). Vocabulario y
+ortografía.</li>
+</ul>
+
+  </main>
+</body>
+</html>
