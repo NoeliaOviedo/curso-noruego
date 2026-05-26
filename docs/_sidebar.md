@@ -1,4 +1,4 @@
-- [🇳🇴 **Velkommen til Norge!**](/)
+- [**Velkommen til Norge!**](/)
 - **El curso**
   - [Presentación y objetivos](/#sobre-el-curso)
   - [Itinerario de lecciones](/#cómo-está-organizado-el-curso)
