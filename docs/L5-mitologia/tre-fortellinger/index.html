@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tre fortellinger fra Norden — Mitología nórdica para A1 · Velkommen til Norge!</title>
+  <meta name="description" content="Anexo cultural de la L5 del curso Velkommen til Norge!. Tres microcuentos en noruego bokmål A1 con traducción al español.">
+  <meta name="author" content="Noelia Oviedo Marín">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --color-primary:     #1a3a5c;
+      --color-secondary:   #2c5f8d;
+      --color-accent:      #c97b3c;
+      --color-accent-soft: #f4e4d4;
+      --color-bg:          #fafbfc;
+      --color-bg-alt:      #eef2f6;
+      --color-text:        #2a2e35;
+      --color-text-soft:   #5a6072;
+      --color-border:      #d8dde5;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: 'Lora', Georgia, serif;
+      color: var(--color-text);
+      background-color: var(--color-bg);
+      line-height: 1.65;
+    }
+
+    .header-bar {
+      background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+      color: white;
+      padding: 1.4rem 1.5rem;
+      margin-bottom: 2rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+
+    .header-bar .inner {
+      max-width: 720px;
+      margin: 0 auto;
+    }
+
+    .header-bar .breadcrumb {
+      font-family: 'Inter', sans-serif;
+      font-size: 0.78rem;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      opacity: 0.85;
+      margin: 0 0 0.4rem 0;
+    }
+
+    .header-bar h1 {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      font-size: 1.8rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    .header-bar .subtitle {
+      font-family: 'Lora', serif;
+      font-style: italic;
+      opacity: 0.92;
+      margin: 0.3rem 0 0 0;
+      font-size: 1.05rem;
+    }
+
+    .back-link {
+      display: inline-block;
+      margin-bottom: 0.6rem;
+      color: white;
+      text-decoration: none;
+      font-family: 'Inter', sans-serif;
+      font-size: 0.85rem;
+      opacity: 0.85;
+    }
+
+    .back-link:hover { opacity: 1; }
+
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 0 1.5rem 4rem;
+    }
+
+    h1 {
+      font-family: 'Inter', sans-serif;
+      color: var(--color-primary);
+      font-size: 1.7rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      margin-top: 3rem;
+      margin-bottom: 1rem;
+      padding-bottom: 0.4rem;
+      border-bottom: 2px solid var(--color-accent);
+    }
+
+    h1:first-of-type { margin-top: 0.5rem; }
+
+    h2 {
+      font-family: 'Inter', sans-serif;
+      color: var(--color-secondary);
+      font-size: 1.2rem;
+      margin-top: 1.5rem;
+      margin-bottom: 0.4rem;
+    }
+
+    p {
+      margin: 0.7rem 0;
+    }
+
+    /* Traducción al español (cursiva = el párrafo después del noruego) */
+    em {
+      color: var(--color-text-soft);
+      font-style: italic;
+      font-size: 0.95rem;
+    }
+
+    strong {
+      color: var(--color-primary);
+      font-weight: 700;
+    }
+
+    blockquote {
+      background-color: var(--color-accent-soft);
+      border-left: 4px solid var(--color-accent);
+      padding: 0.85rem 1.2rem;
+      margin: 1.5rem 0;
+      border-radius: 0 6px 6px 0;
+      font-size: 0.95em;
+    }
+
+    blockquote p {
+      margin: 0.4rem 0;
+    }
+
+    blockquote strong {
+      color: var(--color-accent);
+    }
+
+    blockquote em {
+      color: var(--color-primary);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.2rem 0;
+      font-family: 'Inter', sans-serif;
+      font-size: 0.9rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+      border-radius: 6px;
+      overflow: hidden;
+    }
+
+    th {
+      background-color: var(--color-primary);
+      color: white;
+      text-align: left;
+      padding: 0.65rem 0.9rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      font-size: 0.78rem;
+    }
+
+    td {
+      padding: 0.55rem 0.9rem;
+      border-bottom: 1px solid var(--color-border);
+    }
+
+    tr:nth-child(even) td {
+      background-color: var(--color-bg-alt);
+    }
+
+    td em {
+      color: var(--color-primary);
+      font-weight: 600;
+      font-style: italic;
+      font-size: 1em;
+    }
+
+    figure {
+      margin: 1.5rem 0;
+      text-align: center;
+    }
+
+    figure img {
+      max-width: 100%;
+      border-radius: 8px;
+      box-shadow: 0 4px 14px rgba(26, 58, 92, 0.15);
+    }
+
+    figcaption {
+      display: none;
+    }
+
+    ul, ol {
+      padding-left: 1.5rem;
+    }
+
+    li {
+      margin: 0.3rem 0;
+    }
+
+    .download-cta {
+      background-color: var(--color-bg-alt);
+      border-left: 3px solid var(--color-secondary);
+      padding: 1rem 1.3rem;
+      margin: 2rem 0;
+      border-radius: 4px;
+      font-family: 'Lora', serif;
+      font-size: 0.95rem;
+    }
+
+    .download-cta p { margin: 0.3rem 0; }
+
+    .download-cta a {
+      color: var(--color-secondary);
+      font-weight: 600;
+      text-decoration: none;
+      border-bottom: 1px solid transparent;
+    }
+
+    .download-cta a:hover {
+      border-bottom-color: var(--color-accent);
+    }
+
+    @media (max-width: 600px) {
+      h1 { font-size: 1.4rem; }
+      h2 { font-size: 1.05rem; }
+      .header-bar h1 { font-size: 1.4rem; }
+      .container { padding: 0 1rem 2.5rem; }
+    }
+  </style>
+</head>
+<body>
+  <header class="header-bar">
+    <div class="inner">
+      <a href="../" class="back-link">← Volver a L5</a>
+      <p class="breadcrumb">Velkommen til Norge! · L5 · Anexo de mitología nórdica</p>
+      <h1>Tre fortellinger fra Norden</h1>
+      <p class="subtitle">Tres relatos del norte · Bilingüe noruego A1 / español</p>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <div class="download-cta">
+      <p><strong>📚 ¿Prefieres leerlo offline?</strong></p>
+      <p>Esta lectura también está disponible como <a href="../tre-fortellinger-fra-norden.epub" download>archivo EPUB descargable</a>, perfecto para leerlo con calma en un lector electrónico, móvil o tablet.</p>
+    </div>
+
+<h1 id="sobre-este-anexo">Sobre este anexo</h1>
+<p><em>Tre fortellinger fra Norden</em> (Tres relatos del norte) es el
+<strong>anexo final</strong> del curso <em>Velkommen til Norge!</em>.
+Contiene tres microcuentos sobre la mitología nórdica adaptados al
+<strong>nivel A1 del MCER</strong>, presentados en formato
+<strong>bilingüe párrafo a párrafo</strong>: cada párrafo aparece
+primero en noruego y a continuación en español.</p>
+<p><strong>Cómo leerlo</strong>: lee primero el párrafo en noruego. No
+intentes traducir cada palabra. Cuando una idea no te quede clara, mira
+el párrafo en español justo debajo. Vuelve al noruego, sigue.</p>
+<p>Los textos están adaptados libremente de los relatos del
+<strong><em>Edda en prosa</em></strong> que <strong>Snorri
+Sturluson</strong> compiló en Islandia en el siglo XIII. Los originales
+están en nórdico antiguo y son ilegibles incluso para los noruegos
+actuales sin traducción. Aquí encontrarás versiones simplificadas léxica
+y sintácticamente para A1, manteniendo el esqueleto narrativo del
+original.</p>
+<p>Los tres dioses que protagonizan estos cuentos te resultarán
+familiares: <strong>Tor</strong> (Thor), <strong>Odin</strong> (Odín) y
+<strong>Loki</strong>. Sus nombres están en los días de la semana que ya
+conoces de L2 — y eso no es casualidad.</p>
+<blockquote>
+<p><em>God lesning!</em> (Buena lectura.)</p>
+</blockquote>
+<h1 id="cuento-1-tor-og-hammeren">Cuento 1 · Tor og hammeren</h1>
+<p><strong>Thor y el martillo</strong></p>
+<figure>
+<img src="images/01-tor.png" alt="Thor y el martillo" />
+<figcaption aria-hidden="true">Thor y el martillo</figcaption>
+</figure>
+<p>Tor er sterk. Han er den sterkeste guden i Asgard. Han er sønnen til
+Odin, og han har et stort, rødt skjegg.</p>
+<p><em>Thor es fuerte. Es el dios más fuerte de Asgard. Es hijo de Odín
+y tiene una gran barba roja.</em></p>
+<p>Men Tor har ikke en hammer ennå. Han trenger et våpen.</p>
+<p><em>Pero Thor todavía no tiene un martillo. Necesita un
+arma.</em></p>
+<p>Loki er en lur gud. Han kan endre form. Han vil hjelpe Tor, men han
+vil også ha det gøy.</p>
+<p><em>Loki es un dios astuto. Puede cambiar de forma. Quiere ayudar a
+Thor, pero también quiere divertirse.</em></p>
+<p>Loki går til dvergene under jorden. Dvergene er små menn med lange
+skjegg. De er de beste smedene i verden.</p>
+<p><em>Loki va a ver a los enanos que viven bajo la tierra. Los enanos
+son hombres pequeños con barbas largas. Son los mejores herreros del
+mundo.</em></p>
+<p>«Lag en hammer til Tor,» sier Loki. «Den må være sterk. Den må alltid
+komme tilbake til hånden hans.»</p>
+<p><em>«Haced un martillo para Thor», dice Loki. «Tiene que ser fuerte.
+Tiene que volver siempre a su mano.»</em></p>
+<p>Dvergene jobber i tre dager og tre netter. De lager en hammer av jern
+og magi. Hammeren heter <strong>Mjølnir</strong>.</p>
+<p><em>Los enanos trabajan tres días y tres noches. Hacen un martillo de
+hierro y magia. El martillo se llama Mjølnir.</em></p>
+<p>Men Mjølnir har en feil: hammeren har et kort håndtak. Det er Lokis
+skyld. Han ble litt redd da dvergene jobbet.</p>
+<p><em>Pero Mjølnir tiene un fallo: el martillo tiene un mango corto. Es
+culpa de Loki. Se asustó un poco mientras los enanos
+trabajaban.</em></p>
+<p>Tor får hammeren. Han er glad. Med Mjølnir kan han slå fjell, drepe
+troll og forsvare Asgard.</p>
+<p><em>Thor recibe el martillo. Está contento. Con Mjølnir puede romper
+montañas, matar trolls y defender Asgard.</em></p>
+<p>Og når Tor kaster Mjølnir, kommer hammeren alltid tilbake. Som
+dvergene lovet.</p>
+<p><em>Y cuando Thor lanza Mjølnir, el martillo siempre vuelve. Como
+prometieron los enanos.</em></p>
+<p>I dag, når det tordner over Norge, sier vi: <strong>«Tor er
+sint.»</strong></p>
+<p><em>Hoy en día, cuando truena en Noruega, decimos: «Thor está
+enfadado.»</em></p>
+<blockquote>
+<p>📜 <strong>¿De dónde viene esta historia?</strong></p>
+<p>Esta versión está adaptada del <em>Skáldskaparmál</em>, una de las
+partes del <em>Edda en prosa</em> de Snorri Sturluson (siglo XIII). El
+nombre <strong>Mjølnir</strong> ha sobrevivido intacto hasta hoy: lo
+verás en colgantes que la gente lleva en Noruega, en el escudo de
+algunos clubes deportivos, y en cualquier película de Marvel.</p>
+</blockquote>
+<h1 id="cuento-2-odins-to-ravner">Cuento 2 · Odins to ravner</h1>
+<p><strong>Los dos cuervos de Odín</strong></p>
+<figure>
+<img src="images/02-odin.png" alt="Los dos cuervos de Odín" />
+<figcaption aria-hidden="true">Los dos cuervos de Odín</figcaption>
+</figure>
+<p>Odin er den eldste guden. Han er sterk og klok, men han har bare ett
+øye.</p>
+<p><em>Odín es el dios más antiguo. Es fuerte y sabio, pero tiene solo
+un ojo.</em></p>
+<p>Han ga det andre øyet sitt for å drikke fra <strong>Mimirs
+brønn</strong>, en magisk brønn som gir visdom.</p>
+<p><em>Dio su otro ojo para beber del pozo de Mimir, un pozo mágico que
+da sabiduría.</em></p>
+<p>Men Odin vil vite mer. Han vil vite alt som skjer i verden.</p>
+<p><em>Pero Odín quiere saber más. Quiere saber todo lo que pasa en el
+mundo.</em></p>
+<p>Derfor har han to ravner. Den ene heter <strong>Huginn</strong> (det
+betyr «tanke»). Den andre heter <strong>Muninn</strong> (det betyr
+«minne»).</p>
+<p><em>Por eso tiene dos cuervos. Uno se llama Huginn (significa
+«pensamiento»). El otro se llama Muninn (significa «memoria»).</em></p>
+<p>Hver morgen flyr ravnene ut over verden. De ser alt. De hører
+alt.</p>
+<p><em>Cada mañana los cuervos vuelan por el mundo. Lo ven todo. Lo oyen
+todo.</em></p>
+<p>Om kvelden kommer de tilbake til Asgard. De setter seg på skuldrene
+til Odin.</p>
+<p><em>Por la tarde vuelven a Asgard. Se posan sobre los hombros de
+Odín.</em></p>
+<p>Huginn forteller hva han har tenkt. Muninn forteller hva han har
+husket. Slik vet Odin alt.</p>
+<p><em>Huginn cuenta lo que ha pensado. Muninn cuenta lo que ha
+recordado. Así Odín lo sabe todo.</em></p>
+<p>Men Odin er bekymret. Han sier til seg selv: «Hva hvis Huginn ikke
+kommer tilbake? Tanker kan forsvinne. Men hva hvis Muninn ikke kommer
+tilbake? <strong>Minner er det viktigste</strong>.»</p>
+<p><em>Pero Odín está preocupado. Se dice a sí mismo: «¿Y si Huginn no
+vuelve? Los pensamientos pueden desaparecer. Pero ¿y si Muninn no
+vuelve? La memoria es lo más importante.»</em></p>
+<p>Hver kveld venter Odin på ravnene. Hver kveld lytter han. Og hver
+kveld lærer han noe nytt.</p>
+<p><em>Cada tarde Odín espera a los cuervos. Cada tarde los escucha. Y
+cada tarde aprende algo nuevo.</em></p>
+<p>I dag, hvis du ser en ravn i Norge, kan du tenke: <strong>kanskje den
+flyr til Odin.</strong></p>
+<p><em>Hoy en día, si ves un cuervo en Noruega, puedes pensar: tal vez
+vuela hacia Odín.</em></p>
+<blockquote>
+<p>📜 <strong>¿De dónde viene esta historia?</strong></p>
+<p>Adaptado del <em>Gylfaginning</em>, otra parte del <em>Edda en
+prosa</em>. Los nombres <strong>Huginn</strong> y
+<strong>Muninn</strong> aparecen en el <em>Edda poética</em> (anterior
+al de Snorri), donde Odín mismo expresa su preocupación por los dos
+cuervos. La elección entre “pensamiento” y “memoria” — y la idea de que
+la memoria es más importante — es un guiño cultural escandinavo que la
+literatura del norte ha retomado muchas veces.</p>
+</blockquote>
+<h1 id="cuento-3-loki-og-fisken">Cuento 3 · Loki og fisken</h1>
+<p><strong>Loki y el pez</strong></p>
+<figure>
+<img src="images/03-loki.png" alt="Loki y el pez" />
+<figcaption aria-hidden="true">Loki y el pez</figcaption>
+</figure>
+<p>Loki er en gud, men ikke en god gud. Han lyver, han stjeler, han gjør
+problemer.</p>
+<p><em>Loki es un dios, pero no un dios bueno. Miente, roba, causa
+problemas.</em></p>
+<p>En dag gjør Loki noe veldig dumt: han forårsaker døden til
+<strong>Balder</strong>, sønnen til Odin og den vakreste guden i
+Asgard.</p>
+<p><em>Un día Loki hace algo muy estúpido: provoca la muerte de Balder,
+hijo de Odín y el dios más hermoso de Asgard.</em></p>
+<p>De andre gudene er sinte. Veldig sinte. De vil straffe Loki.</p>
+<p><em>Los otros dioses están enfadados. Muy enfadados. Quieren castigar
+a Loki.</em></p>
+<p>Loki rømmer. Han løper opp i fjellet og gjemmer seg i et lite hus ved
+en elv.</p>
+<p><em>Loki huye. Corre a la montaña y se esconde en una pequeña casa
+junto a un río.</em></p>
+<p>Men Loki er smart. Han vet at gudene vil komme. Han tenker: «Jeg må
+kunne flykte raskt.»</p>
+<p><em>Pero Loki es listo. Sabe que los dioses vendrán. Piensa: «Tengo
+que poder huir rápido.»</em></p>
+<p>Han bestemmer seg for å lære å bli en fisk. Hver dag sitter han ved
+elven og tenker på laks.</p>
+<p><em>Decide aprender a convertirse en pez. Cada día se sienta junto al
+río y piensa en salmones.</em></p>
+<p>For å øve lager han en spesiell ting med tråd og knuter. En slags…
+nett. Han vil se hvor lett det er å fange en fisk.</p>
+<p><em>Para practicar fabrica una cosa especial con hilo y nudos. Una
+especie de… red. Quiere ver lo fácil que es atrapar un pez.</em></p>
+<p>Men en dag kommer gudene. De ser huset hans, og de ser det rare
+nettet.</p>
+<p><em>Pero un día llegan los dioses. Ven su casa, y ven la extraña
+red.</em></p>
+<p>Loki kaster nettet i ilden og hopper i elven som en laks. Men gudene
+har sett alt.</p>
+<p><em>Loki tira la red al fuego y salta al río en forma de salmón. Pero
+los dioses lo han visto todo.</em></p>
+<p>De lager et nytt nett, akkurat som Lokis. Og de fanger ham.</p>
+<p><em>Hacen una nueva red, exactamente igual que la de Loki. Y lo
+atrapan.</em></p>
+<p>Slik fortelles det: <strong>Loki oppfant fiskegarnet uten å ville
+det.</strong> Og slik ble han også fanget med sin egen oppfinnelse.</p>
+<p><em>Así se cuenta: Loki inventó la red de pesca sin querer. Y así fue
+capturado con su propio invento.</em></p>
+<blockquote>
+<p>📜 <strong>¿De dónde viene esta historia?</strong></p>
+<p>Adaptación del <em>Skáldskaparmál</em>. La paradoja de Loki — un dios
+tramposo que cae víctima de su propia trampa — es uno de los motivos más
+universales de la mitología nórdica. Las redes de pesca artesanales
+noruegas siguen siendo, dicen, “la red de Loki”: una historia que niños
+y mayores conocen.</p>
+</blockquote>
+<h1 id="glosario-noruego-español">Glosario noruego-español</h1>
+<p>Las palabras que han aparecido en los tres cuentos, en orden
+alfabético. Las que aparecen con ★ son palabras de uso muy frecuente que
+conviene memorizar.</p>
+<table>
+<thead>
+<tr class="header">
+<th>Noruego</th>
+<th>Español</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>★ <em>alt</em></td>
+<td>todo</td>
+</tr>
+<tr class="even">
+<td>★ <em>alltid</em></td>
+<td>siempre</td>
+</tr>
+<tr class="odd">
+<td><em>bekymret</em></td>
+<td>preocupado/a</td>
+</tr>
+<tr class="even">
+<td><em>bestemmer seg</em></td>
+<td>decide</td>
+</tr>
+<tr class="odd">
+<td><em>brønn</em></td>
+<td>pozo</td>
+</tr>
+<tr class="even">
+<td><em>drepe</em></td>
+<td>matar</td>
+</tr>
+<tr class="odd">
+<td><em>dverger</em></td>
+<td>enanos</td>
+</tr>
+<tr class="even">
+<td><em>døden</em></td>
+<td>la muerte</td>
+</tr>
+<tr class="odd">
+<td><em>eldste</em></td>
+<td>más antiguo, más viejo</td>
+</tr>
+<tr class="even">
+<td>★ <em>elv</em></td>
+<td>río</td>
+</tr>
+<tr class="odd">
+<td><em>endre form</em></td>
+<td>cambiar de forma</td>
+</tr>
+<tr class="even">
+<td>★ <em>en feil</em></td>
+<td>un fallo, un error</td>
+</tr>
+<tr class="odd">
+<td><em>flykte</em></td>
+<td>huir</td>
+</tr>
+<tr class="even">
+<td><em>flyr</em></td>
+<td>vuela / vuelan</td>
+</tr>
+<tr class="odd">
+<td><em>forsvinne</em></td>
+<td>desaparecer</td>
+</tr>
+<tr class="even">
+<td>★ <em>fortelles</em></td>
+<td>se cuenta</td>
+</tr>
+<tr class="odd">
+<td><em>forårsaker</em></td>
+<td>provoca, causa</td>
+</tr>
+<tr class="even">
+<td><em>gud</em></td>
+<td>dios</td>
+</tr>
+<tr class="odd">
+<td><em>guden</em></td>
+<td>el dios</td>
+</tr>
+<tr class="even">
+<td><em>gøy</em></td>
+<td>diversión</td>
+</tr>
+<tr class="odd">
+<td>★ <em>ha det gøy</em></td>
+<td>divertirse</td>
+</tr>
+<tr class="even">
+<td><em>hammer</em></td>
+<td>martillo</td>
+</tr>
+<tr class="odd">
+<td><em>husket</em></td>
+<td>recordó</td>
+</tr>
+<tr class="even">
+<td>★ <em>hva</em></td>
+<td>qué</td>
+</tr>
+<tr class="odd">
+<td>★ <em>hver</em></td>
+<td>cada</td>
+</tr>
+<tr class="even">
+<td><em>håndtak</em></td>
+<td>mango, asa</td>
+</tr>
+<tr class="odd">
+<td><em>ilden</em></td>
+<td>el fuego</td>
+</tr>
+<tr class="even">
+<td><em>jern</em></td>
+<td>hierro</td>
+</tr>
+<tr class="odd">
+<td><em>kanskje</em></td>
+<td>quizás, tal vez</td>
+</tr>
+<tr class="even">
+<td><em>klok</em></td>
+<td>sabio/a</td>
+</tr>
+<tr class="odd">
+<td><em>knuter</em></td>
+<td>nudos</td>
+</tr>
+<tr class="even">
+<td>★ <em>kort</em></td>
+<td>corto/a</td>
+</tr>
+<tr class="odd">
+<td><em>laks</em></td>
+<td>salmón</td>
+</tr>
+<tr class="even">
+<td><em>lager</em></td>
+<td>hace, fabrica</td>
+</tr>
+<tr class="odd">
+<td>★ <em>lite hus</em></td>
+<td>una casa pequeña</td>
+</tr>
+<tr class="even">
+<td><em>lover</em></td>
+<td>promete</td>
+</tr>
+<tr class="odd">
+<td><em>lur</em></td>
+<td>astuto/a, listo/a</td>
+</tr>
+<tr class="even">
+<td><em>lyver</em></td>
+<td>miente</td>
+</tr>
+<tr class="odd">
+<td><em>lytter</em></td>
+<td>escucha</td>
+</tr>
+<tr class="even">
+<td>★ <em>magi</em></td>
+<td>magia</td>
+</tr>
+<tr class="odd">
+<td><em>menn</em></td>
+<td>hombres</td>
+</tr>
+<tr class="even">
+<td><em>minne</em></td>
+<td>memoria, recuerdo</td>
+</tr>
+<tr class="odd">
+<td><em>nett</em></td>
+<td>red</td>
+</tr>
+<tr class="even">
+<td><em>oppfant</em></td>
+<td>inventó</td>
+</tr>
+<tr class="odd">
+<td><em>oppfinnelse</em></td>
+<td>invento</td>
+</tr>
+<tr class="even">
+<td>★ <em>redd</em></td>
+<td>asustado/a</td>
+</tr>
+<tr class="odd">
+<td><em>ravn / ravner</em></td>
+<td>cuervo / cuervos</td>
+</tr>
+<tr class="even">
+<td><em>rømmer</em></td>
+<td>huye</td>
+</tr>
+<tr class="odd">
+<td>★ <em>skjegg</em></td>
+<td>barba</td>
+</tr>
+<tr class="even">
+<td><em>skulder / skuldrene</em></td>
+<td>hombro / los hombros</td>
+</tr>
+<tr class="odd">
+<td><em>skyld</em></td>
+<td>culpa</td>
+</tr>
+<tr class="even">
+<td>★ <em>slå</em></td>
+<td>golpear</td>
+</tr>
+<tr class="odd">
+<td><em>smedene</em></td>
+<td>los herreros</td>
+</tr>
+<tr class="even">
+<td>★ <em>sterkest</em></td>
+<td>más fuerte</td>
+</tr>
+<tr class="odd">
+<td><em>stjeler</em></td>
+<td>roba</td>
+</tr>
+<tr class="even">
+<td>★ <em>straffe</em></td>
+<td>castigar</td>
+</tr>
+<tr class="odd">
+<td><em>sønnen</em></td>
+<td>el hijo</td>
+</tr>
+<tr class="even">
+<td><em>tanke</em></td>
+<td>pensamiento</td>
+</tr>
+<tr class="odd">
+<td>★ <em>tenkt</em></td>
+<td>pensado</td>
+</tr>
+<tr class="even">
+<td>★ <em>tilbake</em></td>
+<td>de vuelta, de regreso</td>
+</tr>
+<tr class="odd">
+<td>★ <em>tordner</em></td>
+<td>truena</td>
+</tr>
+<tr class="even">
+<td><em>trenger</em></td>
+<td>necesita</td>
+</tr>
+<tr class="odd">
+<td>★ <em>troll</em></td>
+<td>troll</td>
+</tr>
+<tr class="even">
+<td><em>tråd</em></td>
+<td>hilo</td>
+</tr>
+<tr class="odd">
+<td>★ <em>uten</em></td>
+<td>sin</td>
+</tr>
+<tr class="even">
+<td><em>vakreste</em></td>
+<td>más hermoso/a</td>
+</tr>
+<tr class="odd">
+<td><em>venter</em></td>
+<td>espera</td>
+</tr>
+<tr class="even">
+<td>★ <em>verden</em></td>
+<td>el mundo</td>
+</tr>
+<tr class="odd">
+<td><em>visdom</em></td>
+<td>sabiduría</td>
+</tr>
+<tr class="even">
+<td><em>våpen</em></td>
+<td>arma</td>
+</tr>
+<tr class="odd">
+<td><em>øye</em></td>
+<td>ojo</td>
+</tr>
+</tbody>
+</table>
+<h1 id="sobre-este-anexo-1">Sobre este anexo</h1>
+<p>Este EPUB cierra el curso <strong>Velkommen til Norge!</strong>, un
+microcurso autoformativo de noruego bokmål (nivel A0 → A1) dirigido a
+hispanohablantes adolescentes con interés en la cultura nórdica.</p>
+<p>Las tres historias adaptadas demuestran que, después de cinco
+lecciones cortas, <strong>ya eres capaz de leer literatura en
+noruego</strong> — eso sí, con apoyo de traducción. No es poco. Es
+exactamente lo que define el nivel A1 según el MCER: comprender textos
+breves y sencillos sobre temas familiares.</p>
+<p><strong>Autora:</strong> Noelia Oviedo Marín <strong>Curso:</strong>
+Máster en Letras Digitales 2025-2026 <strong>Asignatura:</strong>
+Producción de Materiales Educativos Digitales <strong>Licencia:</strong>
+Creative Commons BY-NC-SA 4.0</p>
+<p><strong>Fuentes principales:</strong></p>
+<ul>
+<li>Snorri Sturluson (siglo XIII). <em>Den yngre Edda</em> (Edda en
+prosa). Adaptación libre de los textos del <em>Skáldskaparmál</em> y el
+<em>Gylfaginning</em>.</li>
+<li>Holtsmark, A. (ed.) (2003). <em>Snorre Sturlasson: Den yngre
+Edda</em>. Oslo: Aschehoug. (Traducción al noruego moderno usada como
+base).</li>
+<li>Faulkes, A. (ed.) (1995). <em>Edda</em>. Londres: Everyman. (Versión
+inglesa de referencia para verificación cruzada).</li>
+<li>Universitetet i Bergen — Norrøn filologi. Recursos académicos sobre
+los mitos nórdicos.</li>
+</ul>
+
+  </main>
+</body>
+</html>

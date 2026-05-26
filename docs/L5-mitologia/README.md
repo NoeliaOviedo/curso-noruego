@@ -1,5 +1,5 @@
-# L6 · *Mytologi* — Leer noruego con Odín, Thor y Loki
-**Tiempo estimado: 30 minutos**
+# L5 · *Mytologi* — Leer noruego con Odín, Thor y Loki
+**Tiempo estimado: 25 minutos**
 
 Has llegado a la última lección del curso. Y la última lección no es una más: es **la prueba de cuánto has aprendido**. Vas a hacer algo que al principio te habría parecido imposible: **leer textos en noruego**, sin traducción al lado, con la ayuda de un glosario, y entenderlos.
 
@@ -10,21 +10,21 @@ Al terminar esta lección, serás capaz de:
 - **Leer un microtexto en noruego A1** y entender la idea general sin traducción directa.
 - **Usar un glosario noruego-español** para resolver palabras nuevas.
 - **Reconocer a los principales dioses nórdicos** y los símbolos asociados a cada uno.
-- **Conectar la mitología nórdica** con elementos culturales que ya conocías (días de la semana, nombres en *Skam*, *God of War*, *Vikings*, Marvel...).
+- **Conectar la mitología nórdica** con elementos culturales que ya conocías (días de la semana, *God of War*, *Vikings*, Marvel...).
 - **Auto-evaluar** tu progreso del curso completo de forma honesta.
 
-Esta lección tiene cuatro actividades:
+Esta lección tiene tres actividades:
 
-📚 Anexo EPUB: *Tre fortellinger fra Norden* — tres microcuentos mitológicos (15 min)
-📖 SCORM de lectura guiada: comprensión paso a paso (8 min)
-🧩 Quiz cultural: dioses y símbolos (4 min)
-💭 Reflexión final: el curso completo (3 min)
+- 📚 Anexo EPUB: *Tre fortellinger fra Norden* — tres microcuentos mitológicos (15 min)
+- 🧩 Quiz cultural: dioses y símbolos (5 min)
+- 💭 Reflexión final: el curso completo (5 min)
 
 Hazlas en orden. Y date una palmada en la espalda por haber llegado hasta aquí. ¿Listo? *Vi setter i gang for siste gang!* (¡Empezamos por última vez!)
 
 ---
 
 ## 📚 Anexo EPUB: *Tre fortellinger fra Norden*
+
 **Tiempo estimado: 15 minutos**
 
 El anexo principal de esta lección es un **EPUB** con tres microcuentos mitológicos. Está pensado para leer **con calma**, en el formato que prefieras (móvil, lector electrónico, tablet).
@@ -45,67 +45,58 @@ Cada cuento ocupa **dos o tres páginas** y viene acompañado de:
 - Un **glosario lateral** con las palabras nuevas traducidas.
 - Un **breve apartado cultural** al final ("¿De dónde viene esta historia?").
 
-### Cómo abrirlo
+### Cómo leerlo
 
-- **En móvil**: cualquier app EPUB (Google Play Libros, Apple Libros, Moon+ Reader, Lithium).
-- **En ordenador**: Calibre, Adobe Digital Editions, Thorium.
+Tienes dos formas de acceder al anexo, igual que con el EPUB de L2:
 
-➡️ **Descargar el anexo EPUB**: [tre-fortellinger-fra-norden.epub](mitologia.epub)
+➡️ **Leer online**: [Abrir *Tre fortellinger fra Norden* en el navegador](tre-fortellinger/index.html ':ignore') *(se abre en nueva pestaña)*
+
+➡️ **Descargar para leer offline**: [Descargar EPUB](tre-fortellinger-fra-norden.epub ':ignore') *(para apps de lectura como Apple Libros, Google Play Libros, Calibre, Thorium…)*
 
 > 💡 **Cómo leer**: no intentes traducir palabra por palabra. Lee primero **el cuento entero** mirando solo las imágenes y los nombres propios. Luego vuelve a empezar y, **solo cuando una palabra te bloquee la frase**, mírala en el glosario. Esto se llama **lectura por inferencia contextual** y es la forma más rápida de mejorar tu comprensión real.
 
 ---
 
-## 📖 SCORM de lectura guiada: comprensión paso a paso
-**Tiempo estimado: 8 minutos**
-
-Para la lectura más complicada de los tres cuentos (***Tor og hammeren***), tienes un paquete SCORM con **lectura guiada por secuencias**: el cuento aparece **dividido en 6 fragmentos**, y entre fragmento y fragmento te aparece una pregunta de comprensión sencilla para asegurarte de que vas siguiendo el hilo.
-
-### Cómo funciona
-
-1. **Lees el fragmento 1**.
-2. Responde una pregunta (multiple choice, normalmente de 3 opciones).
-3. Si aciertas, pasa al fragmento 2. Si no, te muestra **una pista** y vuelve a preguntar.
-4. Y así hasta llegar al final.
-
-Al final, recibes un **resumen** con el porcentaje de aciertos y las palabras del glosario que más te han ayudado.
-
-### Por qué este formato
-
-Porque leer un cuento entero en A1 puede ser frustrante: si te bloqueas en la primera línea, abandonas. **Trocear el texto y dar feedback inmediato evita ese abandono** y te lleva al final aunque te equivoques. Es el mismo principio de la "*práctica guiada*" de Gagné que se aplicaba en mi curso anterior.
-
-➡️ **Descargar el SCORM**: [scorm-lectura.zip](scorm-lectura.zip)
-
-> 📌 **Nota técnica**: como en L1, el SCORM se entrega como descargable para importar a un LMS. La versión web embebida (H5P) se ofrecerá si los plazos del proyecto lo permiten.
-
----
-
 ## 🧩 Quiz cultural: dioses y símbolos
-**Tiempo estimado: 4 minutos**
 
-Un cuestionario corto y muy visual para comprobar si reconoces a los principales dioses nórdicos y sus símbolos asociados.
+**Tiempo estimado: 5 minutos**
+
+Un cuestionario corto para comprobar si reconoces a los principales dioses nórdicos, los símbolos asociados a cada uno y las conexiones con elementos que ya conocías del curso.
 
 ### Las preguntas
 
 1. ¿De qué dios nórdico viene el nombre del **miércoles** (*onsdag*)?
-2. ¿Qué arma usa Thor? ¿Y cómo se llama?
+2. ¿Qué arma usa Thor? ¿Cómo se llama?
 3. ¿Quiénes son **Huginn y Muninn** y a qué dios pertenecen?
-4. ¿Por qué Loki se considera el "embustero" del Asgard? Cita un ejemplo.
+4. ¿Por qué Loki se considera el "embustero" del Asgard? Cita un ejemplo del EPUB.
 5. ¿De qué día de la semana viene el nombre **Tyr**?
 6. ¿Qué relación tiene **Frigg** con el viernes (*fredag*)?
-7. ¿Qué es el ***Yggdrasil***? *(este aparece en los cuentos del EPUB)*
-8. En *God of War Ragnarök*, ¿qué personaje aparece como **enemigo principal** y por qué lo reconoces ahora?
-
-### Cómo hacerlo
-
-Responde mentalmente o por escrito. Las **soluciones** están al final de esta página, no las mires hasta haber intentado todas.
+7. ¿Qué es el ***Yggdrasil***? *(aparece en los cuentos del EPUB)*
+8. En *God of War Ragnarök* o en cualquier película de Marvel, ¿qué personajes reconoces ahora de estos cuentos y por qué?
 
 > 💡 **Conexión con lo aprendido**: muchas de estas respuestas te las dio L2 (cuando vimos los días de la semana). Si te bloqueas, vuelve a la tabla de los días en L2.
+
+Responde mentalmente o por escrito. Luego despliega las soluciones:
+
+<details>
+<summary><strong>🔎 Mostrar soluciones</strong> (haz clic para desplegar)</summary>
+
+1. **Odín** (*Odin* → *Onsdag*, antiguamente *Odins dag*, el día de Odín).
+2. El **martillo *Mjølnir***. En los cuentos del EPUB se explica cómo lo consigue.
+3. Son **dos cuervos** que pertenecen a **Odín**. Vuelan por el mundo y le traen noticias cada noche.
+4. Loki es un dios **tramposo, capaz de transformarse y cambiar de bando**. Ejemplo: convertirse en salmón para escapar (cuento 3 del EPUB).
+5. **Tyr** → *tirsdag* (martes).
+6. **Frigg** es la diosa madre, esposa de Odín. Su día es el viernes (*fredag*, antiguamente *Friggs dag*).
+7. ***Yggdrasil*** es el **árbol cósmico** que conecta los nueve mundos de la mitología nórdica.
+8. Respuesta libre. Pistas: **Thor**, **Odín** (Anthony Hopkins en *Thor*), **Loki**, **los cuervos de Odín** (aparecen en *Vikings* y *God of War*), el **árbol Yggdrasil** (visible en muchos juegos), las **Valquirias**...
+
+</details>
 
 ---
 
 ## 💭 Reflexión final: el curso completo
-**Tiempo estimado: 3 minutos**
+
+**Tiempo estimado: 5 minutos**
 
 Has llegado al final del curso. Antes de cerrar, vuelve a la libreta donde anotaste las **tres preguntas de L0**:
 
@@ -119,7 +110,7 @@ Léelas otra vez. Y ahora **escribe tres frases nuevas**:
 5. **¿Qué ha resultado ser realmente más difícil** de lo que esperabas?
 6. **¿Qué vas a hacer ahora con tu noruego?** ¿Dejarlo aquí? ¿Seguir con un A2? ¿Aprovecharlo para entender mejor *Skam* o las canciones que te gustan? ¿Apuntarte a un curso reglado?
 
-No hay respuesta correcta. Es **una conversación contigo mismo/a**: el curso ha durado tres horas, pero el aprendizaje real depende de qué hagas con esto a partir de mañana.
+No hay respuesta correcta. Es **una conversación contigo mismo/a**: el curso ha durado pocas horas, pero el aprendizaje real depende de qué hagas con esto a partir de mañana.
 
 ---
 
@@ -127,30 +118,14 @@ No hay respuesta correcta. Es **una conversación contigo mismo/a**: el curso ha
 
 Si has llegado hasta aquí, has cubierto:
 
-- ✅ **L0**: bokmål vs. nynorsk, el atajo germánico, expectativas claras.
+- ✅ **L0**: bokmål vs. nynorsk, el atajo germánico, expectativas claras del curso.
 - ✅ **L1**: saludos, alfabeto (æ, ø, å), presentación personal, primer contacto en una visual novel.
 - ✅ **L2**: números del 0 al 100, días, meses y las tres fechas que explican Noruega.
 - ✅ **L3**: preposiciones *i*/*på*/*til*, regiones, ciudades y un viaje a tu medida por el país.
 - ✅ **L4**: pedir comida en una cafetería, vocabulario gastronómico, *brunost*, *matpakke* y *koselig*.
-- ✅ **L5**: familia, gustos con *jeg liker (å)*, *friluftsliv* y referentes musicales.
-- ✅ **L6**: lectura real de microcuentos mitológicos en noruego A1.
+- ✅ **L5**: lectura real de microcuentos mitológicos en noruego A1.
 
-**Has pasado del A0 absoluto al A1 funcional en aproximadamente 3 horas de estudio.** No es poco. Has aprendido a presentarte, contar, moverte, pedir comida, hablar de los tuyos y leer un cuento en noruego. Y, sobre todo, has aprendido **a usar tu inglés como copiloto**: una herramienta que vas a poder seguir aplicando si decides continuar.
-
-⬅️ Volver a [la portada del curso](../)
-
----
-
-## Soluciones del quiz cultural
-
-1. **Odín** (*Odin* → *Onsdag*, antiguamente *Odins dag*).
-2. El **martillo *Mjølnir***. En los cuentos del EPUB se explica cómo lo consigue.
-3. Son **dos cuervos** que pertenecen a **Odín**. Vuelan por el mundo y le traen noticias.
-4. Loki es un dios **tramposo, capaz de transformarse y cambiar de bando**. Ejemplo: convertirse en salmón para escapar (cuento 3 del EPUB).
-5. **Tyr** → *tirsdag* (martes).
-6. **Frigg** es la diosa madre, esposa de Odín. Su día es el viernes (*fredag*, antiguamente *Friggs dag*).
-7. ***Yggdrasil*** es el **árbol cósmico** que conecta los nueve mundos de la mitología nórdica.
-8. Esto depende del juego, pero **Thor o Odín** son personajes clave en *God of War Ragnarök*. Si has jugado, ahora reconoces de dónde vienen.
+**Has pasado del A0 absoluto al A1 funcional**. No es poco. Has aprendido a presentarte, contar, moverte, pedir comida y leer un cuento en noruego. Y, sobre todo, has aprendido **a usar tu inglés como copiloto**: una herramienta que vas a poder seguir aplicando si decides continuar.
 
 ---
 
@@ -168,12 +143,15 @@ Si has llegado hasta aquí, has cubierto:
 ## Cierre
 
 *Tusen takk for at du har tatt dette kurset.*
-**Muchas gracias por hacer este curso.**
+
+**Mil gracias por hacer este curso.** *(En noruego, "muchísimas gracias" se dice literalmente "mil gracias" — un giro idiomático que ya forma parte de tu vocabulario nuevo.)*
 
 *Hvis du har lyst til å fortsette med norsk, finnes det mange gode ressurser: NDLA, NTNU, Klar Tale...*
+
 **Si quieres seguir con el noruego, hay muchos recursos buenos: NDLA, NTNU, Klar Tale...**
 
 *Vi sees!*
+
 **¡Nos vemos!**
 
 — Noelia 🇳🇴

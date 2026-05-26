@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>L4 · Quiz de comida y bebida · Velkommen til Norge!</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="container">
+    <header class="header">
+      <p class="breadcrumb">Velkommen til Norge! · L4 · <span>Cuestionario interactivo</span></p>
+      <h1>✅ Mat og drikke en contexto</h1>
+      <p class="intro">
+        10 preguntas sobre vocabulario de comida y bebida, fórmulas para pedir en cafeterías noruegas y los platos culturalmente icónicos.
+        Tres tipos de pregunta: <strong>opción múltiple</strong>, <strong>rellena el hueco</strong> y <strong>asociación</strong>.
+        Responde todas y pulsa <strong>Enviar</strong> al final para ver tu puntuación y las explicaciones de cada pregunta.
+      </p>
+    </header>
+
+    <section class="progress-bar-wrapper" aria-label="Progreso del cuestionario">
+      <div class="progress-bar">
+        <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+      </div>
+      <p class="progress-text"><span id="progressCount">0</span> / 10 respondidas</p>
+    </section>
+
+    <form id="quizForm" class="quiz-form" novalidate>
+      <!-- Las preguntas se generan dinámicamente desde quiz.js -->
+    </form>
+
+    <div class="submit-row">
+      <button id="submitBtn" type="button" class="btn btn-primary" disabled>
+        Enviar respuestas
+      </button>
+      <button id="resetBtn" type="button" class="btn btn-secondary hidden">
+        Volver a intentar
+      </button>
+    </div>
+
+    <section id="finalResult" class="final-result hidden">
+      <h2 id="finalTitle"></h2>
+      <p id="finalMessage"></p>
+      <div class="score-display">
+        <span class="score-number" id="scoreNumber">0</span>
+        <span class="score-total">/ 10</span>
+      </div>
+    </section>
+
+    <aside class="info-box">
+      <p><strong>📝 ¿Quieres también la versión imprimible?</strong></p>
+      <p>Esta lección incluye un <strong>cuadernillo PDF con 15 ejercicios</strong> para hacer offline, con clave de respuestas al final:</p>
+      <p>
+        <a href="../ejercicios-mat-og-drikke.pdf" download>📥 Descargar cuadernillo PDF</a>
+      </p>
+    </aside>
+  </main>
+
+  <script src="quiz.js"></script>
+</body>
+</html>
