@@ -136,7 +136,7 @@ Mientras juegas, fíjate en tres cosas:
 - **Cómo se introduce información personal poco a poco** (no se dice todo de golpe en la primera frase).
 - **Qué pasa si eliges la opción "formal" con personas de tu edad** (pista: queda raro, igual que en español).
 
-➡️ **Abrir la visual novel:** [Første dag på skolen](renpy-instituto/)
+➡️ **Abrir la visual novel:** <a href="/curso-noruego/L1-saludos-y-presentacion/renpy/" target="_blank" rel="noopener" data-no-routing>Første dag på skolen</a>
 
 Cuando acabes, vuelve aquí para la siguiente actividad.
 
@@ -159,7 +159,7 @@ Arrastra cada saludo o expresión a la situación que mejor le encaja. **Puedes 
 
 **Respuesta natural:** *Hei!* o, si quieres ser un poco más cortés, *God morgen!*
 
-➡️ **Abrir la actividad de emparejamiento** *(se descargará como paquete SCORM importable a Moodle u otra plataforma compatible)*: [scorm-saludos.zip](scorm-saludos.zip)
+➡️ **Abrir la actividad de emparejamiento** *(se descargará como paquete SCORM importable a Moodle u otra plataforma compatible)*: <a href="/curso-noruego/L1-saludos-y-presentacion/scorm-saludos.zip" download data-no-routing>scorm-saludos.zip</a>
 
 ---
 
