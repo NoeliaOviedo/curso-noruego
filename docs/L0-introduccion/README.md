@@ -19,10 +19,12 @@ Al terminar esta lección, serás capaz de:
 
 Esta lección tiene dos actividades:
 
-🎞️ Presentación visual: ¿Por qué noruego? (10 min)
+[🎞️ Presentación visual: ¿Por qué noruego? (10 min)](presentacion-reveal/index.html)
+
 💭 Reflexión inicial: tus expectativas (5 min)
 
 Hazlas en orden. ¿Listo? 
+
 *Vi setter i gang!*
 
 ---
@@ -51,7 +53,9 @@ La presentación recorre, en 12 diapositivas, los puntos que necesitas conocer a
 11. **Recopilación**: lo que necesitas tener claro antes de seguir.
 12. **El primer paso**: cómo continuar.
 
-➡️ **Abrir la presentación** *(se abre en una nueva pestaña)*: [Presentación L0 — ¿Por qué noruego?](presentacion-reveal/index.html)
+➡️ **Abrir la presentación** *(se abre en una nueva pestaña)*: 
+
+[Presentación L0 — ¿Por qué noruego?](presentacion-reveal/index.html)
 
 > 💡 **Cómo navegar por la presentación**: usa las flechas del teclado (← →) o pulsa los iconos de navegación.
 
@@ -63,10 +67,10 @@ La presentación recorre, en 12 diapositivas, los puntos que necesitas conocer a
 Cierras la presentación y vuelves aquí. Antes de pasar a la primera lección de noruego "de verdad", para un momento y responde a estas preguntas en papel o en un documento:
 
 1. **¿Qué te ha traído a este curso?** Sé concreto: la serie X, el videojuego Y, una canción de Z, una conversación con alguien... Lo más específico que puedas.
-2. **¿Qué te gustaría poder hacer al terminarlo?** Aquí también, concreto: entender los diálogos de *Skam* sin subtítulos, leer una receta en una caja de *brunost*, entender la letra de una canción de Aurora...
+2. **¿Qué te gustaría poder hacer al terminarlo?** Aquí también, concreto: entender los diálogos de *Norsemen* sin subtítulos, leer una receta en una caja de *brunost*, entender la letra de una canción de Aurora...
 3. **¿Qué crees que va a ser lo más difícil para ti?** Las letras æ, ø, å, los números, el orden de las palabras, la pronunciación... Cualquier intuición vale.
 
-> ⚠️ **No pierdas esta reflexión**. Cuando termines L6 (la última lección), vuelve a estas respuestas y compáralas con dónde estás entonces. Es la mejor manera de ver cuánto has aprendido — mucho más que un examen.
+> ⚠️ **No pierdas esta reflexión**. Cuando termines L6 (la última lección), vuelve a estas respuestas y compáralas con dónde estás entonces. Es la mejor manera de ver cuánto has aprendido.
 
 Esta reflexión no se evalúa. Sirve para una sola cosa: **convertir un curso autoformativo en un compromiso contigo**. Sin profesor que te empuje, lo único que mantiene el curso vivo es saber a dónde vas.
 
@@ -74,18 +78,18 @@ Esta reflexión no se evalúa. Sirve para una sola cosa: **convertir un curso au
 
 ## Resumen de la lección
 
-Si has llegado hasta aquí, ya tienes:
+Si has terminado la lección, debes tener:
 
 - ✅ Una idea clara de qué es el bokmål y por qué lo estás aprendiendo.
-- ✅ La intuición del atajo germánico inglés-noruego.
+- ✅ La pista del inglés-noruego.
 - ✅ La estructura del curso en la cabeza.
 - ✅ Tus tres respuestas guardadas para comparar al final.
 
 En la próxima lección entrarás en materia: vas a aprender a saludar, presentarte y conocer las tres letras especiales del alfabeto noruego. 
 
-➡️ **Continuar a [L1 · *Hei!* — Saludos y presentación](../L1-presentarse/)**
+➡️ **Continuar a [L1 · *Hei!* — Saludos y presentación](/docs/L1-saludos-y-presentacion/README.md)**
 
-⬅️ Volver a [la portada del curso](../)
+⬅️ Volver a [la portada del curso](/)
 
 ---
 
@@ -94,7 +98,7 @@ En la próxima lección entrarás en materia: vas a aprender a saludar, presenta
 Datos sobre el bokmål y el nynorsk verificados con:
 
 - **Språkrådet** (Consejo de la Lengua Noruega). *Bokmål og nynorsk*. [sprakradet.no](https://www.sprakradet.no)
-- **NTNU** (Norges teknisk-naturvitenskapelige universitet). *Learn NoW — Pronunciation*. [ntnu.edu/now/1](https://www.ntnu.edu/now/1)
+- **NTNU** (Norges teknisk-naturvitenskapelige universitet). *Learn NoW — Pronunciation*.
 - Faarlund, J. T., Lie, S., & Vannebo, K. I. (1997). *Norsk referansegrammatikk*. Universitetsforlaget.
 
 Datos demográficos: Statistisk sentralbyrå (SSB) — Oficina de Estadística de Noruega.
