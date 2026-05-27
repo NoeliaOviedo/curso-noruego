@@ -272,8 +272,11 @@ section.cover .cover-main {
   text-align: center;
 }
 
-section.cover h1 {
+section.cover.show h1,
+section.cover.show h1 a,
+section.cover.show h1 span {
   color: #ffffff !important;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);
 }
 
 section.cover h1 a {
@@ -281,14 +284,16 @@ section.cover h1 a {
   text-decoration: none;
 }
 
-section.cover h1 small {
-  display: block;
-  font-size: 0.35em;
+section.cover.show h1 small {
+  display: block !important;
+  font-size: 0.35em !important;
   font-weight: 500;
   color: var(--color-accent) !important;
   -webkit-text-stroke: 0;
   margin-top: 0.3em;
   letter-spacing: 0.05em;
+  text-align: center;
+  text-shadow: none;
 }
 
 section.cover blockquote {
@@ -328,13 +333,15 @@ section.cover .cover-main > p:last-child a {
   display: inline-block;
 }
 
-section.cover .cover-main > p:last-child a:first-child {
+section.cover.show .cover-main > p:last-child a:first-child,
+section.cover.show .cover-main > p:last-child a:first-child:link,
+section.cover.show .cover-main > p:last-child a:first-child:visited {
   background: transparent !important;
   color: #ffffff !important;
   border: 2px solid #ffffff !important;
 }
 
-section.cover .cover-main > p:last-child a:first-child:hover {
+section.cover.show .cover-main > p:last-child a:first-child:hover {
   background: #ffffff !important;
   color: var(--color-primary) !important;
 }
