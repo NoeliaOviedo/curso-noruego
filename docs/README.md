@@ -6,11 +6,11 @@
 
 El interés por el noruego entre el público hispanohablante ha crecido en los últimos años, impulsado por series como *Norsemen*, la mitología nórdica, los videojuegos como *God of War Ragnarök*, y la música de artistas como *Aurora*. Sin embargo, la oferta de cursos en español sigue siendo escasa y suele estar pensada para perfiles adultos con motivaciones académicas o laborales.
 
-<div class="grid-4">
-  <img src="assets/img/referente-norsemen.jpg" alt="Serie Norsemen">
-  <img src="assets/img/referente-mitologia.jpg" alt="Mitología nórdica">
-  <img src="assets/img/referente-godofwar.jpg" alt="God of War Ragnarök">
-  <img src="assets/img/referente-aurora.jpg" alt="Cantante Aurora">
+<div class="grid-images grid-2">
+  <img src="assets/img/referente-norsemen.jpg" alt="Serie Norsemen" data-no-zoom>
+  <img src="assets/img/referente-mitologia.jpg" alt="Mitología nórdica" data-no-zoom>
+  <img src="assets/img/referente-godofwar.jpg" alt="God of War Ragnarök" data-no-zoom>
+  <img src="assets/img/referente-aurora.jpg" alt="Cantante Aurora" data-no-zoom>
 </div>
 
 Este curso aborda ese vacío con un microcurso introductorio (A0 → A1) en bokmål, autoformativo y publicado como sitio web abierto, que utiliza la cultura nórdica como vehículo de la lengua.
