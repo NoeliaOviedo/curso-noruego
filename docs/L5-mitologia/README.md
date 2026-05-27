@@ -49,9 +49,9 @@ Los textos originales del ***Edda en prosa*** (siglo XIII, escrito por Snorri St
 
 Tienes dos formas de acceder al anexo, igual que con el EPUB de L2:
 
-➡️ **Leer online**: [Abrir *Tre fortellinger fra Norden* en el navegador](tre-fortellinger/index.html ':ignore') *(se abre en nueva pestaña)*
+➡️ **Leer online**: <a href="/curso-noruego/L5-mitologia/tre-fortellinger/" target="_blank" rel="noopener" data-no-routing>Abrir *Tre fortellinger fra Norden* en el navegador</a> *(se abre en nueva pestaña)*
 
-➡️ **Descargar para leer offline**: [Descargar EPUB](tre-fortellinger-fra-norden.epub ':ignore') *(para apps de lectura como Apple Libros, Google Play Libros, Calibre, Thorium…)*
+➡️ **Descargar para leer offline**: <a href="/curso-noruego/L5-mitologia/tre-fortellinger-fra-norden.epub" download data-no-routing>Descargar EPUB</a> *(para apps de lectura como Apple Libros, Google Play Libros, Calibre, Thorium…)*
 
 > 💡 **Cómo leer**: no intentes traducir palabra por palabra. Lee primero **el cuento entero** mirando solo las imágenes y los nombres propios. Haz una **lectura por inferencia contextual** como forma más rápida de mejorar tu comprensión real.
 
@@ -124,6 +124,10 @@ Si has llegado hasta aquí, has cubierto:
 - ✅ **L5**: lectura real de microcuentos mitológicos en noruego A1.
 
 **Has pasado del A0 absoluto al A1 funcional**. No es poco. Has aprendido a presentarte, contar, moverte, pedir comida y leer un cuento en noruego. Y, sobre todo, has aprendido **a usar tu inglés como copiloto**: una herramienta que vas a poder seguir aplicando si decides continuar.
+
+---
+
+⬅️ Volver a [la portada del curso](/)
 
 ---
 
