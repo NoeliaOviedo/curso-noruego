@@ -110,18 +110,33 @@ Noruega es un país largo. De norte a sur mide más de 1700 km en línea recta. 
  
 **1. Østlandet — El este**
 La región más poblada, alrededor de **Oslo**, la capital. Es donde están la mayoría de instituciones, universidades y el famoso instituto Hartvig Nissens que aparece en *Skam*. Aquí se habla la variedad del noruego que estás aprendiendo (Urban East Norwegian).
+
+<img src="L3-lugares-y-orientacion/img/este.jpg" alt="Østlandet" style="max-width: 300px;">
+
  
 **2. Vestlandet — El oeste**
 La región de los **fiordos**: Sognefjorden (el más largo, 205 km), Geirangerfjorden (Patrimonio Mundial), Hardangerfjorden. La ciudad principal es **Bergen**, conocida por su lluvia (llueve unos 230 días al año, no es leyenda urbana), su mercado de pescado y por ser puerta de entrada a los fiordos.
+
+<img src="L3-lugares-y-orientacion/img/oeste.jpg" alt="Vestlandet" style="max-width: 300px;">
+
  
 **3. Sørlandet — El sur**
 La costa sur, casas blancas de madera, veranos cortos pero soleados. La ciudad principal es **Kristiansand**. Los noruegos pasan aquí sus vacaciones de verano como otros van al Mediterráneo.
+
+<img src="L3-lugares-y-orientacion/img/sur.jpg" alt="Sørlandet" style="max-width: 300px;">
+
  
 **4. Trøndelag — La región central**
 La ciudad principal es **Trondheim**, antigua capital medieval, sede de la NTNU (la mayor universidad tecnológica del país) y de la Catedral de Nidaros, el monumento medieval más importante de Escandinavia.
+
+<img src="L3-lugares-y-orientacion/img/central.jpg" alt="Trøndelag" style="max-width: 300px;">
+
  
 **5. Nord-Norge — El norte**
 El gran norte: **Bodø, Tromsø, Lofoten, Hammerfest**, el Cabo Norte. Aquí pasan tres cosas que el resto de Europa solo conoce de oídas: el ***mørketid*** (semanas sin sol en invierno), la ***midnattssol*** (sol de medianoche en verano) y las ***nordlys*** (auroras boreales).
+
+<img src="L3-lugares-y-orientacion/img/norte.jpg" alt="Nord-Norge" style="max-width: 300px;">
+
  
 ### Mientras lees, fija tres ideas
  
@@ -178,7 +193,8 @@ Empareja cada lugar de la columna A con la descripción correcta de la columna B
 | 3. Trondheim | c. Ciudad de los fiordos del oeste, mucha lluvia |
 | 4. Tromsø | d. Puerto del norte, auroras boreales |
 | 5. Lofoten | e. Archipiélago pesquero del norte |
- 
+
+
 > 💡 **Si dudas**: piensa en qué pasa en cada sitio que hayas visto en la narrativa Twine. Tu propio viaje te da las pistas.
  
 <details>
@@ -186,6 +202,8 @@ Empareja cada lugar de la columna A con la descripción correcta de la columna B
 1-b · 2-c · 3-a · 4-d · 5-e
  
 </details>
+
+
 ---
  
 ## ✏️ Mini-ejercicios: comprueba lo que has aprendido
