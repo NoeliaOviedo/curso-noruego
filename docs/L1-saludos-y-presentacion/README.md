@@ -42,7 +42,7 @@ Esa es la primera regla que tienes que interiorizar.
 
 En Noruega no hay una sola forma escrita del idioma: hay dos. **Bokmål** ("lengua del libro") es la que usa el 85% de la población, la de los medios, la de los manuales escolares y la que se enseña a los extranjeros. La otra se llama **nynorsk** y se usa más en zonas rurales del oeste del país. En este curso aprenderás bokmål, que es lo que necesitas para entender prácticamente cualquier cosa en Noruega.
 
-![Mapa con las variedades lingüísticas](img/bokmal.png)
+<img src="img/portada.png" alt="Mapa con las variedades lingüísticas" style="max-width: 400px;">
 
 > 💡 **El primer atajo germánico:** *bok* significa "libro" en noruego. ¿A qué se parece en inglés? Exacto: *book*. Y *mål* significa "lengua, idioma". El noruego y el inglés son lenguas primas y vas a ver decenas de palabras como esta a lo largo del curso. Acostúmbrate a buscar la conexión con el inglés que ya sabes.
 
@@ -162,16 +162,55 @@ Arrastra cada saludo o expresión a la situación que mejor le encaja. **Puedes 
 ➡️ **Abrir la actividad de emparejamiento** *(se descargará como paquete SCORM importable a Moodle u otra plataforma compatible)*: [scorm-saludos.zip](scorm-saludos.zip)
 
 ---
+
+## ✏️ Mini-ejercicios de autocorrección
+**Tiempo estimado: 4 minutos**
+
+Cuatro ejercicios cortos para fijar lo aprendido. Resuélvelos primero por tu cuenta y luego despliega el bloque de respuestas al final para comprobar.
+
+### Ejercicio 1 — Preséntate por escrito
+
+Imagina que acabas de llegar a un instituto de Oslo. **Escribe en noruego cinco frases para presentarte** a un compañero de clase. Incluye:
+
+1. Un saludo informal.
+2. Tu nombre.
+3. De dónde vienes.
+4. Tu edad.
+5. Una despedida.
+
+Si quieres, sustituye los datos por tus datos reales (o invéntalos: aquí lo importante es la estructura, no la verdad biográfica).
+
+### Ejercicio 2 — Empareja preguntas y respuestas
+
+Une cada pregunta de la columna izquierda con su respuesta lógica de la columna derecha.
+
+| Pregunta | Respuesta |
+|----------|-----------|
+| 1. *Hva heter du?* | a. *Jeg er 17 år gammel.* |
+| 2. *Hvor kommer du fra?* | b. *Bra, takk.* |
+| 3. *Hvor gammel er du?* | c. *Jeg heter Marcos.* |
+| 4. *Hvordan går det?* | d. *Jeg kommer fra Mexico.* |
+
+### Ejercicio 3 — Elige el saludo adecuado
+
+Lee cada situación y decide qué saludo encaja mejor: *Hei*, *Hallo*, *God morgen*, *God dag*, *God kveld* o *God natt*.
+
+1. Son las 11 de la mañana. Te cruzas con un compañero de clase por el pasillo.
+2. Son las 9 de la noche. Entras en casa de la familia que te aloja en Oslo.
+3. Estás en el supermercado y saludas a la cajera mientras pone tu compra en la cinta.
+4. Suena tu móvil y descuelgas para hablar con tu profesora de noruego.
+
 ### Ejercicio 4 — Detective de cognados
- 
+
 Mira estas seis palabras noruegas. **Cuatro de ellas tienen un cognado claro en inglés**. Identifica cuáles y escribe su pariente inglés al lado:
- 
+
 1. *hus* → ______________________
 2. *jente* (chica) → ______________________
 3. *sommer* → ______________________
 4. *gutt* (chico) → ______________________
 5. *vinter* → ______________________
 6. *bok* → ______________________
+
 ---
  
 <details>
@@ -194,36 +233,10 @@ Mira estas seis palabras noruegas. **Cuatro de ellas tienen un cognado claro en 
 **Ejercicio 4:** los cognados claros son **hus** (*house*), **sommer** (*summer*), **vinter** (*winter*) y **bok** (*book*). *Jente* y *gutt* no tienen cognado evidente en inglés actual.
  
 </details>
-> 💡 **Si has fallado más de la mitad de un ejercicio**: no pasa nada, vuelve a la lectura y repásalo. La idea no es aprobar nada, sino que detectes qué necesitas reforzar antes de pasar a la siguiente lección.
  
 ---
 
 ## 💭 Reflexión rápida: el atajo germánico
-**Tiempo estimado: 4 minutos**
-
-Cierra la lección con una vuelta al principio. Al empezar te dije esto:
-
-> *"Si ya sabes inglés, llevas medio camino hecho."*
-
-Ahora que has visto las primeras frases del noruego, vas a comprobarlo tú mismo.
-
-### Instrucciones
-
-Mira esta frase en noruego y compárala palabra por palabra con su traducción inglesa:
-
-> 🇳🇴 ***Jeg er seksten år gammel og jeg kommer fra Spania.***
-> 🇬🇧 *I am sixteen years old and I come from Spain.*
-
-Cuenta cuántas palabras noruegas se parecen claramente a su equivalente inglesa. Después, escribe una respuesta corta (3-5 frases) contestando estas preguntas:
-
-1. ¿Cuántas palabras has encontrado que se parezcan al inglés?
-2. ¿Crees que esto te va a ayudar en las próximas lecciones? ¿Por qué?
-3. ¿Qué te ha resultado más raro de esta primera lección (los sonidos de æ/ø/å, el orden de las palabras, las dos formas de escribir el idioma…)?
-
-Esta actividad no se evalúa. Solo te sirve para **hacerte consciente** de un mecanismo que vas a explotar durante todo el curso: cada vez que aprendas una palabra nueva en noruego, párate un segundo a buscar su pariente en inglés. Es la herramienta más potente que tienes a tu disposición.
-
----
-
 **Tiempo estimado: 4 minutos**
  
 Cierra la lección con una vuelta al principio. Al empezar te dije esto:
