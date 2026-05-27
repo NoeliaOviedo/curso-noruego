@@ -19,7 +19,7 @@ Al terminar esta lección, serás capaz de:
 
 Esta lección tiene dos actividades:
 
-[🎞️ Presentación visual: ¿Por qué noruego? (10 min)](presentacion-reveal/)
+🎞️ Presentación visual: ¿Por qué noruego? (10 min)
 
 💭 Reflexión inicial: tus expectativas (5 min)
 
@@ -53,9 +53,7 @@ La presentación recorre, en 12 diapositivas, los puntos que necesitas conocer a
 11. **Recopilación**: lo que necesitas tener claro antes de seguir.
 12. **El primer paso**: cómo continuar.
 
-➡️ **Abrir la presentación** *(se abre en una nueva pestaña)*: 
-
-[Presentación L0 — ¿Por qué noruego?](presentacion-reveal/)
+➡️ <a href="presentacion-reveal/index.html" target="_blank" rel="noopener" data-no-routing>➡️**Abrir la presentación** (se abre en una nueva pestaña)</a>
 
 > 💡 **Cómo navegar por la presentación**: usa las flechas del teclado (← →) o pulsa los iconos de navegación.
 
