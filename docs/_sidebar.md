@@ -3,7 +3,7 @@
   - [**L0** · Introducción al curso](L0-introduccion/)
     - [🎞️ Presentación reveal.js](/curso-noruego/L0-introduccion/presentacion-reveal/ ':ignore :target=_blank')
   - [**L1** · *Hei!* Saludar y presentarte](L1-saludos-y-presentacion/)
-    - [🎮 Visual novel: *Første dag på skolen*](/curso-noruego/L1-saludos-y-presentacion/renpy-instituto/ ':ignore :target=_blank')
+    - [🎮 Visual novel: *Første dag på skolen*](/curso-noruego/L1-saludos-y-presentacion/renpy/ ':ignore :target=_blank')
     - [🧩 SCORM H5P: empareja saludos](/curso-noruego/L1-saludos-y-presentacion/scorm-saludos.zip ':ignore :target=_blank')
   - [**L2** · *Tall og tid* — Números y tiempo](L2-numeros-y-tiempo/)
     - [📚 EPUB: *Det norske året*](L2-numeros-y-tiempo/det-norske-aret.epub)
