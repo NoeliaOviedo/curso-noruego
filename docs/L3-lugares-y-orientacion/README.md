@@ -21,7 +21,10 @@ Esta lección tiene cinco actividades:
 - 🧩 Empareja lugares con descripciones (3 min)
 - ✏️ Mini-ejercicios de autocorrección (4 min)
 - 💭 Reflexión: tu mapa mental de Noruega (2 min)
-Hazlas en orden. ¿Listo? *Vi setter i gang!*
+
+Hazlas en orden. ¿Listo? 
+
+*Vi setter i gang!*
  
 ---
  
@@ -31,7 +34,9 @@ Hazlas en orden. ¿Listo? *Vi setter i gang!*
  
 ### Antes de leer
  
-Piensa cómo dices en español "vivo en Madrid", "voy a Barcelona" y "estoy en la plaza". En las tres usas distintos matices con la misma preposición *en*. **El noruego separa estos matices con tres preposiciones diferentes**: *i*, *på* y *til*. Aprender a elegir entre ellas es uno de los retos más típicos del nivel A1.
+Piensa cómo dices en español "vivo en Madrid", "voy a Barcelona" y "estoy en la plaza". En las tres usas distintos matices con la misma preposición *en*. 
+
+**El noruego separa estos matices con tres preposiciones diferentes**: *i*, *på* y *til*. Aprender a elegir entre ellas es uno de los retos más típicos del nivel A1.
  
 ### Las tres preposiciones que mandan: *i*, *på*, *til*
  
@@ -49,12 +54,11 @@ Se usa para **superficies, lugares abiertos** y, de forma rara para hispanohabla
 - *Boken ligger på bordet.* — El libro está sobre la mesa.
 - *Jeg er på jobben.* — Estoy en el trabajo.
 - *Han bor på Lillehammer.* — Él vive en Lillehammer.
-> ⚠️ **El gran lío del A1**: ¿por qué *i* Oslo pero *på* Lillehammer? La regla aproximada que enseñan en las escuelas noruegas es: **ciudades grandes y costeras → *i*; ciudades pequeñas o de interior, islas y elevaciones → *på***. No siempre se cumple al 100% (es uno de esos casos donde la lengua tiene memoria histórica), pero como heurístico A1 funciona.
+> ⚠️ **El gran lío del A1**: ¿por qué *i* Oslo pero *på* Lillehammer? La regla es: **ciudades grandes y costeras → *i*; ciudades pequeñas o de interior, islas y elevaciones → *på***.
 >
 > - *i*: Oslo, Bergen, Trondheim, Stavanger, Tromsø, Kristiansand
 > - *på*: Lillehammer, Røros, Geilo, Hamar
 >
-> **Truco práctico**: si no sabes cuál de las dos toca, di *i* y prepárate a que un noruego te corrija con simpatía. Es el error más común y nadie se ofende.
  
 **3. *til* = "a / hacia" (movimiento, dirección)**
  
@@ -63,7 +67,7 @@ Se usa para **moverse hacia un lugar**:
 - *Jeg går til skolen.* — Voy a la escuela.
 - *Vi reiser til Bergen.* — Viajamos a Bergen.
 - *Toget går til Oslo.* — El tren va a Oslo.
-> 💡 **Atajo germánico**: *til* es el equivalente directo del inglés *to*. Si en inglés dirías *go to Bergen*, en noruego es *gå til Bergen*. Misma palabra, misma idea.
+> 💡 **Atajo germánico**: *til* es el equivalente directo del inglés *to*. Si en inglés dirías *go to Bergen*, en noruego es *gå til Bergen*.
  
 ### Vocabulario urbano básico
  
@@ -98,8 +102,7 @@ Cuatro fórmulas que te salvan la vida cuando te pierdes:
 | A la izquierda. | *Til venstre.* |
 | Cerca / lejos | *Nær / langt* |
 | ¿Está lejos? | *Er det langt?* |
- 
-> 💡 **Atajo germánico**: *til høyre / til venstre* corresponde exactamente al inglés *to the right / to the left*. La estructura es la misma.
+
  
 ### Las cinco regiones que tienes que ubicar
  

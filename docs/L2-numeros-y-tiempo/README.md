@@ -53,7 +53,6 @@ Empezamos por los básicos. Estos hay que **memorizarlos**: no se construyen con
 | 8 | *åtte* | 19 | *nitten* |
 | 9 | *ni* | 20 | *tjue* (o *tyve*) |
 | 10 | *ti* |  |  |
- 
 
 
 > 💡 **Truco**: mira *to, tre, fire, fem, seks, sju, ni, ti*. Compáralos con *two, three, four, five, six, seven, nine, ten*. Vienen de la misma raíz.
@@ -77,7 +76,6 @@ Para llegar a 100, primero las decenas:
 | 80 | *åtti* |
 | 90 | *nitti* |
 | 100 | *(ett) hundre* |
- 
 
 
 > 💡 La regla es clara: la decena se forma con el número base + sufijo *-ti* (que viene de *ti* = diez).
@@ -110,8 +108,6 @@ Los noruegos empiezan la semana en **lunes**, no en domingo. Los nombres vienen,
 | Viernes | *fredag* | Día de **Frigg** (diosa nórdica) |
 | Sábado | *lørdag* | Día del baño (del nórdico antiguo *laug* = baño) |
 | Domingo | *søndag* | Día del Sol (*Sol* = Sol) |
- 
-
 
 
 > 💡 **Truco**: el inglés tomó los mismos nombres mitológicos para sus días — *Tuesday* (Tyr), *Wednesday* (Wodan/Odín), *Thursday* (Thor), *Friday* (Frigg). Si te sabes los días en inglés, en noruego solo tienes que cambiar la terminación a *-dag*.
@@ -128,8 +124,6 @@ Los meses son fáciles porque vienen del latín y se parecen mucho al español y
 | Abril | *april* | Octubre | *oktober* |
 | Mayo | *mai* | Noviembre | *november* |
 | Junio | *juni* | Diciembre | *desember* |
- 
-
 
 
 > ⚠️ **Los meses van en minúscula** en noruego, igual que en español. Solo se ponen en mayúscula si están al principio de una frase.
@@ -144,8 +138,6 @@ Cuatro fórmulas mínimas:
 | Hoy es lunes. | *I dag er det mandag.* |
 | ¿Cuándo es tu cumpleaños? | *Når har du bursdag?* |
 | Mi cumpleaños es el 14 de marzo. | *Bursdagen min er den 14. mars.* |
- 
-
 
 
 > 📌 **El truco del punto**: ¿has visto el punto detrás del 14? En noruego, los números ordinales (1.º, 2.º, 14.º...) se escriben **con un punto detrás de la cifra**, no con superíndice. Por eso el día nacional se escribe ***17. mai*** y nunca *17º de mai*.
