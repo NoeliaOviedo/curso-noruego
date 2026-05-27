@@ -19,7 +19,7 @@ Al terminar esta lección, serás capaz de:
 
 Esta lección tiene dos actividades:
 
-[🎞️ Presentación visual: ¿Por qué noruego? (10 min)](presentacion-reveal/index.html)
+[🎞️ Presentación visual: ¿Por qué noruego? (10 min)](presentacion-reveal/)
 
 💭 Reflexión inicial: tus expectativas (5 min)
 
@@ -55,7 +55,7 @@ La presentación recorre, en 12 diapositivas, los puntos que necesitas conocer a
 
 ➡️ **Abrir la presentación** *(se abre en una nueva pestaña)*: 
 
-[Presentación L0 — ¿Por qué noruego?](presentacion-reveal/index.html)
+[Presentación L0 — ¿Por qué noruego?](presentacion-reveal/)
 
 > 💡 **Cómo navegar por la presentación**: usa las flechas del teclado (← →) o pulsa los iconos de navegación.
 
@@ -70,7 +70,7 @@ Cierras la presentación y vuelves aquí. Antes de pasar a la primera lección d
 2. **¿Qué te gustaría poder hacer al terminarlo?** Aquí también, concreto: entender los diálogos de *Norsemen* sin subtítulos, leer una receta en una caja de *brunost*, entender la letra de una canción de Aurora...
 3. **¿Qué crees que va a ser lo más difícil para ti?** Las letras æ, ø, å, los números, el orden de las palabras, la pronunciación... Cualquier intuición vale.
 
-> ⚠️ **No pierdas esta reflexión**. Cuando termines L6 (la última lección), vuelve a estas respuestas y compáralas con dónde estás entonces. Es la mejor manera de ver cuánto has aprendido.
+> ⚠️ **No pierdas esta reflexión**. Cuando termines L5 (la última lección), vuelve a estas respuestas y compáralas con dónde estás entonces. Es la mejor manera de ver cuánto has aprendido.
 
 Esta reflexión no se evalúa. Sirve para una sola cosa: **convertir un curso autoformativo en un compromiso contigo**. Sin profesor que te empuje, lo único que mantiene el curso vivo es saber a dónde vas.
 
@@ -87,7 +87,7 @@ Si has terminado la lección, debes tener:
 
 En la próxima lección entrarás en materia: vas a aprender a saludar, presentarte y conocer las tres letras especiales del alfabeto noruego. 
 
-➡️ **Continuar a [L1 · *Hei!* — Saludos y presentación](/docs/L1-saludos-y-presentacion/README.md)**
+➡️ **Continuar a [L1 · *Hei!* — Saludos y presentación](/L1-saludos-y-presentacion/)**
 
 ⬅️ Volver a [la portada del curso](/)
 
