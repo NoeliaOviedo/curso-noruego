@@ -55,6 +55,7 @@ Empezamos por los básicos. Estos hay que **memorizarlos**: no se construyen con
 | 10 | *ti* |  |  |
  
 
+
 > 💡 **Truco**: mira *to, tre, fire, fem, seks, sju, ni, ti*. Compáralos con *two, three, four, five, six, seven, nine, ten*. Vienen de la misma raíz.
  
 > ⚠️ **Una palabra para "uno", tres formas**: en noruego, *uno* tiene tres formas según el género del sustantivo que acompaña: *en gutt* (un chico), *ei jente* (una chica), *ett hus* (una casa). Suena raro al principio, pero solo afecta al número 1; el resto de números no cambian.
@@ -77,6 +78,7 @@ Para llegar a 100, primero las decenas:
 | 90 | *nitti* |
 | 100 | *(ett) hundre* |
  
+
 
 > 💡 La regla es clara: la decena se forma con el número base + sufijo *-ti* (que viene de *ti* = diez).
  
@@ -111,6 +113,7 @@ Los noruegos empiezan la semana en **lunes**, no en domingo. Los nombres vienen,
  
 
 
+
 > 💡 **Truco**: el inglés tomó los mismos nombres mitológicos para sus días — *Tuesday* (Tyr), *Wednesday* (Wodan/Odín), *Thursday* (Thor), *Friday* (Frigg). Si te sabes los días en inglés, en noruego solo tienes que cambiar la terminación a *-dag*.
  
 ### Los meses del año
@@ -127,6 +130,8 @@ Los meses son fáciles porque vienen del latín y se parecen mucho al español y
 | Junio | *juni* | Diciembre | *desember* |
  
 
+
+
 > ⚠️ **Los meses van en minúscula** en noruego, igual que en español. Solo se ponen en mayúscula si están al principio de una frase.
  
 ### Preguntar y dar fechas
@@ -141,6 +146,8 @@ Cuatro fórmulas mínimas:
 | Mi cumpleaños es el 14 de marzo. | *Bursdagen min er den 14. mars.* |
  
 
+
+
 > 📌 **El truco del punto**: ¿has visto el punto detrás del 14? En noruego, los números ordinales (1.º, 2.º, 14.º...) se escriben **con un punto detrás de la cifra**, no con superíndice. Por eso el día nacional se escribe ***17. mai*** y nunca *17º de mai*.
  
 ### Tres fechas para entender Noruega
@@ -152,6 +159,7 @@ Hay tres momentos del año que cualquier persona que se acerque a Noruega tiene 
 Es la fecha más importante del calendario noruego. Conmemora la firma de la Constitución de 1814, cuando Noruega se declaró nación independiente (aunque siguió bajo unión con Suecia hasta 1905). El día se vive con **desfiles infantiles** (no militares, una rareza europea), todo el mundo viste el ***bunad*** (traje tradicional regional), las calles se llenan de banderas y se canta el himno nacional.
 
 <img src="L2-numeros-y-tiempo/img/17mai.jpg" alt="Desfile de la fiesta nacional" style="max-width: 300px;">
+
  
 **🎄 *Jul* — La Navidad noruega (diciembre y enero)**
  
@@ -159,17 +167,20 @@ Es la fecha más importante del calendario noruego. Conmemora la firma de la Con
 
 <img src="L2-numeros-y-tiempo/img/duende.jpeg" alt="Fjøsnisse" style="max-width: 300px;">
  
+
 **🌒 *Mørketid* — La temporada oscura (noviembre a enero)**
  
 En el norte de Noruega (por encima del Círculo Polar Ártico, ciudades como **Tromsø**), el sol **no sale durante semanas** entre noviembre y enero. Es lo que se llama ***mørketid*** ("tiempo oscuro"). En Tromsø, el sol desaparece sobre el 27 de noviembre y vuelve sobre el 15 de enero — casi dos meses sin luz directa. La compensación: las **auroras boreales** son espectaculares. La cultura noruega del invierno (velas, *koselig*, esquí, sauna...) se entiende mejor cuando sabes que **el sol no es un dado**.
 
 <img src="L2-numeros-y-tiempo/img/morketid.jpeg" alt="Mørketid" style="max-width: 300px;">
- 
+
+
 ### Mientras lees, fija tres ideas
  
 1. **Para contar del 21 al 99, decena primero y unidad después**, todo junto: *tjueen, trettito, førtitre...* Como en inglés.
 2. **Los meses van en minúscula**. Importa: es un error que los anglohablantes cometen siempre.
 3. **El calendario noruego no es neutro**: tres fechas (*17. mai*, *jul*, *mørketid*) explican una buena parte de cómo viven los noruegos su año.
+
 ---
  
 ## ✅ Cuestionario interactivo: números en contexto
@@ -259,8 +270,10 @@ Mira estas palabras noruegas. Identifica si tienen cognado en inglés (y cuál e
 5. *år* → **year** (cognado: *år*/*year*/alemán *Jahr*)
 </details>
  
+
 ---
  
+
 ## 📚 Anexo EPUB: *Det norske året* — el año noruego mes a mes
  
 **Tiempo estimado: 8 minutos**
