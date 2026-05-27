@@ -1,10 +1,17 @@
-![Imagen de portada del curso — paisaje noruego con título Velkommen til Norge!](assets/img/portada.png)
+![Banner de portada del curso](assets/img/portada.png)
 
 # Velkommen til Norge!
 
 ## Un curso de noruego desde cero a través de su cultura
 
-El interés por el noruego entre el público hispanohablante ha crecido en los últimos años, impulsado por series como *Norsemen*, la mitología nórdica, los videojuegos como *God of Wae Ragnarök*, y la música de artistas como *Aurora*. Sin embargo, la oferta de cursos en español sigue siendo escasa y suele estar pensada para perfiles adultos con motivaciones académicas o laborales.
+El interés por el noruego entre el público hispanohablante ha crecido en los últimos años, impulsado por series como *Norsemen*, la mitología nórdica, los videojuegos como *God of War Ragnarök*, y la música de artistas como *Aurora*. Sin embargo, la oferta de cursos en español sigue siendo escasa y suele estar pensada para perfiles adultos con motivaciones académicas o laborales.
+
+<div class="grid-4">
+  <img src="assets/img/referente-norsemen.jpg" alt="Serie Norsemen">
+  <img src="assets/img/referente-mitologia.jpg" alt="Mitología nórdica">
+  <img src="assets/img/referente-godofwar.jpg" alt="God of War Ragnarök">
+  <img src="assets/img/referente-aurora.jpg" alt="Cantante Aurora">
+</div>
 
 Este curso aborda ese vacío con un microcurso introductorio (A0 → A1) en bokmål, autoformativo y publicado como sitio web abierto, que utiliza la cultura nórdica como vehículo de la lengua.
 
@@ -38,7 +45,7 @@ El curso no pretende formar hablantes fluidos, sino proporcionar una base sólid
 
 El curso se compone de **seis bloques cortos** que se recomienda seguir en orden, ya que el vocabulario y las estructuras de cada lección se reutilizan en las siguientes.
 
-![Esquema visual del itinerario L0 → L5 — imagen pendiente de añadir](assets/img/itinerario.png)
+![Esquema visual del itinerario L0 → L5](assets/img/itinerario.png)
 
 ### L0 · Introducción · 15 min
 **¿Por qué noruego? Bokmål, nynorsk y el atajo germánico.**
@@ -60,9 +67,9 @@ Vocabulario de ciudades, paisajes y direcciones. Cierra con una narrativa intera
 **Pedir en una cafetería y el concepto de *koselig*.**
 Pedir un café, leer un menú básico y reconocer productos típicos como el *brunost* o los *kanelboller*. Incluye un cuadernillo de ejercicios descargable y un cuestionario interactivo de comprobación.
 
-### L5 · *Mytologi* — Mitología y relatos · 30 min
+### L5 · *Mytologi* — Mitología · 30 min
 **Odín, Thor y Loki en noruego para A1.**
-Lectura guiada de microcuentos mitológicos adaptados al nivel, con glosario y comprensión secuenciada. La lectura final permite comprobar lo aprendido sobre contenido culturalmente atractivo.
+Lectura guiada de microcuentos mitológicos adaptados al nivel. La lectura final permite comprobar lo aprendido sobre contenido cultural.
 
 ## Materiales
 
@@ -96,8 +103,7 @@ O accede directamente a una lección concreta:
 - [L2 · *Tall og tid* — Números y tiempo](L2-numeros-y-tiempo/)
 - [L3 · *Hvor er du?* — Lugares y orientación](L3-lugares-y-orientacion/)
 - [L4 · *Mat og drikke* — Comida y bebida](L4-comida-y-bebida/)
-- [L5 · *Mytologi* — Mitología]
-(L5-mitologia)
+- [L5 · *Mytologi* — Mitología](L5-mitologia)
 
 ---
 

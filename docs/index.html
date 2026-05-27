@@ -344,6 +344,29 @@ section.cover .cover-main > p:last-child a:last-child:hover {
   background: var(--color-primary) !important;
   border-color: var(--color-primary) !important;
 }
+
+.grid-4 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+  margin: 1.5em 0;
+}
+
+.grid-4 img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin: 0 !important;
+  box-shadow: none !important;
+}
+
+@media (max-width: 600px) {
+  .grid-4 {
+    grid-template-columns: 1fr;
+  }
+}
+
   </style>
 </head>
 <body>
