@@ -112,8 +112,11 @@ O accede directamente a una lección concreta:
 Curso desarrollado como proyecto final de la asignatura **Producción de Materiales Educativos Digitales** del Máster en Letras Digitales (Universidad Complutense de Madrid), curso 2025-2026.
 
 **Autora:** Noelia Oviedo Marín
+
 **Contacto:** [noeliaov@ucm.es](mailto:noeliaov@ucm.es?subject=Curso%20de%20noruego%20-%20Consulta)
+
 **Repositorio:** [github.com/NoeliaOviedo/curso-noruego](https://github.com/NoeliaOviedo/curso-noruego)
+
 **Licencia:** Contenidos bajo licencia Creative Commons BY-NC-SA 4.0, salvo recursos externos que conservan su licencia original.
 
 *Vi sees!*

@@ -13,7 +13,7 @@
   - [**L4** · *Mat og drikke* — Comida y bebida](L4-comida-y-bebida/)
     - [📝 Cuadernillo PDF](L4-comida-y-bebida/ejercicios.pdf)
     - [✅ Quiz interactivo: comida](L4-comida-y-bebida/quiz-comida/)
-  - [**L5** · *Mytologi* — Mitología y relatos](L5-mitologia-y-relatos/)
+  - [**L5** · *Mytologi* — Mitología](L5-mitologia/)
     - [📚 EPUB: *Tre fortellinger fra Norden*](L5-mitologia-y-relatos/mitologia.epub)
 - **Sobre este curso**
   - [Licencia: CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)

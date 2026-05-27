@@ -1,4 +1,4 @@
-![Banner de portada del curso](../img/portada.png)
+![Banner de portada del curso](../assets/img/portada.png)
 
 # L4 · *Mat og drikke* — Pedir, comer y entender la cultura del *koselig*
 **Tiempo estimado: 30 minutos**

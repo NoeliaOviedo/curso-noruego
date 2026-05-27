@@ -1,4 +1,4 @@
-![Banner de portada del curso](../img/portada.png)
+![Banner de portada del curso](../assets/img/portada.png)
 
 # L5 · *Mytologi* — Leer noruego con Odín, Thor y Loki
 **Tiempo estimado: 25 minutos**
