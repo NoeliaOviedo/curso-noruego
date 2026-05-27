@@ -1,3 +1,5 @@
+![Banner de portada del curso](assets/img/portada.png)
+
 # L1 · *Hei!* Saludar, presentarte y dominar las letras que asustan
 **Tiempo estimado: 30 minutos**
 

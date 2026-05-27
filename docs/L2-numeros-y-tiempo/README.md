@@ -1,3 +1,5 @@
+![Banner de portada del curso](assets/img/portada.png)
+
 # L2 · *Tall og tid* — Números, días y el calendario noruego
 **Tiempo estimado: 30 minutos**
  
