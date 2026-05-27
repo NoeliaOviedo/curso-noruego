@@ -123,7 +123,7 @@ La región de los **fiordos**: Sognefjorden (el más largo, 205 km), Geirangerfj
 **3. Sørlandet — El sur**
 La costa sur, casas blancas de madera, veranos cortos pero soleados. La ciudad principal es **Kristiansand**. Los noruegos pasan aquí sus vacaciones de verano como otros van al Mediterráneo.
 
-<img src="L3-lugares-y-orientacion/img/sur.jpg" alt="Sørlandet" style="max-width: 300px;">
+<img src="L3-lugares-y-orientacion/img/sur.jpg" alt="Sørlandet" style="max-width: 400px;">
 
  
 **4. Trøndelag — La región central**
@@ -170,7 +170,7 @@ Aterrizas en **Oslo, lunes por la mañana**. Tienes siete días por delante y la
 > - **La ruta polar**: Oslo → Bodø → Lofoten → Tromsø. Vas al norte y rompes con los tópicos.
 > - **La ruta urbana**: Oslo → Trondheim → Bergen → Stavanger. Conoces las cuatro ciudades grandes.
  
-➡️ **Abrir la narrativa**: [Reisen din — Tu viaje por Noruega](twine/index.html ':ignore')
+➡️ **Abrir la narrativa**: <a href="/curso-noruego/L3-lugares-y-orientacion/twine/" target="_blank" rel="noopener" data-no-routing>Reisen din — Tu viaje por Noruega</a>
  
 Cuando acabes, vuelve aquí para las dos últimas actividades.
  
@@ -283,10 +283,11 @@ Indica en qué región está cada lugar (Østlandet, Vestlandet, Sørlandet, Tr�
 5. Lofoten → **Nord-Norge** (el norte, archipiélago)
 6. Kristiansand → **Sørlandet** (el sur)
 </details>
-> 💡 **Si has fallado más de la mitad de un ejercicio**: especialmente con las preposiciones *i / på / til*, conviene volver a la lectura. Es uno de los puntos más resbaladizos del A1, y dominarlo te ahorrará mucha confusión en las próximas lecciones.
- 
+
+
 ---
- 
+
+
 ## 💭 Reflexión: tu mapa mental de Noruega
  
 **Tiempo estimado: 2 minutos**

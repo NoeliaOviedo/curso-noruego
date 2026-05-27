@@ -10,7 +10,7 @@
     - [📚 EPUB: *Det norske året*](/curso-noruego/L2-numeros-y-tiempo/det-norske-aret.epub ':ignore :target=_blank')
     - [✅ Cuestionario QTI: números](/curso-noruego/L2-numeros-y-tiempo/quiz-numeros.qti.zip ':ignore :target=_blank')
   - [**L3** · *Hvor er du?* — Lugares y orientación](L3-lugares-y-orientacion/)
-    - [🎮 Narrativa Twine: *Reisen din*](L3-lugares-y-orientacion/twine-viaje/)
+    - [🎮 Narrativa Twine: *Reisen din*](/curso-noruego/L3-lugares-y-orientacion/twine/ ':ignore :target=_blank')
   - [**L4** · *Mat og drikke* — Comida y bebida](L4-comida-y-bebida/)
     - [📝 Cuadernillo PDF](L4-comida-y-bebida/ejercicios.pdf)
     - [✅ Quiz interactivo: comida](L4-comida-y-bebida/quiz-comida/)
