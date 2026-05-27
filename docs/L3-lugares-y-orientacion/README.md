@@ -315,7 +315,13 @@ Si has llegado hasta aquí, ya sabes:
 En la próxima lección dejas la calle y entras en la **cafetería**: aprenderás a pedir un café como en Oslo, a leer un menú y a descubrir qué es el ***koselig***.
  
 ---
- 
+
+➡️ **Continuar a [L4 · *Mat og drikke* — Pedir, comer y entender la cultura del *koselig*](/L4-comida-y-bebida/)**
+
+⬅️ Volver a [la portada del curso](/)
+
+---
+
 ## Fuentes y créditos de esta lección
  
 - Strandskogen, A.-B., & Strandskogen, R. (1995). *Norwegian: An Essential Grammar* (R. Young, trad.). Routledge. (Uso de *i*, *på*, *til*).

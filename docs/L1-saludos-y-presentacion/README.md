@@ -264,6 +264,12 @@ Si has llegado hasta aquí, ya sabes:
 En la próxima lección verás los **números, los días de la semana y los meses**, y entrarás de lleno en una fecha clave para entender Noruega: el ***17. mai***, el día nacional.
  
 ---
+
+➡️ **Continuar a [L2 · *Tall og tid* — Números, días y el calendario noruego](/L2-numeros-y-tiempo/)**
+
+⬅️ Volver a [la portada del curso](/)
+
+---
  
 ## Fuentes y créditos de esta lección
  
