@@ -1,10 +1,10 @@
-![Imagen de portada del curso — paisaje noruego con título Velkommen til Norge!](assets/img/portada.jpg)
+![Imagen de portada del curso — paisaje noruego con título Velkommen til Norge!](assets/img/portada.png)
 
 # Velkommen til Norge!
 
 ## Un curso de noruego desde cero a través de su cultura
 
-El interés por el noruego entre el público hispanohablante ha crecido en los últimos años, impulsado por series como *Skam*, la mitología nórdica difundida por el cine y los videojuegos, y la música de artistas como Aurora o Sigrid. Sin embargo, la oferta de cursos en español sigue siendo escasa y suele estar pensada para perfiles adultos con motivaciones académicas o laborales.
+El interés por el noruego entre el público hispanohablante ha crecido en los últimos años, impulsado por series como *Norsemen*, la mitología nórdica, los videojuegos como *God of Wae Ragnarök*, y la música de artistas como *Aurora*. Sin embargo, la oferta de cursos en español sigue siendo escasa y suele estar pensada para perfiles adultos con motivaciones académicas o laborales.
 
 Este curso aborda ese vacío con un microcurso introductorio (A0 → A1) en bokmål, autoformativo y publicado como sitio web abierto, que utiliza la cultura nórdica como vehículo de la lengua.
 
@@ -20,7 +20,7 @@ El noruego y el inglés pertenecen a la misma familia germánica y comparten alr
 | Gå      | Go     | Ir      |
 | Komme   | Come   | Venir   |
 
-Por eso este curso aprovecha el conocimiento previo del inglés como trampolín y reduce significativamente el esfuerzo necesario para alcanzar un nivel A1 funcional.
+Por eso este curso aprovecha el conocimiento previo del inglés y reduce significativamente el esfuerzo necesario para alcanzar un nivel A1 funcional.
 
 ## Objetivos de aprendizaje
 
@@ -76,7 +76,7 @@ Cada lección combina varios formatos para favorecer distintos estilos de aprend
 - 🧩 **Paquete SCORM (H5P)** en L1, importable a entornos LMS como Moodle.
 - 🎞️ **Presentación reveal.js** como introducción del curso (L0).
 
-Todo el material está disponible de forma libre y gratuita, sin registros ni plazos.
+Todo el material está disponible de forma libre y gratuita.
 
 ## Antes de empezar
 
@@ -96,7 +96,8 @@ O accede directamente a una lección concreta:
 - [L2 · *Tall og tid* — Números y tiempo](L2-numeros-y-tiempo/)
 - [L3 · *Hvor er du?* — Lugares y orientación](L3-lugares-y-orientacion/)
 - [L4 · *Mat og drikke* — Comida y bebida](L4-comida-y-bebida/)
-- [L5 · *Mytologi* — Mitología y relatos](L5-mitologia-y-relatos/)
+- [L5 · *Mytologi* — Mitología]
+(L5-mitologia)
 
 ---
 
