@@ -7,4 +7,4 @@
 - ⏱️ Seis bloques cortos · unas 3 horas en total
 
 [GitHub](https://github.com/NoeliaOviedo/curso-noruego)
-[Empezar curso](#velkommen-til-norge)
+[Empezar curso](#/L0-introduccion/)
