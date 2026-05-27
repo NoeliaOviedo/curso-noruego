@@ -14,8 +14,8 @@
   - [**L4** · *Mat og drikke* — Comida y bebida](L4-comida-y-bebida/)
     - [📝 Cuadernillo PDF](/curso-noruego/L4-comida-y-bebida/ejercicios-mat-og-drikke.pdf ':ignore :target=_blank')
     - [✅ Quiz interactivo: comida](/curso-noruego/L4-comida-y-bebida/quiz-comida/ ':ignore :target=_blank')
-  - [**L5** · *Mytologi* — Mitología y relatos](L5-mitologia-y-relatos/)
-    - [📚 EPUB: *Tre fortellinger fra Norden*](L5-mitologia-y-relatos/mitologia.epub)
+  - [**L5** · *Mytologi* — Mitología y relatos](L5-mitologia/)
+    - [📚 EPUB: *Tre fortellinger fra Norden*](L5-mitologia/mitologia.epub)
 - **Sobre este curso**
   - [Licencia: CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
   - [Repositorio en GitHub](https://github.com/NoeliaOviedo/curso-noruego)
