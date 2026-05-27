@@ -1,7 +1,7 @@
 - [**Velkommen til Norge!**](/)
 - **Lecciones**
   - [**L0** · Introducción al curso](L0-introduccion/)
-    - [🎞️ Presentación reveal.js](L0-introduccion/presentacion-reveal/)
+    - [🎞️ Presentación reveal.js](/curso-noruego/L0-introduccion/presentacion-reveal/ ':ignore :target=_blank')
   - [**L1** · *Hei!* Saludar y presentarte](L1-saludos-y-presentacion/)
     - [🎮 Visual novel: *Første dag på skolen*](L1-saludos-y-presentacion/renpy-instituto/)
     - [🧩 SCORM H5P: empareja saludos](L1-saludos-y-presentacion/scorm-saludos.zip)
@@ -13,7 +13,7 @@
   - [**L4** · *Mat og drikke* — Comida y bebida](L4-comida-y-bebida/)
     - [📝 Cuadernillo PDF](L4-comida-y-bebida/ejercicios.pdf)
     - [✅ Quiz interactivo: comida](L4-comida-y-bebida/quiz-comida/)
-  - [**L5** · *Mytologi* — Mitología](L5-mitologia/)
+  - [**L5** · *Mytologi* — Mitología y relatos](L5-mitologia-y-relatos/)
     - [📚 EPUB: *Tre fortellinger fra Norden*](L5-mitologia-y-relatos/mitologia.epub)
 - **Sobre este curso**
   - [Licencia: CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
