@@ -225,6 +225,7 @@ Marca cada situación como *koselig* (✓) o no (✗):
  
 <details>
 <summary><strong>🔎 Mostrar respuestas</strong> (haz clic para desplegar)</summary>
+
 **Ejercicio 1:**
  
 1. *Jeg vil gjerne ha en kaffe, takk.*

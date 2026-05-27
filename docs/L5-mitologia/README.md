@@ -3,7 +3,7 @@
 # L5 · *Mytologi* — Leer noruego con Odín, Thor y Loki
 **Tiempo estimado: 25 minutos**
 
-Has llegado a la última lección del curso. Y la última lección no es una más: es **la prueba de cuánto has aprendido**. Vas a hacer algo que al principio te habría parecido imposible: **leer textos en noruego**, sin traducción al lado, con la ayuda de un glosario, y entenderlos.
+Has llegado a la última lección del curso. Y la última lección no es una más: es **la prueba de cuánto has aprendido**. Vas a hacer algo que al principio te habría parecido imposible: **leer textos en noruego**.
 
 Los textos no son cualquier cosa: son tres microcuentos sobre los **dioses de la mitología nórdica**, adaptados específicamente para tu nivel A1. Vas a conocer a **Odín** (*Odin*), el padre de los dioses; a **Thor** (*Tor*), su hijo, el dios del trueno; y a **Loki**, el embustero del Asgard. No los conocerás como los muestra Marvel — los conocerás como los **conoce un noruego al crecer**, en los relatos del *Edda* que llevan **800 años** contándose en Escandinavia.
 
@@ -21,7 +21,11 @@ Esta lección tiene tres actividades:
 - 🧩 Quiz cultural: dioses y símbolos (5 min)
 - 💭 Reflexión final: el curso completo (5 min)
 
-Hazlas en orden. Y date una palmada en la espalda por haber llegado hasta aquí. ¿Listo? *Vi setter i gang for siste gang!* (¡Empezamos por última vez!)
+Hazlas en orden. ¿Listo? 
+
+*Vi setter i gang for siste gang!* 
+
+(¡Empezamos por última vez!)
 
 ---
 
@@ -41,12 +45,6 @@ El anexo principal de esta lección es un **EPUB** con tres microcuentos mitoló
 
 Los textos originales del ***Edda en prosa*** (siglo XIII, escrito por Snorri Sturluson) están en **nórdico antiguo** y son **incomprensibles incluso para los noruegos actuales sin traducción**. Las versiones de este anexo son **adaptaciones libres al noruego bokmål contemporáneo**, simplificadas léxica y sintácticamente al nivel A1 del MCER, **manteniendo el esqueleto narrativo del original**.
 
-Cada cuento ocupa **dos o tres páginas** y viene acompañado de:
-
-- Una **ilustración** introductoria.
-- Un **glosario lateral** con las palabras nuevas traducidas.
-- Un **breve apartado cultural** al final ("¿De dónde viene esta historia?").
-
 ### Cómo leerlo
 
 Tienes dos formas de acceder al anexo, igual que con el EPUB de L2:
@@ -55,7 +53,7 @@ Tienes dos formas de acceder al anexo, igual que con el EPUB de L2:
 
 ➡️ **Descargar para leer offline**: [Descargar EPUB](tre-fortellinger-fra-norden.epub ':ignore') *(para apps de lectura como Apple Libros, Google Play Libros, Calibre, Thorium…)*
 
-> 💡 **Cómo leer**: no intentes traducir palabra por palabra. Lee primero **el cuento entero** mirando solo las imágenes y los nombres propios. Luego vuelve a empezar y, **solo cuando una palabra te bloquee la frase**, mírala en el glosario. Esto se llama **lectura por inferencia contextual** y es la forma más rápida de mejorar tu comprensión real.
+> 💡 **Cómo leer**: no intentes traducir palabra por palabra. Lee primero **el cuento entero** mirando solo las imágenes y los nombres propios. Haz una **lectura por inferencia contextual** como forma más rápida de mejorar tu comprensión real.
 
 ---
 
@@ -75,8 +73,6 @@ Un cuestionario corto para comprobar si reconoces a los principales dioses nórd
 6. ¿Qué relación tiene **Frigg** con el viernes (*fredag*)?
 7. ¿Qué es el ***Yggdrasil***? *(aparece en los cuentos del EPUB)*
 8. En *God of War Ragnarök* o en cualquier película de Marvel, ¿qué personajes reconoces ahora de estos cuentos y por qué?
-
-> 💡 **Conexión con lo aprendido**: muchas de estas respuestas te las dio L2 (cuando vimos los días de la semana). Si te bloqueas, vuelve a la tabla de los días en L2.
 
 Responde mentalmente o por escrito. Luego despliega las soluciones:
 

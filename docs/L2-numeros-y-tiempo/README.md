@@ -238,6 +238,7 @@ Mira estas palabras noruegas. Identifica si tienen cognado en inglés (y cuál e
  
 <details>
 <summary><strong>🔎 Mostrar respuestas</strong> (haz clic para desplegar)</summary>
+
 **Ejercicio 1:**
  
 1. *fjorten*

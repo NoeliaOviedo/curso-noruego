@@ -207,6 +207,7 @@ Mira estas seis palabras noruegas. **Cuatro de ellas tienen un cognado claro en 
  
 <details>
 <summary><strong>🔎 Mostrar respuestas</strong> (haz clic para desplegar)</summary>
+
 **Ejercicio 1:**
  
 1. *Hei, jeg heter Marta.*

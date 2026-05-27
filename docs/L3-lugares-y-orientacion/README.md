@@ -251,6 +251,7 @@ Indica en qué región está cada lugar (Østlandet, Vestlandet, Sørlandet, Tr�
  
 <details>
 <summary><strong>🔎 Mostrar respuestas</strong> (haz clic para desplegar)</summary>
+
 **Ejercicio 1:**
  
 1. *Jeg bor **i** Oslo.* (ciudad grande costera → *i*)
