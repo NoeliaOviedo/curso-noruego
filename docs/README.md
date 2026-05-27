@@ -103,7 +103,7 @@ O accede directamente a una lección concreta:
 - [L2 · *Tall og tid* — Números y tiempo](L2-numeros-y-tiempo/)
 - [L3 · *Hvor er du?* — Lugares y orientación](L3-lugares-y-orientacion/)
 - [L4 · *Mat og drikke* — Comida y bebida](L4-comida-y-bebida/)
-- [L5 · *Mytologi* — Mitología](L5-mitologia)
+- [L5 · *Mytologi* — Mitología](L5-mitologia/)
 
 ---
 
@@ -118,5 +118,3 @@ Curso desarrollado como proyecto final de la asignatura **Producción de Materia
 **Repositorio:** [github.com/NoeliaOviedo/curso-noruego](https://github.com/NoeliaOviedo/curso-noruego)
 
 **Licencia:** Contenidos bajo licencia Creative Commons BY-NC-SA 4.0, salvo recursos externos que conservan su licencia original.
-
-*Vi sees!*
