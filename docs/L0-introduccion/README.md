@@ -9,7 +9,7 @@ Bienvenido a la lección 0. Esta no es una lección de noruego propiamente dicha
 2. Por qué el inglés es una **gran ventaja** para aprender noruego.
 3. Cómo está organizado este curso y **qué esperar** de él.
 
-Si estas tres cosas las tienes claras desde el minuto uno, las seis lecciones siguientes te van a costar la mitad.
+Si estas tres cosas las tienes claras desde el minuto uno, las cinco lecciones siguientes te van a costar la mitad.
 
 Al terminar esta lección, serás capaz de:
 
@@ -19,9 +19,9 @@ Al terminar esta lección, serás capaz de:
 
 Esta lección tiene dos actividades:
 
-🎞️ Presentación visual: ¿Por qué noruego? (10 min)
+- 🎞️ Presentación visual: ¿Por qué noruego? (10 min)
 
-💭 Reflexión inicial: tus expectativas (5 min)
+- 💭 Reflexión inicial: tus expectativas (5 min)
 
 Hazlas en orden. ¿Listo? 
 

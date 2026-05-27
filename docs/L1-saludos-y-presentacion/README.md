@@ -5,7 +5,7 @@
 
 Bienvenido a la primera lección del curso. Antes de meterte en mitología, fiordos o pedir un café en Bergen, lo primero es **saber decir tu nombre y reconocer el sonido del noruego**. Suena obvio, pero ahí está la mitad de la batalla: si las letras æ, ø, å dejan de darte miedo, todo lo demás llega rodado.
 
-En esta lección vas a entender por qué el noruego se parece tanto al inglés que ya sabes, cómo se saluda según la hora del día, qué hacen esas tres letras raras del final del alfabeto y cómo presentarte a alguien sin sonar a robot leyendo un diccionario.
+En esta lección vas a entender por qué el noruego se parece tanto al inglés que ya sabes, cómo se saluda según la hora del día, qué hacen esas tres letras raras del final del alfabeto y cómo presentarte a alguien sin sonar como un robot.
 
 Al terminar esta lección, serás capaz de:
 
@@ -17,13 +17,15 @@ Al terminar esta lección, serás capaz de:
 
 Esta lección tiene cinco actividades:
 
-📖 Lectura guiada: el alfabeto y los saludos (10 min)
-🎮 Visual novel: *Første dag på skolen* — primer día de clase (12 min)
-🧩 Empareja saludos con situaciones (4 min)
-✏️ Mini-ejercicios de autocorrección (4 min)
-💭 Reflexión final: el atajo germánico (4 min)
+- 📖 Lectura guiada: el alfabeto y los saludos (10 min)
+- 🎮 Visual novel: *Første dag på skolen* — primer día de clase (12 min)
+- 🧩 Empareja saludos con situaciones (4 min)
+- ✏️ Mini-ejercicios de autocorrección (4 min)
+- 💭 Reflexión final: el atajo germánico (4 min)
 
-Hazlas en orden. ¿Listo? *Vi setter i gang!* (¡Empezamos!)
+Hazlas en orden. ¿Listo? 
+*Vi setter i gang!* 
+(¡Empezamos!)
 
 ---
 
@@ -40,6 +42,8 @@ Esa es la primera regla que tienes que interiorizar.
 
 En Noruega no hay una sola forma escrita del idioma: hay dos. **Bokmål** ("lengua del libro") es la que usa el 85% de la población, la de los medios, la de los manuales escolares y la que se enseña a los extranjeros. La otra se llama **nynorsk** y se usa más en zonas rurales del oeste del país. En este curso aprenderás bokmål, que es lo que necesitas para entender prácticamente cualquier cosa en Noruega.
 
+![Mapa con las variedades lingüísticas](img/bokmal.png)
+
 > 💡 **El primer atajo germánico:** *bok* significa "libro" en noruego. ¿A qué se parece en inglés? Exacto: *book*. Y *mål* significa "lengua, idioma". El noruego y el inglés son lenguas primas y vas a ver decenas de palabras como esta a lo largo del curso. Acostúmbrate a buscar la conexión con el inglés que ya sabes.
 
 ### El alfabeto noruego: 29 letras, no 26
@@ -52,7 +56,7 @@ El alfabeto noruego tiene **las mismas 26 letras que el inglés más tres letras
 | **Ø ø** | Como la "u" de la palabra inglesa *burn* | *søster* | hermana | [Forvo: søster](https://forvo.com/word/s%C3%B8ster/#no) |
 | **Å å** | Como la "o" de la palabra inglesa *born* | *gå* | ir, caminar | [Forvo: gå](https://forvo.com/word/g%C3%A5/#no) |
 
-> 🔊 **Cómo usar los audios**: haz clic en el enlace, te lleva a Forvo (un diccionario libre de pronunciaciones grabadas por hablantes nativos). Busca grabaciones marcadas como "Norwegian Bokmål" o realizadas en Oslo. **Escucha cada palabra al menos dos veces** antes de pasar a la siguiente. No intentes imitarla todavía, solo familiarízate con el sonido.
+> 🔊 **Cómo usar los audios**: haz clic en el enlace, te lleva a Forvo (un diccionario libre de pronunciaciones grabadas por hablantes nativos). **Escucha cada palabra al menos dos veces** antes de pasar a la siguiente. No intentes imitarla todavía, solo familiarízate con el sonido.
 
 > ⚠️ **Aviso importante**: en este curso vas a usar el noruego como se habla en el este (Oslo y alrededores), que es la variedad que se enseña a los extranjeros y se considera estándar. Hay muchos dialectos en Noruega y pueden sonar bastante diferentes, pero entender bien la variedad de Oslo te permite seguir cualquier conversación.
 
@@ -67,7 +71,7 @@ Como pasa en inglés con *hi* / *good morning* / *good evening*, en noruego hay 
 
 **Saludos según la hora del día (un poco más formales):**
 
-- ***God morgen*** — Buenos días (hasta media mañana, sobre las 10-11h)
+- ***God morgen*** — Buenos días (hasta media mañana, sobre las 10:00-11:00)
 - ***God dag*** — Buenos días / Buenas tardes (de media mañana a primera tarde)
 - ***God ettermiddag*** — Buenas tardes (del mediodía hasta primeras horas de la noche)
 - ***God kveld*** — Buenas noches, al saludar (a partir del atardecer)
@@ -79,7 +83,7 @@ Como pasa en inglés con *hi* / *good morning* / *good evening*, en noruego hay 
 - ***Vi sees*** — Nos vemos (entre amigos)
 - ***Farvel*** — Adiós (formal, casi anticuado)
 
-> 💡 **Truco cultural**: Noruega es uno de los países menos jerárquicos del mundo. Incluso en una reunión de trabajo o en una entrevista, un simple *hei* es perfectamente aceptable. No te vuelvas loco con la formalidad: para empezar te basta con *hei* y *ha det*. Lo demás llega solo.
+> 💡 **Truco cultural**: Noruega es uno de los países menos jerárquicos del mundo. Incluso en una reunión de trabajo o en una entrevista, un simple *hei* es perfectamente aceptable. No te vuelvas loco con la formalidad: para empezar te basta con *hei* y *ha det*.
 
 ### Presentarte: cuatro frases que te abren la puerta
 
@@ -101,7 +105,7 @@ Y para preguntar lo mismo a otra persona:
 | ¿De dónde eres? | *Hvor kommer du fra?* |
 | ¿Cómo estás? | *Hvordan går det?* (respuesta típica: *Bra* — "bien") |
 
-> 💡 **Cazando cognados germánicos:** mira *Jeg er 16 år gammel*. Si la lees en voz alta despacio, ¿no se parece sospechosamente a *I am 16 years (old)*? *Jeg = I*, *er = am*, *år = year*, *gammel = old* (literalmente "viejo", pero se usa igual que *years old*). El orden incluso es el mismo. **Este es el atajo germánico que vas a explotar durante todo el curso**.
+> 💡 **Cazando cognados germánicos:** mira *Jeg er 16 år gammel*. Si la lees en voz alta, ¿no se parece sospechosamente a *I am 16 years (old)*? *Jeg = I*, *er = am*, *år = year*, *gammel = old*. El orden incluso es el mismo.
 
 ### Mientras lees, fija tres ideas
 
@@ -123,8 +127,6 @@ Eres **un/a estudiante de intercambio** que acaba de aterrizar en Oslo para pasa
 ### Instrucciones
 
 Lee cada diálogo y **elige tu respuesta** entre las opciones que aparecen. Algunas respuestas son neutras, otras son más naturales, y alguna te puede hacer pasar un mal rato. **No pasa nada**: puedes volver atrás y probar otra opción tantas veces como quieras. La actividad no se evalúa: el objetivo es que te sueltes con frases reales.
-
-> 💡 **Antes de empezar**: ten a mano la tabla de presentación de la lectura. No tienes que memorizarla; solo que cuando aparezca *Hva heter du?* sepas reconocer qué te están preguntando.
 
 ### Antes de hacer clic en "Empezar"
 
