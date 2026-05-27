@@ -95,28 +95,28 @@ A primera vista parece un queso marrón claro, casi color caramelo. En realidad 
  
 Es **el dulce de cafetería por excelencia** en toda Escandinavia. Masa esponjosa con canela y azúcar dentro, a veces con cardamomo y a veces con glaseado. Lo encuentras en cualquier panadería noruega y es lo que pides cuando hace frío y quieres acompañar un café.
 
-<img src="L4-comida-y-bebida/img/canela.jpg" alt="Kanelbolle" style="max-width: 300px;">
- 
+<img src="L4-comida-y-bebida/img/canela.jpeg" alt="Kanelbolle" style="max-width: 300px;">
+
 **3. *Matpakke* — La fiambrera escolar**
- 
+
 No es un plato, es un **concepto cultural**: la fiambrera de pan que casi todo niño noruego se lleva a la escuela. Suele ser **rebanadas de pan integral con queso, jamón, salami o *brunost***, envueltas en papel encerado. Aparece como tema literario, en chistes y hasta en estudios sociológicos: la *matpakke* es **una de las cosas que separa la infancia noruega de cualquier otra**. Es austera, eficiente y sin lujos — muy noruega.
 
 <img src="L4-comida-y-bebida/img/fiambrera.jpg" alt="Matpakke" style="max-width: 300px;">
- 
+
 **4. *Lefse* — La torta blanda de patata**
- 
+
 Una especie de tortita de patata cocida y enrollada con mantequilla, azúcar y canela. Tradicional, sencilla, y otra vez muy ligada a la idea de comida casera sin pretensiones.
 
 <img src="L4-comida-y-bebida/img/lefse.jpg" alt="Lefse" style="max-width: 300px;">
- 
+
 **5. *Ribbe* — La cena de Navidad**
- 
+
 Panza de cerdo asada con corteza crujiente. Es el plato típico del ***julemiddag*** (cena de Nochebuena) en la mitad del país. La otra mitad come ***pinnekjøtt*** (costillas saladas de cordero). Vale como conversación cultural: si conoces a un noruego en Navidad, pregúntale *"ribbe eller pinnekjøtt?"* y vas a tener tema para 20 minutos.
 
 <img src="L4-comida-y-bebida/img/ribbe.jpg" alt="Ribbe" style="max-width: 300px;">
- 
+
 ### *Koselig*: la palabra que define media cultura noruega
- 
+
 Si tuvieras que aprender **una sola palabra** de toda la lección, sería esta. ***Koselig*** se traduce a veces como "acogedor", "agradable" o "cuco", pero ninguna traducción captura del todo lo que significa. Es **el ambiente de estar dentro cuando fuera hace frío**, con velas encendidas, una bebida caliente, una manta y compañía agradable. Es el equivalente noruego del *hygge* danés (que es más conocido internacionalmente) pero con su propio carácter.
  
 ¿Por qué importa para esta lección? Porque ***una cafetería de Oslo en noviembre es koselig***, y eso explica por qué los noruegos pasan tantas horas en cafeterías. No están solo tomando café: están practicando un valor cultural.
@@ -126,6 +126,7 @@ Ejemplos de uso:
 - *Det er så koselig her!* — ¡Aquí se está tan a gusto!
 - *Vi hadde en koselig kveld.* — Tuvimos una noche muy agradable.
 - *Den kafeen er veldig koselig.* — Esa cafetería es muy acogedora.
+
 ### Mientras lees, fija tres ideas
  
 1. ***Jeg vil ha…* es directo pero correcto**. No es maleducado, aunque traducido literalmente lo parezca.
@@ -246,7 +247,6 @@ Marca cada situación como *koselig* (✓) o no (✗):
 4. ✗ — Conflicto: incompatible con *koselig*.
 5. ✓ — Calma, calor y luz baja: *koselig* en solitario.
 </details>
-> 💡 **Si has fallado el ejercicio 4**: revisa el apartado sobre *koselig*. La clave no es solo "estar a gusto", sino la combinación específica de **calor + luz baja + calma + (a veces) compañía**. Sin esos elementos, no es *koselig*: es solo "estar bien".
 
 ---
 
@@ -281,7 +281,7 @@ En la próxima lección sales de la cafetería y entras en el ámbito doméstico
  
 ---
 
-➡️ **Continuar a [L5 · *Mytologi* — Mitología (/L5-mitologia/)**
+➡️ **Continuar a [L5 · *Mytologi* — Mitología](/L5-mitologia/)**
 
 ⬅️ Volver a [la portada del curso](/)
 
