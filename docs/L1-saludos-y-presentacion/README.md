@@ -42,7 +42,7 @@ Esa es la primera regla que tienes que interiorizar.
 
 En Noruega no hay una sola forma escrita del idioma: hay dos. **Bokmål** ("lengua del libro") es la que usa el 85% de la población, la de los medios, la de los manuales escolares y la que se enseña a los extranjeros. La otra se llama **nynorsk** y se usa más en zonas rurales del oeste del país. En este curso aprenderás bokmål, que es lo que necesitas para entender prácticamente cualquier cosa en Noruega.
 
-<img src="img/portada.png" alt="Mapa con las variedades lingüísticas" style="max-width: 400px;">
+<img src="img/bokmal.png" alt="Mapa con las variedades lingüísticas" style="max-width: 400px;">
 
 > 💡 **El primer atajo germánico:** *bok* significa "libro" en noruego. ¿A qué se parece en inglés? Exacto: *book*. Y *mål* significa "lengua, idioma". El noruego y el inglés son lenguas primas y vas a ver decenas de palabras como esta a lo largo del curso. Acostúmbrate a buscar la conexión con el inglés que ya sabes.
 
@@ -233,8 +233,6 @@ Mira estas seis palabras noruegas. **Cuatro de ellas tienen un cognado claro en 
 **Ejercicio 4:** los cognados claros son **hus** (*house*), **sommer** (*summer*), **vinter** (*winter*) y **bok** (*book*). *Jente* y *gutt* no tienen cognado evidente en inglés actual.
  
 </details>
- 
----
 
 ## 💭 Reflexión rápida: el atajo germánico
 **Tiempo estimado: 4 minutos**
