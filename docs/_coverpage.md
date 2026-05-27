@@ -1,6 +1,6 @@
 # Velkommen til Norge!
 
-## A0 → A1
+<p style="text-align:center; font-size:1.4em; font-weight:600; color:#c97b3c; letter-spacing:0.15em; margin:-1em 0 2em 0; font-family:'Inter',sans-serif;">A0 → A1</p>
 
 > Un curso de noruego desde cero, contado a través de su cultura.
 
