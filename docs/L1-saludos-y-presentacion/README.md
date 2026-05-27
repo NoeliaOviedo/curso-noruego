@@ -42,7 +42,7 @@ Esa es la primera regla que tienes que interiorizar.
 
 En Noruega no hay una sola forma escrita del idioma: hay dos. **Bokmål** ("lengua del libro") es la que usa el 85% de la población, la de los medios, la de los manuales escolares y la que se enseña a los extranjeros. La otra se llama **nynorsk** y se usa más en zonas rurales del oeste del país. En este curso aprenderás bokmål, que es lo que necesitas para entender prácticamente cualquier cosa en Noruega.
 
-<img src="L1-saludos-y-presentacion/img/bokmal.png" alt="Mapa con las variedades lingüísticas" style="max-width: 400px;">
+<img src="L1-saludos-y-presentacion/img/bokmal.png" alt="Mapa con las variedades lingüísticas" style="max-width: 300px;">
 
 > 💡 **El primer atajo germánico:** *bok* significa "libro" en noruego. ¿A qué se parece en inglés? Exacto: *book*. Y *mål* significa "lengua, idioma". El noruego y el inglés son lenguas primas y vas a ver decenas de palabras como esta a lo largo del curso. Acostúmbrate a buscar la conexión con el inglés que ya sabes.
 
@@ -153,12 +153,6 @@ Arrastra cada saludo o expresión a la situación que mejor le encaja. **Puedes 
 
 > 🎯 **Si dudas**: pregúntate dos cosas. Primera: ¿es por la mañana, por la tarde o por la noche? Segunda: ¿estoy hablando con un amigo o con alguien que acabo de conocer? Con esas dos respuestas, aciertas el 90% de las veces.
 
-### Ejemplo resuelto
-
-**Situación:** *Son las 8:30 de la mañana, entras en una cafetería de Oslo y saludas al camarero.*
-
-**Respuesta natural:** *Hei!* o, si quieres ser un poco más cortés, *God morgen!*
-
 ➡️ **Abrir la actividad de emparejamiento** *(se descargará como paquete SCORM importable a Moodle u otra plataforma compatible)*: <a href="/curso-noruego/L1-saludos-y-presentacion/scorm-saludos.zip" download data-no-routing>scorm-saludos.zip</a>
 
 ---
@@ -177,8 +171,6 @@ Imagina que acabas de llegar a un instituto de Oslo. **Escribe en noruego cinco 
 3. De dónde vienes.
 4. Tu edad.
 5. Una despedida.
-
-Si quieres, sustituye los datos por tus datos reales (o invéntalos: aquí lo importante es la estructura, no la verdad biográfica).
 
 ### Ejercicio 2 — Empareja preguntas y respuestas
 
@@ -274,8 +266,6 @@ En la próxima lección verás los **números, los días de la semana y los mese
 ---
  
 ## Fuentes y créditos de esta lección
- 
-Contenido elaborado a partir de fuentes verificadas sobre la lengua noruega:
  
 - Norwegian University of Science and Technology (NTNU). *NoW 1 — Pronunciation*. [ntnu.edu/now/1/pronunciation](https://www.ntnu.edu/now/1/pronunciation)
 - Wikipedia. *Help:IPA/Norwegian*. Variante Urban East Norwegian. [en.wikipedia.org/wiki/Help:IPA/Norwegian](https://en.wikipedia.org/wiki/Help:IPA/Norwegian)

@@ -21,7 +21,10 @@ Esta lección tiene cinco actividades:
 - ✏️ Mini-ejercicios de autocorrección (4 min)
 - 📚 Anexo EPUB: *Det norske året* — el año noruego mes a mes (8 min)
 - 💭 Reflexión: tu propio calendario (6 min)
-Hazlas en orden. ¿Listo? *Vi setter i gang!*
+
+Hazlas en orden. ¿Listo? 
+
+*Vi setter i gang!*
  
 ---
  
@@ -51,7 +54,8 @@ Empezamos por los básicos. Estos hay que **memorizarlos**: no se construyen con
 | 9 | *ni* | 20 | *tjue* (o *tyve*) |
 | 10 | *ti* |  |  |
  
-> 💡 **Truco**: mira *to, tre, fire, fem, seks, sju, ni, ti*. Compáralos con *two, three, four, five, six, seven, nine, ten*. Vienen de la misma raíz. Las únicas que cuesta un poco más son *åtte* (eight) y *elleve* (eleven), y aún así el parecido sigue ahí.
+
+> 💡 **Truco**: mira *to, tre, fire, fem, seks, sju, ni, ti*. Compáralos con *two, three, four, five, six, seven, nine, ten*. Vienen de la misma raíz.
  
 > ⚠️ **Una palabra para "uno", tres formas**: en noruego, *uno* tiene tres formas según el género del sustantivo que acompaña: *en gutt* (un chico), *ei jente* (una chica), *ett hus* (una casa). Suena raro al principio, pero solo afecta al número 1; el resto de números no cambian.
  
@@ -73,11 +77,12 @@ Para llegar a 100, primero las decenas:
 | 90 | *nitti* |
 | 100 | *(ett) hundre* |
  
-> 💡 Otra vez el atajo germánico: *tretti* — *thirty*, *førti* — *forty*, *femti* — *fifty*, *sytti* — *seventy*... La regla es clara: la decena se forma con el número base + sufijo *-ti* (que viene de *ti* = diez).
+
+> 💡 La regla es clara: la decena se forma con el número base + sufijo *-ti* (que viene de *ti* = diez).
  
 ### Los números compuestos: 21, 32, 67...
  
-Aquí está la trampa del idioma. Hoy en día, la forma estándar es **decena + unidad**, todo junto, como en inglés:
+Aquí está la trampa del noruego. Hoy en día, la forma estándar es **decena + unidad**, todo junto, como en inglés:
  
 | Cifra | Noruego moderno | Equivalente inglés |
 |------|----------------|-------------------|
@@ -85,12 +90,14 @@ Aquí está la trampa del idioma. Hoy en día, la forma estándar es **decena + 
 | 32 | *trettito* | thirty-two |
 | 47 | *førtisju* | forty-seven |
 | 88 | *åttiåtte* | eighty-eight |
+
+
  
-> 📌 **Ojo a la forma antigua**: hasta 1951, el orden era al revés (unidad + decena, como en alemán: *énogtyve* = "uno y veinte" = 21). Esta forma **todavía la oirás** de gente mayor, sobre todo al dar números de teléfono o precios. No te asustes si en una caja de supermercado oyes *énogtyve kroner* en vez de *tjueén kroner*: es lo mismo.
+> 📌 **Ojo a la forma antigua**: hasta 1951, el orden era al revés (unidad + decena, como en alemán: *énogtyve* = "uno y veinte" = 21). Esta forma **todavía la oirás** de gente mayor, sobre todo al dar números de teléfono o precios.
  
 ### Los días de la semana
  
-Los noruegos empiezan la semana en **lunes**, no en domingo. Los nombres vienen, casi todos, de la mitología nórdica — **una buena razón para llegar bien a L6**:
+Los noruegos empiezan la semana en **lunes**, no en domingo. Los nombres vienen, casi todos, de la mitología nórdica:
  
 | Día | Noruego | Origen |
 |-----|---------|--------|
@@ -102,7 +109,9 @@ Los noruegos empiezan la semana en **lunes**, no en domingo. Los nombres vienen,
 | Sábado | *lørdag* | Día del baño (del nórdico antiguo *laug* = baño) |
 | Domingo | *søndag* | Día del Sol (*Sol* = Sol) |
  
-> 💡 **Truco**: el inglés tomó los mismos nombres mitológicos para sus días — *Tuesday* (Tyr), *Wednesday* (Wodan/Odín), *Thursday* (Thor), *Friday* (Frigg). Si te sabes los días en inglés, en noruego solo tienes que cambiar la terminación a *-dag* (que es "día" — como el alemán *Tag*).
+
+
+> 💡 **Truco**: el inglés tomó los mismos nombres mitológicos para sus días — *Tuesday* (Tyr), *Wednesday* (Wodan/Odín), *Thursday* (Thor), *Friday* (Frigg). Si te sabes los días en inglés, en noruego solo tienes que cambiar la terminación a *-dag*.
  
 ### Los meses del año
  
@@ -117,7 +126,8 @@ Los meses son fáciles porque vienen del latín y se parecen mucho al español y
 | Mayo | *mai* | Noviembre | *november* |
 | Junio | *juni* | Diciembre | *desember* |
  
-> ⚠️ **Los meses van en minúscula** en noruego, igual que en español. Solo se ponen en mayúscula si están al principio de una frase. Es un error típico de hispanohablantes con buen inglés (donde sí se escriben con mayúscula): *I was born in May* → *Jeg er født i mai*.
+
+> ⚠️ **Los meses van en minúscula** en noruego, igual que en español. Solo se ponen en mayúscula si están al principio de una frase.
  
 ### Preguntar y dar fechas
  
@@ -130,6 +140,7 @@ Cuatro fórmulas mínimas:
 | ¿Cuándo es tu cumpleaños? | *Når har du bursdag?* |
 | Mi cumpleaños es el 14 de marzo. | *Bursdagen min er den 14. mars.* |
  
+
 > 📌 **El truco del punto**: ¿has visto el punto detrás del 14? En noruego, los números ordinales (1.º, 2.º, 14.º...) se escriben **con un punto detrás de la cifra**, no con superíndice. Por eso el día nacional se escribe ***17. mai*** y nunca *17º de mai*.
  
 ### Tres fechas para entender Noruega
@@ -138,15 +149,21 @@ Hay tres momentos del año que cualquier persona que se acerque a Noruega tiene 
  
 **🇳🇴 *17. mai* — El día nacional (17 de mayo)**
  
-Es la fecha más importante del calendario noruego. Conmemora la firma de la Constitución de 1814, cuando Noruega se declaró nación independiente (aunque siguió bajo unión con Suecia hasta 1905). El día se vive con **desfiles infantiles** (no militares, una rareza europea), todo el mundo viste el ***bunad*** (traje tradicional regional), las calles se llenan de banderas, se canta el himno nacional y se comen **hot dogs y helados sin medida**. Si alguna vez te invitan a un *17. mai*, no faltes: es la mejor lección de cultura noruega que puedes recibir.
+Es la fecha más importante del calendario noruego. Conmemora la firma de la Constitución de 1814, cuando Noruega se declaró nación independiente (aunque siguió bajo unión con Suecia hasta 1905). El día se vive con **desfiles infantiles** (no militares, una rareza europea), todo el mundo viste el ***bunad*** (traje tradicional regional), las calles se llenan de banderas y se canta el himno nacional.
+
+<img src="L2-numeros-y-tiempo/img/17mai.jpg" alt="Desfile de la fiesta nacional" style="max-width: 300px;">
  
 **🎄 *Jul* — La Navidad noruega (diciembre y enero)**
  
-*Jul* es la palabra noruega para "Navidad", pero abarca mucho más que el 25 de diciembre: empieza en torno al 13 de diciembre con ***Lucia*** (una tradición de origen sueco con desfile de niñas con coronas de velas) y se extiende hasta el 6 de enero. La cena principal es la ***julemiddag*** del 24, no del 25. Plato típico: ***ribbe*** (panza de cerdo asada) o ***pinnekjøtt*** (costillas de cordero saladas). Y hay un detalle único: muchas familias dejan un cuenco de gachas (***julegrøt***) para el ***fjøsnisse***, un duendecillo del granero que protege la casa si lo tratas bien.
+*Jul* es la palabra noruega para "Navidad", pero abarca mucho más que el 25 de diciembre: empieza en torno al 13 de diciembre con ***Lucia*** (una tradición de origen sueco con desfile de niñas con coronas de velas) y se extiende hasta el 6 de enero. La cena principal es la ***julemiddag*** del 24, no del 25. Y hay un detalle único: muchas familias dejan un cuenco de gachas (***julegrøt***) para el ***fjøsnisse***, un duendecillo del granero que protege la casa si lo tratas bien.
+
+<img src="L2-numeros-y-tiempo/img/duende.jpeg" alt="Fjøsnisse" style="max-width: 300px;">
  
 **🌒 *Mørketid* — La temporada oscura (noviembre a enero)**
  
 En el norte de Noruega (por encima del Círculo Polar Ártico, ciudades como **Tromsø**), el sol **no sale durante semanas** entre noviembre y enero. Es lo que se llama ***mørketid*** ("tiempo oscuro"). En Tromsø, el sol desaparece sobre el 27 de noviembre y vuelve sobre el 15 de enero — casi dos meses sin luz directa. La compensación: las **auroras boreales** son espectaculares. La cultura noruega del invierno (velas, *koselig*, esquí, sauna...) se entiende mejor cuando sabes que **el sol no es un dado**.
+
+<img src="L2-numeros-y-tiempo/img/morketid.jpeg" alt="Mørketid" style="max-width: 300px;">
  
 ### Mientras lees, fija tres ideas
  
@@ -171,9 +188,9 @@ El cuestionario tiene 10 preguntas de tres tipos:
 
 Responde todas las preguntas y pulsa Enviar respuestas al final para ver tu puntuación y la explicación de cada pregunta.
 
-➡️ **Abrir el cuestionario interactivo**: [Quiz de números noruegos](quiz-numeros/index.html ':ignore')
- 
-> 📌 **Nota técnica**: el cuestionario también está disponible en formato **IMS QTI 1.2**, un estándar interoperable que cualquier plataforma educativa (Moodle, Canvas, Blackboard…) puede importar. Puedes [descargar el paquete QTI](quiz-numeros.qti.zip ':ignore') o la [clave de corrección en PDF](quiz-numeros-clave.pdf ':ignore') si lo prefieres en papel.
+➡️ **Abrir el cuestionario interactivo**: <a href="/curso-noruego/L2-numeros-y-tiempo/quiz-numeros/" target="_blank" rel="noopener" data-no-routing>Quiz de números noruegos</a>
+
+> 📌 **Nota técnica**: el cuestionario también está disponible en formato **IMS QTI 1.2**, un estándar interoperable que cualquier plataforma educativa (Moodle, Canvas, Blackboard…) puede importar. Puedes <a href="/curso-noruego/L2-numeros-y-tiempo/quiz-numeros.qti.zip" download data-no-routing>descargar el paquete QTI</a> o la <a href="/curso-noruego/L2-numeros-y-tiempo/quiz-numeros-clave.pdf" download data-no-routing>clave de corrección en PDF</a> si lo prefieres en papel.
 
 ---
  
@@ -241,7 +258,6 @@ Mira estas palabras noruegas. Identifica si tienen cognado en inglés (y cuál e
 4. *uke* → **week** (cognado un poco más lejano, pero misma raíz germánica: *uke*/*Woche*/*week*)
 5. *år* → **year** (cognado: *år*/*year*/alemán *Jahr*)
 </details>
-> 💡 **Si has fallado más de la mitad de un ejercicio**: vuelve a las tablas de la lectura y repásalas. Especialmente la de números compuestos (21-99), que es la que más cuesta.
  
 ---
  
@@ -263,8 +279,8 @@ Este anexo es una **lectura larga opcional pero recomendable**: un recorrido vis
  
 - **En móvil**: descarga el archivo y ábrelo con cualquier app de lectura EPUB (Google Play Libros, Apple Libros, Moon+ Reader, Lithium...).
 - **En ordenador**: usa Calibre, Adobe Digital Editions o Thorium.
-➡️ **Descargar el anexo EPUB**: [det-norske-aret.epub](det-norske-aret.epub ':ignore')
- 
+➡️ **Descargar el anexo EPUB**: <a href="/curso-noruego/L2-numeros-y-tiempo/det-norske-aret.epub" download data-no-routing>det-norske-aret.epub</a>
+
 ---
  
 ## 💭 Reflexión: tu propio calendario
@@ -295,6 +311,12 @@ Si has llegado hasta aquí, ya sabes:
 - ✅ Por qué *17. mai*, *jul* y *mørketid* son culturalmente irrenunciables.
 En la próxima lección sales del calendario y entras en el mapa: vas a aprender a moverte por Noruega, las preposiciones que te van a salvar la vida (*i*, *på*, *til*) y una narrativa interactiva donde tú eliges la ruta de tu propio viaje.
  
+---
+
+➡️ **Continuar a [L3 · *Hvor er du?* — Lugares y orientación](/L3-lugares-y-orientacion/)**
+
+⬅️ Volver a [la portada del curso](/)
+
 ---
  
 ## Fuentes y créditos de esta lección
