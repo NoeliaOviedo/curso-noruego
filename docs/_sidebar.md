@@ -17,6 +17,8 @@
   - [**L5** · *Mytologi* — Mitología y relatos](L5-mitologia/)
     - [📖 Leer *Tre fortellinger* online](/curso-noruego/L5-mitologia/tre-fortellinger/ ':ignore :target=_blank')
     - [📚 Descargar EPUB](/curso-noruego/L5-mitologia/tre-fortellinger-fra-norden.epub ':ignore :target=_blank')
+    - - **Documentación del proyecto**
+  - [📋 Autoevaluación UNE 71362](/curso-noruego/documentacion/autoevaluacion-une-71362.pdf ':ignore :target=_blank')
 - **Sobre este curso**
   - [Licencia: CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
   - [Repositorio en GitHub](https://github.com/NoeliaOviedo/curso-noruego)
