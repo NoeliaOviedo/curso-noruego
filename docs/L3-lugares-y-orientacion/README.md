@@ -1,4 +1,4 @@
-![Banner de portada del curso](assets/img/portada.png)
+![Banner de portada del curso](../img/portada.png)
 
 # L3 · *Hvor er du?* — Moverte por Noruega sin perderte
 **Tiempo estimado: 35 minutos**

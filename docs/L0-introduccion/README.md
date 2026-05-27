@@ -1,4 +1,4 @@
-![Banner de portada del curso](assets/img/portada.png)
+![Banner de portada del curso](../img/portada.png)
 
 # L0 · ¿Por qué noruego? Lo que necesitas saber antes de empezar
 **Tiempo estimado: 15 minutos**
