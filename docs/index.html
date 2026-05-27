@@ -260,35 +260,43 @@
     }
 
     /* === COVERPAGE PERSONALIZADA === */
+
 section.cover.show {
-  background: 
+  background:
     linear-gradient(rgba(26, 58, 92, 0.55), rgba(26, 58, 92, 0.75)),
     url('assets/img/coverpage-bg.jpg') center/cover no-repeat !important;
   background-size: cover !important;
 }
 
-section.cover h1,
-section.cover h1 a,
-section.cover blockquote,
-section.cover blockquote p,
-section.cover ul,
-section.cover ul li {
-  color: #fafbfc !important;
+section.cover .cover-main {
+  text-align: center;
 }
 
 section.cover h1 {
   font-family: var(--font-heading);
   font-size: 4em;
-  font-weight: 900;
+  font-weight: 700;
   letter-spacing: -0.02em;
   color: #ffffff !important;
   -webkit-text-stroke: 2px #000000;
   paint-order: stroke fill;
+  text-align: center;
+  margin-bottom: 0.2em;
+}
+
+section.cover h1 a {
+  color: #ffffff !important;
+  text-decoration: none;
 }
 
 section.cover h1 small {
-  color: var(--color-accent) !important;
+  display: block;
+  font-size: 0.35em;
   font-weight: 500;
+  color: var(--color-accent) !important;
+  -webkit-text-stroke: 0;
+  margin-top: 0.3em;
+  letter-spacing: 0.05em;
 }
 
 section.cover blockquote {
@@ -297,47 +305,57 @@ section.cover blockquote {
   font-family: var(--font-body);
   font-size: 1.3em;
   font-style: italic;
+  color: #fafbfc !important;
+  text-align: center;
+}
+
+section.cover blockquote p {
+  color: #fafbfc !important;
 }
 
 section.cover ul {
   list-style: none;
   padding: 0;
+  text-align: center;
 }
 
 section.cover ul li {
   font-family: var(--font-heading);
   font-size: 1.05em;
   margin-bottom: 0.8em;
+  color: #fafbfc !important;
 }
 
 section.cover .cover-main > p:last-child a {
   font-family: var(--font-heading);
-  font-weight: 500;
+  font-weight: 600;
   border-radius: 6px;
   padding: 12px 28px;
+  margin: 6px;
   transition: all 0.2s;
+  display: inline-block;
 }
 
 section.cover .cover-main > p:last-child a:first-child {
-  background: transparent;
-  color: #fafbfc !important;
-  border: 2px solid #fafbfc;
+  background: transparent !important;
+  color: #ffffff !important;
+  border: 2px solid #ffffff !important;
 }
 
 section.cover .cover-main > p:last-child a:first-child:hover {
-  background: #fafbfc;
+  background: #ffffff !important;
   color: var(--color-primary) !important;
 }
 
 section.cover .cover-main > p:last-child a:last-child {
-  background: var(--color-accent);
-  color: #fafbfc !important;
-  border: 2px solid var(--color-accent);
+  background: var(--color-accent) !important;
+  color: #ffffff !important;
+  border: 2px solid var(--color-accent) !important;
 }
 
 section.cover .cover-main > p:last-child a:last-child:hover {
-  background: var(--color-primary);
-  border-color: var(--color-primary);
+  background: var(--color-primary) !important;
+  border-color: var(--color-primary) !important;
 }
   </style>
 </head>
