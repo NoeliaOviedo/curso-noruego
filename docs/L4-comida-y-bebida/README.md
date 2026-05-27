@@ -90,12 +90,14 @@ Equivale al inglés *I'd like to have…*. Es la fórmula más segura si estás 
 A primera vista parece un queso marrón claro, casi color caramelo. En realidad **no es queso** en sentido estricto: es suero de leche caramelizado durante horas hasta que se solidifica. Sabe dulce-salado, con un punto a regaliz, y se corta con una cuchilla especial (***ostehøvel***) en lonchas finísimas para poner encima de pan o gofres. **Está considerado patrimonio gastronómico nacional**: en 2018 fue nombrado oficialmente "alimento iconic" por el gobierno noruego.
 
 <img src="L4-comida-y-bebida/img/queso.jpg" alt="Brunost" style="max-width: 300px;">
- 
+
+
 **2. *Kanelbolle* — El bollo de canela**
- 
+
 Es **el dulce de cafetería por excelencia** en toda Escandinavia. Masa esponjosa con canela y azúcar dentro, a veces con cardamomo y a veces con glaseado. Lo encuentras en cualquier panadería noruega y es lo que pides cuando hace frío y quieres acompañar un café.
 
 <img src="L4-comida-y-bebida/img/canela.jpeg" alt="Kanelbolle" style="max-width: 300px;">
+
 
 **3. *Matpakke* — La fiambrera escolar**
 
@@ -103,11 +105,13 @@ No es un plato, es un **concepto cultural**: la fiambrera de pan que casi todo n
 
 <img src="L4-comida-y-bebida/img/fiambrera.jpg" alt="Matpakke" style="max-width: 300px;">
 
+
 **4. *Lefse* — La torta blanda de patata**
 
 Una especie de tortita de patata cocida y enrollada con mantequilla, azúcar y canela. Tradicional, sencilla, y otra vez muy ligada a la idea de comida casera sin pretensiones.
 
 <img src="L4-comida-y-bebida/img/lefse.jpg" alt="Lefse" style="max-width: 300px;">
+
 
 **5. *Ribbe* — La cena de Navidad**
 
