@@ -12,8 +12,8 @@
   - [**L3** · *Hvor er du?* — Lugares y orientación](L3-lugares-y-orientacion/)
     - [🎮 Narrativa Twine: *Reisen din*](/curso-noruego/L3-lugares-y-orientacion/twine/ ':ignore :target=_blank')
   - [**L4** · *Mat og drikke* — Comida y bebida](L4-comida-y-bebida/)
-    - [📝 Cuadernillo PDF](L4-comida-y-bebida/ejercicios.pdf)
-    - [✅ Quiz interactivo: comida](L4-comida-y-bebida/quiz-comida/)
+    - [📝 Cuadernillo PDF](/curso-noruego/L4-comida-y-bebida/ejercicios-mat-og-drikke.pdf ':ignore :target=_blank')
+    - [✅ Quiz interactivo: comida](/curso-noruego/L4-comida-y-bebida/quiz-comida/ ':ignore :target=_blank')
   - [**L5** · *Mytologi* — Mitología y relatos](L5-mitologia-y-relatos/)
     - [📚 EPUB: *Tre fortellinger fra Norden*](L5-mitologia-y-relatos/mitologia.epub)
 - **Sobre este curso**

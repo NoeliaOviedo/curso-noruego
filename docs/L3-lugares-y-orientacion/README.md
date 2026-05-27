@@ -14,8 +14,9 @@ Al terminar esta lección, serás capaz de:
 - **Reconocer las principales regiones y ciudades de Noruega** y lo que las hace distintas.
 - **Manejar vocabulario básico urbano**: calle, plaza, estación, museo, hotel.
 - **Decidir entre *i* y *på* delante de un nombre de ciudad** (porque sí, importa).
+
 Esta lección tiene cinco actividades:
- 
+
 - 📖 Lectura guiada: preposiciones, ciudades y direcciones (15 min)
 - 🎮 Narrativa Twine: *Reisen din* — tu propio viaje por Noruega (15 min)
 - 🧩 Empareja lugares con descripciones (3 min)
@@ -164,14 +165,11 @@ Aterrizas en **Oslo, lunes por la mañana**. Tienes siete días por delante y la
 ### Antes de empezar
  
 > 💡 **Sugerencia**: ten a mano un mapa de Noruega (Google Maps vale) y, cuando elijas una parada, búscala. Aprender vocabulario geográfico **mientras ves dónde está cada cosa** te lo fija mucho mejor que leerlo solo.
- 
-> 🎯 **Tres ramas recomendadas para una primera partida**:
-> - **La ruta clásica**: Oslo → Bergen → Sognefjord → vuelta a Oslo. Lo que haría un turista medio.
-> - **La ruta polar**: Oslo → Bodø → Lofoten → Tromsø. Vas al norte y rompes con los tópicos.
-> - **La ruta urbana**: Oslo → Trondheim → Bergen → Stavanger. Conoces las cuatro ciudades grandes.
- 
+
+
 ➡️ **Abrir la narrativa**: <a href="/curso-noruego/L3-lugares-y-orientacion/twine/" target="_blank" rel="noopener" data-no-routing>Reisen din — Tu viaje por Noruega</a>
- 
+
+
 Cuando acabes, vuelve aquí para las dos últimas actividades.
  
 ---

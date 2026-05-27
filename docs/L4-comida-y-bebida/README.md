@@ -12,14 +12,18 @@ Al terminar esta lección, serás capaz de:
 - **Leer un menú sencillo** de una *kafé* noruega.
 - **Reconocer** los alimentos típicos noruegos más icónicos.
 - **Explicar** qué son el *koselig* y el *matpakke* y por qué importan culturalmente.
+
 Esta lección tiene cinco actividades:
- 
+
 - 📖 Lectura guiada: pedir comida y vocabulario básico (10 min)
 - ✅ Cuestionario interactivo: comida y bebidas (4 min)
 - 📝 Cuadernillo PDF: 15 ejercicios para imprimir (10 min)
 - ✏️ Mini-ejercicios de autocorrección (4 min)
 - 💭 Reflexión: tu propio *matpakke* (6 min)
-Hazlas en orden. ¿Listo? *Vi setter i gang!*
+
+Hazlas en orden. ¿Listo? 
+
+*Vi setter i gang!*
  
 ---
  
@@ -29,7 +33,7 @@ Hazlas en orden. ¿Listo? *Vi setter i gang!*
  
 ### Antes de leer
  
-Si entras en una cafetería en España, lo natural es decir "ponme un café" o "me das un café, por favor". En Noruega, la fórmula equivalente está a medio camino entre el ruego educado y el "lo quiero ya". Y hay un matiz importante: **un noruego diciendo *jeg vil ha kaffe* puede sonar brusco para un hispanohablante**, pero no lo es. La cultura noruega es directa sin ser maleducada. Acostúmbrate.
+Si entras en una cafetería en España, lo natural es decir "ponme un café" o "me das un café, por favor". En Noruega, la fórmula equivalente está a medio camino entre el ruego educado y el "lo quiero ya". Y hay un matiz importante: **un noruego diciendo *jeg vil ha kaffe* puede sonar brusco para un hispanohablante**, pero no lo es. La cultura noruega es directa sin ser maleducada.
  
 ### Las dos fórmulas para pedir
  
@@ -84,22 +88,32 @@ Equivale al inglés *I'd like to have…*. Es la fórmula más segura si estás 
 **1. *Brunost* — El "queso" marrón**
  
 A primera vista parece un queso marrón claro, casi color caramelo. En realidad **no es queso** en sentido estricto: es suero de leche caramelizado durante horas hasta que se solidifica. Sabe dulce-salado, con un punto a regaliz, y se corta con una cuchilla especial (***ostehøvel***) en lonchas finísimas para poner encima de pan o gofres. **Está considerado patrimonio gastronómico nacional**: en 2018 fue nombrado oficialmente "alimento iconic" por el gobierno noruego.
+
+<img src="L4-comida-y-bebida/img/queso.jpg" alt="Brunost" style="max-width: 300px;">
  
 **2. *Kanelbolle* — El bollo de canela**
  
 Es **el dulce de cafetería por excelencia** en toda Escandinavia. Masa esponjosa con canela y azúcar dentro, a veces con cardamomo y a veces con glaseado. Lo encuentras en cualquier panadería noruega y es lo que pides cuando hace frío y quieres acompañar un café.
+
+<img src="L4-comida-y-bebida/img/canela.jpg" alt="Kanelbolle" style="max-width: 300px;">
  
 **3. *Matpakke* — La fiambrera escolar**
  
 No es un plato, es un **concepto cultural**: la fiambrera de pan que casi todo niño noruego se lleva a la escuela. Suele ser **rebanadas de pan integral con queso, jamón, salami o *brunost***, envueltas en papel encerado. Aparece como tema literario, en chistes y hasta en estudios sociológicos: la *matpakke* es **una de las cosas que separa la infancia noruega de cualquier otra**. Es austera, eficiente y sin lujos — muy noruega.
+
+<img src="L4-comida-y-bebida/img/fiambrera.jpg" alt="Matpakke" style="max-width: 300px;">
  
 **4. *Lefse* — La torta blanda de patata**
  
 Una especie de tortita de patata cocida y enrollada con mantequilla, azúcar y canela. Tradicional, sencilla, y otra vez muy ligada a la idea de comida casera sin pretensiones.
+
+<img src="L4-comida-y-bebida/img/lefse.jpg" alt="Lefse" style="max-width: 300px;">
  
 **5. *Ribbe* — La cena de Navidad**
  
 Panza de cerdo asada con corteza crujiente. Es el plato típico del ***julemiddag*** (cena de Nochebuena) en la mitad del país. La otra mitad come ***pinnekjøtt*** (costillas saladas de cordero). Vale como conversación cultural: si conoces a un noruego en Navidad, pregúntale *"ribbe eller pinnekjøtt?"* y vas a tener tema para 20 minutos.
+
+<img src="L4-comida-y-bebida/img/ribbe.jpg" alt="Ribbe" style="max-width: 300px;">
  
 ### *Koselig*: la palabra que define media cultura noruega
  
@@ -129,9 +143,9 @@ Diez preguntas para comprobar que reconoces el vocabulario básico de comida y b
 - **Leer un menú** y elegir qué pedirías para X situación.
 - **Completar una petición**: encajar la fórmula *jeg vil ha…* con los huecos correctos.
 Responde todas y pulsa **Enviar respuestas** al final para ver tu puntuación y la explicación de cada pregunta.
- 
-➡️ **Abrir el cuestionario interactivo**: [Quiz de comida y bebida](quiz-comida/index.html ':ignore')
- 
+
+➡️ **Abrir el cuestionario interactivo**: <a href="/curso-noruego/L4-comida-y-bebida/quiz-comida/" target="_blank" rel="noopener" data-no-routing>Quiz de comida y bebida</a>
+
 ---
  
 ## 📝 Cuadernillo PDF: 15 ejercicios para imprimir
@@ -147,19 +161,20 @@ Un cuadernillo descargable e imprimible con **15 ejercicios variados** sobre tod
 - **3 ejercicios de producción**: escribe en noruego cómo pedirías ciertas cosas.
 - **2 ejercicios culturales**: identifica los platos típicos por su descripción.
 Al final del cuadernillo viene la **clave de respuestas** completa para que puedas autocorregirte.
- 
-➡️ **Descargar el cuadernillo**: [ejercicios-mat-og-drikke.pdf](ejercicios-mat-og-drikke.pdf ':ignore')
- 
-> 💡 **¿Por qué imprimirlo?** Hay evidencia de que **escribir a mano fija el vocabulario** mejor que teclearlo, especialmente al principio del aprendizaje de una lengua. Si tienes acceso a una impresora, imprime el cuadernillo y rellénalo con boli. Si no, igual de válido: trabájalo en una libreta aparte.
- 
+
+➡️ **Descargar el cuadernillo**: <a href="/curso-noruego/L4-comida-y-bebida/ejercicios-mat-og-drikke.pdf" download data-no-routing>ejercicios-mat-og-drikke.pdf</a>
+
+
+> 💡 **¿Por qué imprimirlo?** Hay evidencia de que **escribir a mano fija el vocabulario** mejor que teclearlo, especialmente al principio del aprendizaje de una lengua. Si tienes acceso a una impresora, imprime el cuadernillo y rellénalo con boli.
+
 ---
- 
+
 ## ✏️ Mini-ejercicios: comprueba lo que has aprendido
  
 **Tiempo estimado: 4 minutos**
  
 Estos ejercicios son **de autocorrección rápida**: las respuestas están al final, justo debajo. Resuelve primero todo lo que puedas sin mirar, y solo después comprueba.
- 
+
 ### Ejercicio 1 — Pedir en una cafetería
  
 Traduce al noruego (con la fórmula educada *jeg vil gjerne ha…*):
@@ -168,6 +183,7 @@ Traduce al noruego (con la fórmula educada *jeg vil gjerne ha…*):
 2. Querría una taza de té. → ______________________
 3. Querría un vaso de agua. → ______________________
 4. Querría un bollo de canela. → ______________________
+
 ### Ejercicio 2 — Vocabulario rápido
  
 ¿Qué significa cada palabra?
@@ -178,6 +194,7 @@ Traduce al noruego (con la fórmula educada *jeg vil gjerne ha…*):
 4. *melk* → ______________________
 5. *eple* → ______________________
 6. *kjøtt* → ______________________
+
 ### Ejercicio 3 — Cinco platos noruegos
  
 Empareja cada palabra con su descripción correcta:
@@ -189,7 +206,7 @@ Empareja cada palabra con su descripción correcta:
 | 3. *matpakke* | c. Panza de cerdo asada, plato de Nochebuena |
 | 4. *ribbe* | d. "Queso" marrón hecho con suero caramelizado |
 | 5. *lefse* | e. Tortita de patata enrollada con mantequilla y canela |
- 
+
 ### Ejercicio 4 — ¿Es *koselig* o no?
  
 Marca cada situación como *koselig* (✓) o no (✗):
@@ -230,34 +247,25 @@ Marca cada situación como *koselig* (✓) o no (✗):
 5. ✓ — Calma, calor y luz baja: *koselig* en solitario.
 </details>
 > 💡 **Si has fallado el ejercicio 4**: revisa el apartado sobre *koselig*. La clave no es solo "estar a gusto", sino la combinación específica de **calor + luz baja + calma + (a veces) compañía**. Sin esos elementos, no es *koselig*: es solo "estar bien".
- 
+
 ---
- 
+
 ## 💭 Reflexión: tu propio *matpakke*
- 
+
 **Tiempo estimado: 6 minutos**
- 
+
 Una actividad creativa para cerrar la lección. Vas a inventarte tu propio *matpakke* —tu fiambrera escolar al estilo noruego— y describirlo en noruego.
- 
+
 ### Instrucciones
  
 Imagina que mañana llevas un *matpakke* al instituto. Decide qué pones dentro y descríbelo en noruego usando esta plantilla:
  
 > *I matpakka mi har jeg ... (lista de cosas).*
 > *Jeg liker ... (qué te gusta más).*
- 
-### Ejemplo resuelto
- 
-> *I matpakka mi har jeg to brødskiver med ost, en eple og en flaske vann.*
-> *Jeg liker ost veldig mye.*
->
-> En mi fiambrera tengo dos rebanadas de pan con queso, una manzana y una botella de agua. Me gusta mucho el queso.
- 
+
 ### Bonus: la reflexión cultural
  
 Compara tu *matpakke* con lo que **realmente llevarías al instituto** en España (o en tu país). ¿Qué cambiarías? ¿Hay algún elemento del *matpakke* noruego que te gustaría adoptar?
- 
-Esta actividad no se evalúa. Sirve para **anclar el vocabulario en algo tuyo**: tu fiambrera imaginaria, hecha con tus alimentos preferidos, se memoriza muchísimo mejor que una lista de palabras sueltas.
  
 ---
  
@@ -271,6 +279,12 @@ Si has llegado hasta aquí, ya sabes:
 - ✅ Qué significa ***koselig*** y por qué importa más que cualquier otra palabra que aprendas en este curso.
 En la próxima lección sales de la cafetería y entras en el ámbito doméstico: vas a hablar de **familia, aficiones y *friluftsliv*** (la filosofía noruega del aire libre).
  
+---
+
+➡️ **Continuar a [L5 · *Mytologi* — Mitología (/L5-mitologia/)**
+
+⬅️ Volver a [la portada del curso](/)
+
 ---
  
 ## Fuentes y créditos de esta lección
