@@ -31,4 +31,8 @@ Copyright © 2025-2026 Noelia Oviedo Marín
 This license applies to all content in this repository (text, exercises, narratives, presentations, EPUBs, PDFs, and other educational materials), with the exception of:
 
 - Third-party resources that retain their original license (where attributed).
+<<<<<<< HEAD
 - Software libraries used (Docsify, Ren'Py, Twine, etc.), which retain their respective open-source licenses.
+=======
+- Software libraries used (Docsify, Ren'Py, Twine, etc.), which retain their respective open-source licenses.
+>>>>>>> 24a4f8e63594f86fe27b60e4f47b0a6479af5901
