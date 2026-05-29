@@ -35,8 +35,8 @@ En aproximadamente **3 horas repartidas en sesiones cortas**, el curso lleva del
 
 - **Reconocer** las letras especiales del noruego (æ, ø, å) y pronunciarlas correctamente.
 - **Comprender** mensajes cortos, presentaciones personales, números, fechas, direcciones y vocabulario básico de comida y entorno.
-- **Producir** expresiones cotidianas para identificarte, indicar tu procedencia, hablar de tus gustos y desenvolverte en situaciones como pedir en una cafetería o preguntar por una dirección.
-- **Leer** microtextos adaptados sobre mitología nórdica y tradiciones noruegas con la ayuda de un glosario.
+- **Producir** expresiones cotidianas para indicar tu procedencia, hablar de tus gustos y desenvolverte en situaciones como pedir en una cafetería o preguntar por una dirección.
+- **Leer** microtextos adaptados sobre mitología nórdica y tradiciones noruegas con la ayuda de una traducción.
 - **Identificar** los referentes culturales nórdicos presentes en series, música y videojuegos.
 
 El curso no pretende formar hablantes fluidos, sino proporcionar una base sólida desde la cual continuar el aprendizaje de forma autónoma.

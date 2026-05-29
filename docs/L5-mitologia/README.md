@@ -10,7 +10,6 @@ Los textos no son cualquier cosa: son tres microcuentos sobre los **dioses de la
 Al terminar esta lección, serás capaz de:
 
 - **Leer un microtexto en noruego A1** y entender la idea general sin traducción directa.
-- **Usar un glosario noruego-español** para resolver palabras nuevas.
 - **Reconocer a los principales dioses nórdicos** y los símbolos asociados a cada uno.
 - **Conectar la mitología nórdica** con elementos culturales que ya conocías (días de la semana, *God of War*, *Vikings*, Marvel...).
 - **Auto-evaluar** tu progreso del curso completo de forma honesta.
